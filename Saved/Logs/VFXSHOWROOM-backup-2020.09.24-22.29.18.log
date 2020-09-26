@@ -1,0 +1,1610 @@
+﻿Log file open, 09/24/20 22:36:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VFXSHOWROOM
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.101017
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BlueprintJson
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.24-19.36.36:357][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.24-19.36.36:357][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.24-19.36.36:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2020.09.24-19.36.36:357][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.24-19.36.36:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2020.09.24-19.36.36:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2020.09.24-19.36.36:357][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.24-19.36.36:357][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.24-19.36.36:357][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.24-19.36.36:357][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.24-19.36.36:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.24-19.36.36:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.24-19.36.36:357][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.24-19.36.36:357][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.24-19.36.36:358][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2020.09.24-19.36.36:358][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2020.09.24-19.36.36:362][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.24-19.36.36:362][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.24-19.36.36:363][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.24-19.36.36:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.24-19.36.36:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.24-19.36.36:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.24-19.36.36:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.24-19.36.36:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.24-19.36.36:365][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:365][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.24-19.36.36:365][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.24-19.36.36:365][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:365][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.24-19.36.36:365][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.24-19.36.36:365][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.24-19.36.36:365][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.24-19.36.36:365][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.24-19.36.36:368][  0]LogHAL: Display: Platform has ~ 16 GB [17039900672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.24-19.36.36:368][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.24-19.36.36:368][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.24-19.36.36:369][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.24-19.36.36:370][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.24-19.36.36:371][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.24-19.36.36:372][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:372][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.09.24-19.36.36:372][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.09.24-19.36.36:372][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2020.09.24-19.36.36:372][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.24-19.36.36:372][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.24-19.36.36:372][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.24-19.36.36:372][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.24-19.36.36:372][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.24-19.36.36:372][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.24-19.36.36:372][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2020.09.24-19.36.36:372][  0]LogInit: Computer: PYRATHGAMINGPC
+[2020.09.24-19.36.36:372][  0]LogInit: User: Gameolic3
+[2020.09.24-19.36.36:372][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.24-19.36.36:372][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.24-19.36.36:372][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.09.24-19.36.36:372][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.24-19.36.36:373][  0]LogMemory: Process Physical Memory: 105.48 MB used, 105.48 MB peak
+[2020.09.24-19.36.36:373][  0]LogMemory: Process Virtual Memory: 100.71 MB used, 100.72 MB peak
+[2020.09.24-19.36.36:373][  0]LogMemory: Physical Memory: 3761.24 MB used,  12489.27 MB free, 16250.52 MB total
+[2020.09.24-19.36.36:373][  0]LogMemory: Virtual Memory: 5103.30 MB used,  134212624.00 MB free, 134217728.00 MB total
+[2020.09.24-19.36.36:378][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.24-19.36.36:433][  0]LogInit: Using OS detected language (en-US).
+[2020.09.24-19.36.36:433][  0]LogInit: Using OS detected locale (en-US).
+[2020.09.24-19.36.36:434][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.09.24-19.36.36:603][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.24-19.36.36:642][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.24-19.36.36:642][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.24-19.36.36:912][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.24-19.36.36:912][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.24-19.36.36:912][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.24-19.36.36:913][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.24-19.36.36:994][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2020.09.24-19.36.36:994][  0]LogD3D11RHI:       2010/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.09.24-19.36.37:004][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.09.24-19.36.37:004][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.09.24-19.36.37:007][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.24-19.36.37:007][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.24-19.36.37:007][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.24-19.36.37:013][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.24-19.36.37:013][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2020.09.24-19.36.37:013][  0]LogWindows: EnumDisplayDevices:
+[2020.09.24-19.36.37:014][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.09.24-19.36.37:014][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.09.24-19.36.37:015][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.09.24-19.36.37:015][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.09.24-19.36.37:015][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2020.09.24-19.36.37:015][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.09.24-19.36.37:015][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.09.24-19.36.37:015][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.09.24-19.36.37:063][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.09.24-19.36.37:064][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.24-19.36.37:077][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.24-19.36.37:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.24-19.36.37:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.24-19.36.37:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.24-19.36.37:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.24-19.36.37:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.24-19.36.37:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.24-19.36.37:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.24-19.36.37:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.24-19.36.37:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.24-19.36.37:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.24-19.36.37:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.24-19.36.37:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.24-19.36.37:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.24-19.36.37:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.24-19.36.37:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.24-19.36.37:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.24-19.36.37:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.24-19.36.37:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.24-19.36.37:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.24-19.36.37:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.24-19.36.37:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.24-19.36.37:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.24-19.36.37:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.24-19.36.37:619][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.24-19.36.37:623][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.24-19.36.37:648][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (D:/_DATA/Unreal Projects/VFXShowRoom/Intermediate/Shaders/WorkingDirectory/3128/).
+[2020.09.24-19.36.37:648][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gameolic3/AppData/Local/Temp/UnrealShaderWorkingDir/EC7708A84A551AFAB5A398BD14E78962/'.
+[2020.09.24-19.36.37:649][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.24-19.36.37:649][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.24-19.36.37:649][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.24-19.36.38:449][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.24-19.36.38:510][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Gameolic3/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.24-19.36.38:510][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gameolic3/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.09.24-19.36.38:510][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/_DATA/Unreal Projects/VFXShowRoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.24-19.36.38:510][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.24-19.36.38:510][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/_DATA/Unreal Projects/VFXShowRoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.24-19.36.38:510][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.24-19.36.38:522][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.24-19.36.38:522][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.24-19.36.38:522][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.24-19.36.38:523][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gameolic3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.24-19.36.38:523][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.24-19.36.38:523][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.24-19.36.38:555][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.24-19.36.38:560][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.24-19.36.38:561][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.24-19.36.38:636][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2020.09.24-19.36.38:959][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.24-19.36.39:130][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.24-19.36.39:130][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.24-19.36.39:130][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.24-19.36.39:130][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.24-19.36.39:130][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.24-19.36.39:145][  0]LogNetVersion: VFXSHOWROOM 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3410049785)
+[2020.09.24-19.36.40:342][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.042737 seconds
+[2020.09.24-19.36.40:349][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.09.24-19.36.40:349][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.09.24-19.36.40:349][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.24-19.36.40:824][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.24-19.36.40:827][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.24-19.36.40:877][  0]SourceControl: Source control is disabled
+[2020.09.24-19.36.40:877][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.09.24-19.36.40:877][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.09.24-19.36.40:878][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.09.24-19.36.40:878][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.09.24-19.36.40:879][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.09.24-19.36.40:879][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.09.24-19.36.40:880][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.09.24-19.36.40:880][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.09.24-19.36.40:960][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.24-19.36.40:970][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.24-19.36.40:971][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.24-19.36.41:057][  0]LogOcInput: OculusInput pre-init called
+[2020.09.24-19.36.41:065][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.24-19.36.41:065][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.24-19.36.41:134][  0]LogEngine: Initializing Engine...
+[2020.09.24-19.36.41:135][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.24-19.36.41:136][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.24-19.36.41:481][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.24-19.36.41:488][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.24-19.36.41:512][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.24-19.36.41:512][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.24-19.36.41:512][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.24-19.36.41:512][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.24-19.36.41:512][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.24-19.36.41:512][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.24-19.36.41:512][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.24-19.36.41:512][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.24-19.36.41:512][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.24-19.36.41:512][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.24-19.36.41:536][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.24-19.36.41:536][  0]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.36.41:536][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.09.24-19.36.41:536][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.24-19.36.41:536][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.24-19.36.41:536][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.24-19.36.41:536][  0]LogAudioMixer: Display: Channel Order:
+[2020.09.24-19.36.41:536][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.24-19.36.41:536][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.24-19.36.41:882][  0]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.36.41:887][  0]LogInit: FAudioDevice initialized.
+[2020.09.24-19.36.41:887][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.24-19.36.42:109][  0]LogDerivedDataCache: Saved boot cache 0.22s 78MB C:/Users/Gameolic3/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.24-19.36.42:109][  0]LogInit: Texture streaming: Enabled
+[2020.09.24-19.36.42:122][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.24-19.36.42:122][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.24-19.36.42:132][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.24-19.36.42:167][  0]LogInit: Transaction tracking system initialized
+[2020.09.24-19.36.42:177][  0]BlueprintLog: New page: Editor Load
+[2020.09.24-19.36.42:206][  0]LocalizationService: Localization service is disabled
+[2020.09.24-19.36.42:548][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.24-19.36.42:549][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.24-19.36.43:348][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/' took 0.14s
+[2020.09.24-19.36.43:383][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.09.24-19.36.43:383][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.09.24-19.36.43:383][  0]Cmd: MAP LOAD FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.24-19.36.43:455][  0]LightingResults: New page: Lighting Build
+[2020.09.24-19.36.43:456][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-19.36.43:456][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.36.43:456][  0]MapCheck: New page: Map Check
+[2020.09.24-19.36.43:456][  0]LightingResults: New page: Lighting Build
+[2020.09.24-19.36.43:487][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.09.24-19.36.47:878][  0]LogAIModule: Creating AISystem for world Map02_DurendalUltimate
+[2020.09.24-19.36.47:895][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.24-19.36.47:929][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.09.24-19.36.47:930][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.24-19.36.47:931][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2020.09.24-19.36.47:931][  0]LogFileHelpers: Loading map 'Map02_DurendalUltimate' took 4.547
+[2020.09.24-19.36.48:188][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.36.48:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.36.48:204][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.36.48:211][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.36.48:246][  0]LogCollectionManager: Loaded 0 collections in 0.004233 seconds
+[2020.09.24-19.36.48:258][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Collections/' took 0.00s
+[2020.09.24-19.36.48:259][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/Developers/Gameolic3/Collections/' took 0.00s
+[2020.09.24-19.36.48:259][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/Collections/' took 0.00s
+[2020.09.24-19.36.48:259][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 3016 classes and 720 folders.
+[2020.09.24-19.36.48:261][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.24-19.36.49:885][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.24-19.36.49:921][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.09.24-19.36.50:146][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.09.24-19.36.50:192][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.24-19.36.50:192][  0]LogLoad: (Engine Initialization) Total time: 16.52 seconds
+[2020.09.24-19.36.50:192][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.24-19.36.50:273][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.09.24-19.36.50:275][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.24-19.36.50:277][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.24-19.36.50:311][  0]LogSlate: Took 0.029243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.24-19.36.50:645][  0]LogRenderer: Reallocating scene render targets to support 792x320 Format 9 NumSamples 1 (Frame:1).
+[2020.09.24-19.36.50:645][  0]LogSlate: Took 0.015158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.24-19.36.50:677][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/' took 0.47s
+[2020.09.24-19.36.50:718][  1]LogAssetRegistry: Asset discovery search completed in 12.0836 seconds
+[2020.09.24-19.36.50:722][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.09.24-19.43.09:376][288]LogRenderer: Reallocating scene render targets to support 1192x520 Format 9 NumSamples 1 (Frame:45288).
+[2020.09.24-19.43.20:571][275]LogSlate: Window 'Source Control Login' being destroyed
+[2020.09.24-19.45.41:698][705]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.24-19.45.41:729][705]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FullCharge.PS_Spear_FullCharge
+[2020.09.24-19.45.41:941][705]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2020.09.24-19.46.00:117][776]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.24-19.46.19:189][943]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.24-19.46.24:847][587]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.24-19.46.26:446][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FullCharge" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FullCharge.uasset" SILENT=true
+[2020.09.24-19.46.26:729][732]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FullCharge2113F0444C5EA00149262A82E940092F.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FullCharge.uasset'
+[2020.09.24-19.46.26:745][732]AssetCheck: New page: Asset Save: PS_Spear_FullCharge
+[2020.09.24-19.46.26:745][732]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FullCharge.PS_Spear_FullCharge
+[2020.09.24-19.46.28:325][897]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.24-19.46.28:337][897]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.46.28:337][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.24-19.46.28:338][897]PIE: New page: PIE session: Map02_DurendalUltimate (Sep 25, 2020, 1:46:28 AM)
+[2020.09.24-19.46.28:339][897]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.24-19.46.28:341][897]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.09.24-19.46.28:341][897]LogPlayLevel: Creating play world package: /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.46.28:348][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007347s)
+[2020.09.24-19.46.28:350][897]LogAIModule: Creating AISystem for world Map02_DurendalUltimate
+[2020.09.24-19.46.28:350][897]LogPlayLevel: PIE: World Init took: (0.001893s)
+[2020.09.24-19.46.28:350][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate to /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate (0.009659s)
+[2020.09.24-19.46.28:380][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.09.24-19.46.28:382][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.24-19.46.28:382][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.24-19.46.28:382][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.24-19.46.28:382][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.24-19.46.28:383][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.24-19.46.28:383][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.24-19.46.28:383][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.24-19.46.28:383][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.24-19.46.28:383][897]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.24-19.46.28:383][897]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.24-19.46.28:397][897]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.24-19.46.28:397][897]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.46.28:397][897]LogAudioMixer: Display: Is Default: Yes
+[2020.09.24-19.46.28:397][897]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.24-19.46.28:397][897]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.24-19.46.28:397][897]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.24-19.46.28:397][897]LogAudioMixer: Display: Channel Order:
+[2020.09.24-19.46.28:398][897]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.24-19.46.28:398][897]LogAudioMixer: Display: 1: FrontRight
+[2020.09.24-19.46.28:519][897]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.46.28:521][897]LogInit: FAudioDevice initialized.
+[2020.09.24-19.46.28:531][897]LogLoad: Game class is 'GameMode'
+[2020.09.24-19.46.28:534][897]LogWorld: Bringing World /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate up for play (max tick rate 0) at 2020.09.24-22.46.28
+[2020.09.24-19.46.28:534][897]LogWorld: Bringing up level for play took: 0.001658
+[2020.09.24-19.46.28:534][897]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.09.24-19.46.28:537][897]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.09.24-19.46.28:537][897]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.46.28:537][897]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.46.28:537][897]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.46.28:538][897]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.46.28:538][897]PIE: Play in editor start time for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate 0.453
+[2020.09.24-19.46.28:539][897]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.46.29:352][961]LogBlueprintUserMessages: [Map02_DurendalUltimate_C_2] Right
+[2020.09.24-19.46.40:811][328]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.46.40:811][328]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.46.40:811][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.46.40:811][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.46.40:811][328]LogWorld: BeginTearingDown for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.46.40:812][328]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.46.40:812][328]LogWorld: UWorld::CleanupWorld for Map02_DurendalUltimate, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-19.46.40:812][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.46.40:820][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.24-19.46.40:820][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.46.40:822][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.46.40:847][328]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.46.40:850][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.46.40:853][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.09.24-19.46.40:927][330]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.09.24-19.46.46:563][776]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-19.48.35:756][960]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.24-19.48.35:768][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.48.35:768][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.24-19.48.35:768][960]PIE: New page: PIE session: Map02_DurendalUltimate (Sep 25, 2020, 1:48:35 AM)
+[2020.09.24-19.48.35:768][960]LogPlayLevel: Creating play world package: /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.48.35:776][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007573s)
+[2020.09.24-19.48.35:777][960]LogAIModule: Creating AISystem for world Map02_DurendalUltimate
+[2020.09.24-19.48.35:777][960]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2020.09.24-19.48.35:778][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate to /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate (0.009311s)
+[2020.09.24-19.48.35:805][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.09.24-19.48.35:807][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.24-19.48.35:807][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.24-19.48.35:807][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.24-19.48.35:807][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.24-19.48.35:807][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.24-19.48.35:807][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.24-19.48.35:807][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.24-19.48.35:807][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.24-19.48.35:807][960]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.24-19.48.35:808][960]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.24-19.48.35:818][960]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.24-19.48.35:818][960]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.48.35:818][960]LogAudioMixer: Display: Is Default: Yes
+[2020.09.24-19.48.35:818][960]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.24-19.48.35:818][960]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.24-19.48.35:818][960]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.24-19.48.35:818][960]LogAudioMixer: Display: Channel Order:
+[2020.09.24-19.48.35:819][960]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.24-19.48.35:819][960]LogAudioMixer: Display: 1: FrontRight
+[2020.09.24-19.48.35:933][960]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.48.35:934][960]LogInit: FAudioDevice initialized.
+[2020.09.24-19.48.35:946][960]LogLoad: Game class is 'GameMode'
+[2020.09.24-19.48.35:949][960]LogWorld: Bringing World /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate up for play (max tick rate 0) at 2020.09.24-22.48.35
+[2020.09.24-19.48.35:949][960]LogWorld: Bringing up level for play took: 0.001701
+[2020.09.24-19.48.35:949][960]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.09.24-19.48.35:951][960]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.48.35:951][960]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.48.35:951][960]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.48.35:952][960]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.48.35:952][960]PIE: Play in editor start time for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate -0.134
+[2020.09.24-19.48.35:952][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.48.37:280][ 87]LogBlueprintUserMessages: [Map02_DurendalUltimate_C_2] Right
+[2020.09.24-19.48.44:552][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.48.44:552][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.48.44:552][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.48.44:552][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.48.44:553][958]LogWorld: BeginTearingDown for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.48.44:553][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.48.44:553][958]LogWorld: UWorld::CleanupWorld for Map02_DurendalUltimate, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-19.48.44:553][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.48.44:565][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.24-19.48.44:565][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.48.44:568][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.48.44:594][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.48.44:598][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.48.44:601][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.09.24-19.48.44:709][960]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.09.24-19.48.57:003][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-19.48.57:050][310]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpactE5D1B508468EBF120A17078AED7BAEA1.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-19.48.57:070][310]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-19.48.57:070][310]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-19.48.59:273][545]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.24-19.48.59:285][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.48.59:285][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.24-19.48.59:285][545]PIE: New page: PIE session: Map02_DurendalUltimate (Sep 25, 2020, 1:48:59 AM)
+[2020.09.24-19.48.59:285][545]LogPlayLevel: Creating play world package: /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.48.59:292][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006794s)
+[2020.09.24-19.48.59:294][545]LogAIModule: Creating AISystem for world Map02_DurendalUltimate
+[2020.09.24-19.48.59:295][545]LogPlayLevel: PIE: World Init took: (0.002046s)
+[2020.09.24-19.48.59:295][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate to /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate (0.009143s)
+[2020.09.24-19.48.59:321][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.09.24-19.48.59:322][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.24-19.48.59:322][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.24-19.48.59:322][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.24-19.48.59:323][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.24-19.48.59:323][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.24-19.48.59:323][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.24-19.48.59:323][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.24-19.48.59:323][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.24-19.48.59:323][545]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.24-19.48.59:323][545]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.24-19.48.59:335][545]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.24-19.48.59:335][545]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.48.59:335][545]LogAudioMixer: Display: Is Default: Yes
+[2020.09.24-19.48.59:335][545]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.24-19.48.59:335][545]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.24-19.48.59:335][545]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.24-19.48.59:335][545]LogAudioMixer: Display: Channel Order:
+[2020.09.24-19.48.59:335][545]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.24-19.48.59:335][545]LogAudioMixer: Display: 1: FrontRight
+[2020.09.24-19.48.59:449][545]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.48.59:451][545]LogInit: FAudioDevice initialized.
+[2020.09.24-19.48.59:464][545]LogLoad: Game class is 'GameMode'
+[2020.09.24-19.48.59:467][545]LogWorld: Bringing World /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate up for play (max tick rate 0) at 2020.09.24-22.48.59
+[2020.09.24-19.48.59:467][545]LogWorld: Bringing up level for play took: 0.001901
+[2020.09.24-19.48.59:467][545]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.09.24-19.48.59:469][545]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.48.59:469][545]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.48.59:469][545]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.48.59:470][545]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.48.59:470][545]PIE: Play in editor start time for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate -0.615
+[2020.09.24-19.48.59:470][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.48.59:851][556]LogBlueprintUserMessages: [Map02_DurendalUltimate_C_2] Right
+[2020.09.24-19.49.11:046][898]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.49.11:047][898]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.49.11:047][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.49.11:047][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.49.11:047][898]LogWorld: BeginTearingDown for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.49.11:047][898]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.49.11:047][898]LogWorld: UWorld::CleanupWorld for Map02_DurendalUltimate, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-19.49.11:048][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.49.11:057][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.24-19.49.11:057][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.49.11:060][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.49.11:086][898]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.49.11:089][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.49.11:092][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.09.24-19.49.11:210][900]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.09.24-19.49.15:814][419]LogCascade: Quitting Cascade. FXSystem=0x000002B308512BC0
+[2020.09.24-19.49.15:838][419]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-19.49.15:838][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.49.48:083][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-19.49.48:125][867]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact53886C5F4D356209026669920B1622E9.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-19.49.48:138][867]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-19.49.48:138][867]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-19.49.54:863][543]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.24-19.49.54:877][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.49.54:877][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.24-19.49.54:877][543]PIE: New page: PIE session: Map02_DurendalUltimate (Sep 25, 2020, 1:49:54 AM)
+[2020.09.24-19.49.54:877][543]LogPlayLevel: Creating play world package: /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.49.54:885][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007681s)
+[2020.09.24-19.49.54:887][543]LogAIModule: Creating AISystem for world Map02_DurendalUltimate
+[2020.09.24-19.49.54:888][543]LogPlayLevel: PIE: World Init took: (0.002065s)
+[2020.09.24-19.49.54:888][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate to /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate (0.010211s)
+[2020.09.24-19.49.54:917][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.09.24-19.49.54:919][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.24-19.49.54:919][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.24-19.49.54:919][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.24-19.49.54:919][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.24-19.49.54:919][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.24-19.49.54:919][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.24-19.49.54:919][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.24-19.49.54:920][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.24-19.49.54:920][543]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.24-19.49.54:920][543]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.24-19.49.54:931][543]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.24-19.49.54:931][543]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.49.54:931][543]LogAudioMixer: Display: Is Default: Yes
+[2020.09.24-19.49.54:932][543]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.24-19.49.54:932][543]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.24-19.49.54:932][543]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.24-19.49.54:932][543]LogAudioMixer: Display: Channel Order:
+[2020.09.24-19.49.54:932][543]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.24-19.49.54:932][543]LogAudioMixer: Display: 1: FrontRight
+[2020.09.24-19.49.55:049][543]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.49.55:050][543]LogInit: FAudioDevice initialized.
+[2020.09.24-19.49.55:058][543]LogLoad: Game class is 'GameMode'
+[2020.09.24-19.49.55:061][543]LogWorld: Bringing World /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate up for play (max tick rate 0) at 2020.09.24-22.49.55
+[2020.09.24-19.49.55:061][543]LogWorld: Bringing up level for play took: 0.001746
+[2020.09.24-19.49.55:061][543]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.09.24-19.49.55:063][543]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.49.55:063][543]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.49.55:063][543]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.49.55:064][543]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.49.55:064][543]PIE: Play in editor start time for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate 0.978
+[2020.09.24-19.49.55:064][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.49.55:657][578]LogBlueprintUserMessages: [Map02_DurendalUltimate_C_2] Right
+[2020.09.24-19.50.13:503][678]LogBlueprintUserMessages: [Map02_DurendalUltimate_C_2] Right
+[2020.09.24-19.50.21:081][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.50.21:082][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.50.21:082][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.50.21:082][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.50.21:083][514]LogWorld: BeginTearingDown for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.50.21:083][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.50.21:083][514]LogWorld: UWorld::CleanupWorld for Map02_DurendalUltimate, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-19.50.21:084][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.50.21:106][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.24-19.50.21:106][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.50.21:109][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.50.21:133][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.50.21:137][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.50.21:140][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.09.24-19.50.21:241][516]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.09.24-19.50.36:218][745]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ShowRoom/DurendalUltimate/Animation/Ultimate_Anim.Ultimate_Anim
+[2020.09.24-19.50.36:346][745]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.09.24-19.50.36:726][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.24-19.50.36:727][745]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.09.24-19.50.36:788][745]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.24-19.50.37:219][745]LogRenderer: Reallocating scene render targets to support 1192x548 Format 9 NumSamples 1 (Frame:1).
+[2020.09.24-19.50.37:219][745]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.24-19.54.03:337][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.09.24-19.54.03:339][224]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate' took 0.029
+[2020.09.24-19.54.03:340][224]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact] ([1] browsable assets)...
+[2020.09.24-19.54.03:344][224]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact]
+[2020.09.24-19.54.03:344][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact]
+[2020.09.24-19.54.03:408][224]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact_Auto1B4F30CC24928ABA7D8A265BE0EB77AD7.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact_Auto1.uasset'
+[2020.09.24-19.54.03:409][224]LogFileHelpers: Auto-saving content packages took 0.070
+[2020.09.24-19.56.57:342][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-19.56.57:385][633]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpactA403E6FC46FE203771235F8455347EE1.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-19.56.57:407][633]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-19.56.57:407][633]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-19.56.58:688][709]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.24-19.56.58:700][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.56.58:700][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.24-19.56.58:700][709]PIE: New page: PIE session: Map02_DurendalUltimate (Sep 25, 2020, 1:56:58 AM)
+[2020.09.24-19.56.58:700][709]LogPlayLevel: Creating play world package: /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.56.58:707][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006605s)
+[2020.09.24-19.56.58:709][709]LogAIModule: Creating AISystem for world Map02_DurendalUltimate
+[2020.09.24-19.56.58:709][709]LogPlayLevel: PIE: World Init took: (0.002484s)
+[2020.09.24-19.56.58:709][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate to /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate (0.009456s)
+[2020.09.24-19.56.58:735][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.09.24-19.56.58:736][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.24-19.56.58:736][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.24-19.56.58:736][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.24-19.56.58:736][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.24-19.56.58:736][709]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.24-19.56.58:736][709]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.24-19.56.58:736][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.24-19.56.58:736][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.24-19.56.58:736][709]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.24-19.56.58:736][709]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.24-19.56.58:750][709]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.24-19.56.58:751][709]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.56.58:751][709]LogAudioMixer: Display: Is Default: Yes
+[2020.09.24-19.56.58:751][709]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.24-19.56.58:751][709]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.24-19.56.58:751][709]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.24-19.56.58:751][709]LogAudioMixer: Display: Channel Order:
+[2020.09.24-19.56.58:751][709]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.24-19.56.58:751][709]LogAudioMixer: Display: 1: FrontRight
+[2020.09.24-19.56.58:860][709]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.56.58:861][709]LogInit: FAudioDevice initialized.
+[2020.09.24-19.56.58:873][709]LogLoad: Game class is 'GameMode'
+[2020.09.24-19.56.58:876][709]LogWorld: Bringing World /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate up for play (max tick rate 60) at 2020.09.24-22.56.58
+[2020.09.24-19.56.58:876][709]LogWorld: Bringing up level for play took: 0.001679
+[2020.09.24-19.56.58:876][709]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.09.24-19.56.58:878][709]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.56.58:878][709]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.56.58:878][709]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.56.58:879][709]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.56.58:879][709]PIE: Play in editor start time for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate 0.793
+[2020.09.24-19.56.58:879][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.57.00:368][784]LogBlueprintUserMessages: [Map02_DurendalUltimate_C_2] Right
+[2020.09.24-19.57.04:390][ 25]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.57.04:391][ 25]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.57.04:391][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.57.04:391][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.57.04:391][ 25]LogWorld: BeginTearingDown for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.57.04:392][ 25]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.57.04:392][ 25]LogWorld: UWorld::CleanupWorld for Map02_DurendalUltimate, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-19.57.04:392][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.57.04:403][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.24-19.57.04:403][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.57.04:406][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.57.04:432][ 25]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.57.04:436][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.57.04:440][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.09.24-19.57.04:573][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.09.24-19.57.10:590][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-19.57.10:631][375]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact4BC0389348F8C1056A2C689256EA0B75.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-19.57.10:649][375]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-19.57.10:649][375]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-19.57.14:986][633]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.24-19.57.14:998][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.57.14:998][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.24-19.57.14:998][633]PIE: New page: PIE session: Map02_DurendalUltimate (Sep 25, 2020, 1:57:14 AM)
+[2020.09.24-19.57.14:998][633]LogPlayLevel: Creating play world package: /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.57.15:004][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005982s)
+[2020.09.24-19.57.15:006][633]LogAIModule: Creating AISystem for world Map02_DurendalUltimate
+[2020.09.24-19.57.15:006][633]LogPlayLevel: PIE: World Init took: (0.002017s)
+[2020.09.24-19.57.15:006][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate to /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate (0.008319s)
+[2020.09.24-19.57.15:032][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.09.24-19.57.15:033][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.24-19.57.15:033][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.24-19.57.15:033][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.24-19.57.15:033][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.24-19.57.15:033][633]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.24-19.57.15:033][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.24-19.57.15:033][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.24-19.57.15:033][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.24-19.57.15:033][633]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.24-19.57.15:033][633]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.24-19.57.15:045][633]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.24-19.57.15:045][633]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.57.15:045][633]LogAudioMixer: Display: Is Default: Yes
+[2020.09.24-19.57.15:045][633]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.24-19.57.15:045][633]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.24-19.57.15:045][633]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.24-19.57.15:045][633]LogAudioMixer: Display: Channel Order:
+[2020.09.24-19.57.15:045][633]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.24-19.57.15:045][633]LogAudioMixer: Display: 1: FrontRight
+[2020.09.24-19.57.15:155][633]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.09.24-19.57.15:157][633]LogInit: FAudioDevice initialized.
+[2020.09.24-19.57.15:164][633]LogLoad: Game class is 'GameMode'
+[2020.09.24-19.57.15:167][633]LogWorld: Bringing World /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate up for play (max tick rate 60) at 2020.09.24-22.57.15
+[2020.09.24-19.57.15:167][633]LogWorld: Bringing up level for play took: 0.001700
+[2020.09.24-19.57.15:167][633]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.09.24-19.57.15:169][633]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.57.15:169][633]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-19.57.15:169][633]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.57.15:170][633]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-19.57.15:170][633]PIE: Play in editor start time for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate 1.084
+[2020.09.24-19.57.15:170][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.57.16:699][713]LogBlueprintUserMessages: [Map02_DurendalUltimate_C_2] Right
+[2020.09.24-19.57.20:373][934]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.57.20:374][934]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.57.20:374][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.57.20:374][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.57.20:374][934]LogWorld: BeginTearingDown for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-19.57.20:374][934]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.57.20:374][934]LogWorld: UWorld::CleanupWorld for Map02_DurendalUltimate, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-19.57.20:375][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.57.20:386][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.24-19.57.20:386][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-19.57.20:389][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-19.57.20:417][934]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-19.57.20:421][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-19.57.20:424][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.09.24-19.57.20:551][936]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.09.24-19.57.52:258][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-19.57.52:298][817]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact47FB248C4F36C91E8E99408EC7EA5B81.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-19.57.52:314][817]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-19.57.52:314][817]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-20.00.30:453][176]LogEditorTransaction: Undo Edit Curve
+[2020.09.24-20.00.30:454][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.24-20.01.34:137][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-20.01.34:182][848]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact5660D6B5404F863591F8D2BA3DFBE838.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-20.01.34:206][848]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-20.01.34:206][848]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-20.05.18:360][179]LogEditorTransaction: Undo Edit Curve
+[2020.09.24-20.05.18:362][179]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.24-20.06.18:311][745]LogEditorTransaction: Undo Edit Curve
+[2020.09.24-20.06.18:312][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.24-20.06.46:618][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-20.06.46:664][399]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact8A97E9BC41FC71AB12662C818460689A.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-20.06.46:683][399]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-20.06.46:684][399]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-20.07.11:711][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-20.07.11:753][889]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact6F14A11C4CCB746BA1CE38BBF9CB3FB9.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-20.07.11:774][889]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-20.07.11:774][889]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-20.50.06:203][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_Crack" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset" SILENT=true
+[2020.09.24-20.50.06:213][ 25]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CrackB8C46EF94AFB09D276EA0F969A6A009A.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset'
+[2020.09.24-20.50.06:923][ 25]AssetCheck: New page: Asset Save: MIC_Crack
+[2020.09.24-20.50.06:923][ 25]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_Crack.MIC_Crack
+[2020.09.24-20.50.07:785][ 69]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_Crack.MIC_Crack
+[2020.09.24-20.50.08:031][ 69]LogRenderer: Reallocating scene render targets to support 1192x920 Format 9 NumSamples 1 (Frame:1).
+[2020.09.24-20.51.24:119][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.09.24-20.51.24:121][546]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate' took 0.030
+[2020.09.24-20.51.24:121][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact] ([1] browsable assets)...
+[2020.09.24-20.51.24:124][546]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact]
+[2020.09.24-20.51.24:124][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact]
+[2020.09.24-20.51.24:169][546]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact_Auto214A34CF347059F35477776982BCAA418.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact_Auto2.uasset'
+[2020.09.24-20.51.24:170][546]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShowRoom/DurendalUltimate/MIC_Crack] ([1] browsable assets)...
+[2020.09.24-20.51.24:182][546]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_Crack.MIC_Crack]
+[2020.09.24-20.51.24:182][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/DurendalUltimate/MIC_Crack]
+[2020.09.24-20.51.24:209][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.09.24-20.51.24:222][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.24-20.51.24:939][546]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.24-20.51.24:939][546]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.24-20.51.24:942][546]TextureStreamingBuild: Display: Compiling optional shaders took 0.733 seconds.
+[2020.09.24-20.51.24:967][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.09.24-20.51.24:986][546]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_Crack_Auto2D8D1B7154C7C125E84274792E45C5656.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/DurendalUltimate/MIC_Crack_Auto2.uasset'
+[2020.09.24-20.51.24:986][546]LogFileHelpers: Auto-saving content packages took 0.866
+[2020.09.24-20.52.27:623][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_Crack" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset" SILENT=true
+[2020.09.24-20.52.27:652][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.09.24-20.52.27:662][580]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.24-20.52.28:040][580]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.24-20.52.28:040][580]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.24-20.52.28:041][580]TextureStreamingBuild: Display: Compiling optional shaders took 0.389 seconds.
+[2020.09.24-20.52.28:073][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.09.24-20.52.28:092][580]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_Crack9BB8DEDD45870986D1054B9A2FDD3356.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset'
+[2020.09.24-20.52.28:100][580]AssetCheck: New page: Asset Save: MIC_Crack
+[2020.09.24-20.52.28:101][580]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_Crack.MIC_Crack
+[2020.09.24-20.52.30:331][692]LogSlate: Window 'MIC_Crack' being destroyed
+[2020.09.24-20.52.58:049][315]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.24-20.53.19:616][596]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.24-20.54.08:188][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_Crack" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset" SILENT=true
+[2020.09.24-20.54.08:215][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.09.24-20.54.08:226][482]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.24-20.54.08:602][482]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.24-20.54.08:602][482]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.24-20.54.08:603][482]TextureStreamingBuild: Display: Compiling optional shaders took 0.386 seconds.
+[2020.09.24-20.54.08:631][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.09.24-20.54.08:651][482]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_Crack38C62E5F4C1DFBECA7239185EA050B89.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset'
+[2020.09.24-20.54.08:666][482]AssetCheck: New page: Asset Save: MIC_Crack
+[2020.09.24-20.54.08:666][482]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_Crack.MIC_Crack
+[2020.09.24-20.54.38:702][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_Crack" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset" SILENT=true
+[2020.09.24-20.54.38:730][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.09.24-20.54.38:741][254]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.24-20.54.39:107][254]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.24-20.54.39:107][254]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.24-20.54.39:109][254]TextureStreamingBuild: Display: Compiling optional shaders took 0.377 seconds.
+[2020.09.24-20.54.39:140][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.09.24-20.54.39:160][254]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_Crack5010B66347056D5D16BFC187D0A918E5.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset'
+[2020.09.24-20.54.39:172][254]AssetCheck: New page: Asset Save: MIC_Crack
+[2020.09.24-20.54.39:173][254]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_Crack.MIC_Crack
+[2020.09.24-20.54.40:795][341]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.24-20.54.40:807][341]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-20.54.40:807][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.24-20.54.40:807][341]PIE: New page: PIE session: Map02_DurendalUltimate (Sep 25, 2020, 2:54:40 AM)
+[2020.09.24-20.54.40:808][341]LogPlayLevel: Creating play world package: /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-20.54.40:814][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006520s)
+[2020.09.24-20.54.40:816][341]LogAIModule: Creating AISystem for world Map02_DurendalUltimate
+[2020.09.24-20.54.40:816][341]LogPlayLevel: PIE: World Init took: (0.001968s)
+[2020.09.24-20.54.40:817][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate to /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate (0.008840s)
+[2020.09.24-20.54.40:843][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.09.24-20.54.40:843][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.24-20.54.40:844][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.24-20.54.40:844][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.24-20.54.40:844][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.24-20.54.40:844][341]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.24-20.54.40:844][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.24-20.54.40:844][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.24-20.54.40:844][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.24-20.54.40:844][341]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.24-20.54.40:844][341]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.24-20.54.40:858][341]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.24-20.54.40:858][341]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.09.24-20.54.40:858][341]LogAudioMixer: Display: Is Default: Yes
+[2020.09.24-20.54.40:858][341]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.24-20.54.40:858][341]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.24-20.54.40:858][341]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.24-20.54.40:858][341]LogAudioMixer: Display: Channel Order:
+[2020.09.24-20.54.40:858][341]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.24-20.54.40:858][341]LogAudioMixer: Display: 1: FrontRight
+[2020.09.24-20.54.40:980][341]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.09.24-20.54.40:982][341]LogInit: FAudioDevice initialized.
+[2020.09.24-20.54.40:993][341]LogLoad: Game class is 'GameMode'
+[2020.09.24-20.54.40:996][341]LogWorld: Bringing World /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate up for play (max tick rate 60) at 2020.09.24-23.54.40
+[2020.09.24-20.54.40:996][341]LogWorld: Bringing up level for play took: 0.001509
+[2020.09.24-20.54.40:996][341]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.09.24-20.54.40:998][341]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-20.54.40:998][341]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-20.54.40:998][341]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-20.54.40:998][341]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-20.54.40:999][341]PIE: Play in editor start time for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate 0.913
+[2020.09.24-20.54.40:999][341]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-20.54.46:437][653]LogBlueprintUserMessages: [Map02_DurendalUltimate_C_2] Right
+[2020.09.24-20.54.53:696][ 89]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-20.54.53:696][ 89]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-20.54.53:696][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-20.54.53:697][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-20.54.53:697][ 89]LogWorld: BeginTearingDown for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-20.54.53:697][ 89]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-20.54.53:697][ 89]LogWorld: UWorld::CleanupWorld for Map02_DurendalUltimate, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-20.54.53:698][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-20.54.53:709][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.24-20.54.53:709][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-20.54.53:712][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-20.54.53:738][ 89]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-20.54.53:741][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-20.54.53:745][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.09.24-20.54.53:879][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.09.24-20.55.08:892][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-20.55.08:936][974]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact1CD5434B40ECE27EFD9F32A1F87033BB.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-20.55.08:953][974]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-20.55.08:953][974]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-20.55.12:204][166]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CrackGlow.MIC_CrackGlow
+[2020.09.24-20.55.18:383][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_CrackGlow" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackGlow.uasset" SILENT=true
+[2020.09.24-20.55.18:412][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.09.24-20.55.18:426][510]TextureStreamingBuild: Display: Compiling optional shaders took 0.014 seconds.
+[2020.09.24-20.55.18:453][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.09.24-20.55.18:496][510]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CrackGlow8F92D22344A902FA048D069DBA71CC6A.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackGlow.uasset'
+[2020.09.24-20.55.18:520][510]AssetCheck: New page: Asset Save: MIC_CrackGlow
+[2020.09.24-20.55.18:521][510]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CrackGlow.MIC_CrackGlow
+[2020.09.24-20.55.26:754][  0]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_FireSplash.MIC_FireSplash
+[2020.09.24-20.55.33:034][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_FireSplash" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_FireSplash.uasset" SILENT=true
+[2020.09.24-20.55.33:065][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.09.24-20.55.33:082][352]TextureStreamingBuild: Display: Compiling optional shaders took 0.015 seconds.
+[2020.09.24-20.55.33:109][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.09.24-20.55.33:130][352]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_FireSplash58D2C2ED4727A508F07E33B647C94418.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_FireSplash.uasset'
+[2020.09.24-20.55.33:145][352]AssetCheck: New page: Asset Save: MIC_FireSplash
+[2020.09.24-20.55.33:145][352]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_FireSplash.MIC_FireSplash
+[2020.09.24-20.55.41:815][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_CrackGlow" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackGlow.uasset" SILENT=true
+[2020.09.24-20.55.41:845][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.09.24-20.55.41:861][859]TextureStreamingBuild: Display: Compiling optional shaders took 0.014 seconds.
+[2020.09.24-20.55.41:889][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.09.24-20.55.41:909][859]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CrackGlow3222114C45B47CEC39E36787B39753ED.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackGlow.uasset'
+[2020.09.24-20.55.41:925][859]AssetCheck: New page: Asset Save: MIC_CrackGlow
+[2020.09.24-20.55.41:926][859]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CrackGlow.MIC_CrackGlow
+[2020.09.24-20.55.48:132][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_Crack" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset" SILENT=true
+[2020.09.24-20.55.48:159][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.09.24-20.55.48:176][218]TextureStreamingBuild: Display: Compiling optional shaders took 0.016 seconds.
+[2020.09.24-20.55.48:204][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.09.24-20.55.48:224][218]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_Crack6E1FA0E8487F9DF8B8000D98E3E60F09.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset'
+[2020.09.24-20.55.48:239][218]AssetCheck: New page: Asset Save: MIC_Crack
+[2020.09.24-20.55.48:239][218]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_Crack.MIC_Crack
+[2020.09.24-20.55.51:974][440]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-20.55.51:974][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-20.55.53:136][507]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-20.55.53:136][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-20.55.56:886][726]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_SpearGlow.MIC_SpearGlow
+[2020.09.24-20.56.30:267][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_SpearGlow" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_SpearGlow.uasset" SILENT=true
+[2020.09.24-20.56.30:299][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.09.24-20.56.30:316][661]TextureStreamingBuild: Display: Compiling optional shaders took 0.015 seconds.
+[2020.09.24-20.56.30:344][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.09.24-20.56.30:363][661]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_SpearGlow550A843046199EF0A5C353838716431A.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_SpearGlow.uasset'
+[2020.09.24-20.56.30:379][661]AssetCheck: New page: Asset Save: MIC_SpearGlow
+[2020.09.24-20.56.30:379][661]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_SpearGlow.MIC_SpearGlow
+[2020.09.24-20.59.10:573][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_SpearGlow" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_SpearGlow.uasset" SILENT=true
+[2020.09.24-20.59.10:604][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.09.24-20.59.10:620][210]TextureStreamingBuild: Display: Compiling optional shaders took 0.015 seconds.
+[2020.09.24-20.59.10:645][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.09.24-20.59.10:663][210]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_SpearGlow97A1ECE8487D6DBD4820D3ABE4A28E12.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_SpearGlow.uasset'
+[2020.09.24-20.59.10:677][210]AssetCheck: New page: Asset Save: MIC_SpearGlow
+[2020.09.24-20.59.10:678][210]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_SpearGlow.MIC_SpearGlow
+[2020.09.24-21.05.43:538][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_SpearGlow" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_SpearGlow.uasset" SILENT=true
+[2020.09.24-21.05.43:551][410]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_SpearGlow14C3FE1841CCC8E40075D4AAE2DD0441.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_SpearGlow.uasset'
+[2020.09.24-21.05.43:569][410]AssetCheck: New page: Asset Save: MIC_SpearGlow
+[2020.09.24-21.05.43:570][410]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_SpearGlow.MIC_SpearGlow
+[2020.09.24-21.05.46:580][589]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-21.05.46:580][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-21.05.53:030][947]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CircleErosion.MIC_CircleErosion
+[2020.09.24-21.05.58:400][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_CircleErosion" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CircleErosion.uasset" SILENT=true
+[2020.09.24-21.05.58:432][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.09.24-21.05.58:448][242]TextureStreamingBuild: Display: Compiling optional shaders took 0.015 seconds.
+[2020.09.24-21.05.58:476][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.09.24-21.05.58:496][242]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CircleErosion919B4D9E480570630ED5C5823DF8032D.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CircleErosion.uasset'
+[2020.09.24-21.05.58:516][242]AssetCheck: New page: Asset Save: MIC_CircleErosion
+[2020.09.24-21.05.58:516][242]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CircleErosion.MIC_CircleErosion
+[2020.09.24-21.09.56:394][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_CircleErosion" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CircleErosion.uasset" SILENT=true
+[2020.09.24-21.09.56:408][503]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CircleErosion99F8312C4F10A4C9BEEC8DAD97677DAA.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CircleErosion.uasset'
+[2020.09.24-21.09.56:428][503]AssetCheck: New page: Asset Save: MIC_CircleErosion
+[2020.09.24-21.09.56:428][503]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CircleErosion.MIC_CircleErosion
+[2020.09.24-21.12.20:201][975]LogEditorTransaction: Undo Edit Curve
+[2020.09.24-21.12.20:202][975]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.24-21.13.08:906][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-21.13.08:954][861]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpactAF9F51834BC97452D703ABA37D266B2E.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-21.13.08:973][861]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-21.13.08:973][861]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-21.14.04:929][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.09.24-21.14.04:930][189]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate' took 0.027
+[2020.09.24-21.14.04:930][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ShowRoom/DurendalUltimate/MIC_CircleErosion] ([1] browsable assets)...
+[2020.09.24-21.14.04:930][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/DurendalUltimate/MIC_CircleErosion]
+[2020.09.24-21.14.04:954][189]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CircleErosion_Auto3813609E8464CEFD099EC7082064B09E9.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/DurendalUltimate/MIC_CircleErosion_Auto3.uasset'
+[2020.09.24-21.14.04:955][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ShowRoom/DurendalUltimate/MIC_Crack] ([1] browsable assets)...
+[2020.09.24-21.14.04:955][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/DurendalUltimate/MIC_Crack]
+[2020.09.24-21.14.04:968][189]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_Crack_Auto3E1BA1CD44226B0A40BDF719745FFDA70.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/DurendalUltimate/MIC_Crack_Auto3.uasset'
+[2020.09.24-21.14.04:968][189]LogFileHelpers: Auto-saving content packages took 0.038
+[2020.09.24-21.17.33:843][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-21.17.33:893][688]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpactEBCFAA6F44835EB5740855BC988F4644.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-21.17.33:910][688]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-21.17.33:910][688]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-21.17.38:176][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_CircleErosion" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CircleErosion.uasset" SILENT=true
+[2020.09.24-21.17.38:188][925]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CircleErosion221886914DB97F172B309991F31FE7CF.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CircleErosion.uasset'
+[2020.09.24-21.17.38:189][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_Crack" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset" SILENT=true
+[2020.09.24-21.17.38:201][925]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CrackF0AE022942923D5D4CEFE7A4ABF338CE.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset'
+[2020.09.24-21.17.38:221][925]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.24-21.17.38:221][925]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CircleErosion.MIC_CircleErosion
+[2020.09.24-21.17.38:221][925]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_Crack.MIC_Crack
+[2020.09.24-21.18.09:929][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_CrackDark" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackDark.uasset" SILENT=true
+[2020.09.24-21.18.09:940][709]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CrackDark1696B1DD46BFD085FBB5528D9760C34F.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackDark.uasset'
+[2020.09.24-21.18.10:961][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.09.24-21.18.11:002][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.09.24-21.18.11:028][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.09.24-21.18.11:242][709]SourceControl: rm 'Content/ShowRoom/DurendalUltimate/MIC_Crack.uasset'
+[2020.09.24-21.18.11:420][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-21.18.11:463][709]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact6E3EA01F4858470766FDB38AC13B5D90.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-21.18.11:530][709]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.24-21.18.11:530][709]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CrackDark.MIC_CrackDark
+[2020.09.24-21.18.11:530][709]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-21.38.15:868][ 37]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-21.38.15:868][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-21.38.18:403][183]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-21.38.18:403][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-21.52.16:503][843]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Gameolic3/Desktop/Blender/DurendalUltimate/T_FX_GroundCracks_Blur.png)
+[2020.09.24-21.52.16:513][843]LogTexture: Display: Building textures: T_FX_GroundCracks_Blur (AutoDXT, 512X512)
+[2020.09.24-21.52.16:703][843]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Gameolic3/Desktop/Blender/DurendalUltimate/T_FX_GroundCracks_M.png)
+[2020.09.24-21.52.16:709][843]LogTexture: Display: Building textures: T_FX_GroundCracks_M (AutoDXT, 512X512)
+[2020.09.24-21.52.19:801][990]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/T_FX_GroundCracks_BlurE847000944651AE91472A69E044192E2.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/T_FX_GroundCracks_Blur.uasset'
+[2020.09.24-21.52.20:197][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/T_FX_GroundCracks_M" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/T_FX_GroundCracks_M.uasset" SILENT=true
+[2020.09.24-21.52.20:228][990]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/T_FX_GroundCracks_M419E8B274CB99172DA0F0DAC8973D10A.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/T_FX_GroundCracks_M.uasset'
+[2020.09.24-21.52.20:563][990]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.24-21.52.20:563][990]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/DurendalUltimate/T_FX_GroundCracks_Blur.T_FX_GroundCracks_Blur
+[2020.09.24-21.52.20:563][990]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/DurendalUltimate/T_FX_GroundCracks_M.T_FX_GroundCracks_M
+[2020.09.24-21.55.41:429][527]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CrackDark.MIC_CrackDark
+[2020.09.24-21.56.08:057][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_CrackDark" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackDark.uasset" SILENT=true
+[2020.09.24-21.56.08:090][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.09.24-21.56.08:108][917]TextureStreamingBuild: Display: Compiling optional shaders took 0.014 seconds.
+[2020.09.24-21.56.08:135][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.09.24-21.56.08:154][917]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CrackDarkDC87B67444DE350DD1968E8E262782BF.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackDark.uasset'
+[2020.09.24-21.56.08:168][917]AssetCheck: New page: Asset Save: MIC_CrackDark
+[2020.09.24-21.56.08:168][917]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CrackDark.MIC_CrackDark
+[2020.09.24-21.56.25:174][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_CrackDark" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackDark.uasset" SILENT=true
+[2020.09.24-21.56.25:205][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.09.24-21.56.25:220][923]TextureStreamingBuild: Display: Compiling optional shaders took 0.014 seconds.
+[2020.09.24-21.56.25:248][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.09.24-21.56.25:268][923]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CrackDark569E7163418D7AE57759C881BAC8A71B.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackDark.uasset'
+[2020.09.24-21.56.25:281][923]AssetCheck: New page: Asset Save: MIC_CrackDark
+[2020.09.24-21.56.25:281][923]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CrackDark.MIC_CrackDark
+[2020.09.24-21.56.53:194][563]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ShowRoom/DurendalUltimate/MAT_FX_GroundCracks.MAT_FX_GroundCracks
+[2020.09.24-21.56.53:200][563]LogMaterial: Display: Missing cached shader map for material MAT_FX_GroundCracks, compiling. 
+[2020.09.24-21.56.53:366][563]LogMaterial: Display: Missing cached shader map for material MAT_FX_GroundCracks, compiling. 
+[2020.09.24-21.56.53:386][563]LogMaterial: Display: Missing cached shader map for material MAT_FX_GroundCracks, compiling. 
+[2020.09.24-21.56.53:409][563]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.09.24-21.56.53:409][563]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.09.24-21.56.53:409][563]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.09.24-21.56.53:409][563]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.09.24-21.56.53:418][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.24-21.56.53:441][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.24-21.56.53:519][563]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.24-21.56.53:784][571]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2020.09.24-21.56.53:784][571]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.09.24-21.56.53:891][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.09.24-21.56.53:958][580]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.09.24-21.56.53:991][582]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.09.24-21.56.54:009][583]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.09.24-21.56.54:090][588]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.09.24-21.56.54:225][596]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.09.24-21.56.54:242][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.09.24-21.56.54:308][601]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.09.24-21.56.54:324][602]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.09.24-21.56.54:559][616]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.09.24-21.56.54:559][616]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.09.24-21.56.54:641][621]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.09.24-21.56.54:656][622]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.09.24-21.56.54:774][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.09.24-21.56.54:859][634]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.09.24-21.56.54:959][640]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.09.24-21.56.55:091][648]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.09.24-21.56.55:091][648]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.09.24-21.56.55:448][669]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.09.24-21.56.55:499][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.09.24-21.56.55:631][680]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.09.24-21.56.55:731][686]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.09.24-21.56.55:899][696]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.09.24-21.56.56:064][706]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.09.24-21.56.56:133][710]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.09.24-21.56.56:282][719]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.09.24-21.56.56:299][720]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.09.24-21.56.56:596][738]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.24-21.56.56:764][748]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.09.24-21.56.56:813][751]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.09.24-21.56.56:813][751]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.09.24-21.56.56:842][752]MaterialEditorStats: Base pass shader: 114 instructions
+[2020.09.24-21.56.56:842][752]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.09.24-21.56.56:842][752]MaterialEditorStats: Base pass vertex shader: 50 instructions
+[2020.09.24-21.56.56:842][752]MaterialEditorStats: Texture samplers: 4/16
+[2020.09.24-21.56.56:843][752]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.09.24-21.56.56:843][752]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.24-21.56.57:056][764]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.24-21.56.57:153][770]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.24-21.56.57:213][773]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.24-21.57.05:637][274]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-21.57.05:637][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-21.58.20:703][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_CrackDark" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackDark.uasset" SILENT=true
+[2020.09.24-21.58.20:736][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.09.24-21.58.20:753][742]TextureStreamingBuild: Display: Compiling optional shaders took 0.014 seconds.
+[2020.09.24-21.58.20:782][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.09.24-21.58.20:801][742]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CrackDarkDF05131C4750B9E79EB21C828D2F3975.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_CrackDark.uasset'
+[2020.09.24-21.58.20:819][742]AssetCheck: New page: Asset Save: MIC_CrackDark
+[2020.09.24-21.58.20:819][742]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_CrackDark.MIC_CrackDark
+[2020.09.24-21.59.13:750][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.09.24-21.59.13:751][895]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate' took 0.028
+[2020.09.24-21.59.13:752][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact] ([1] browsable assets)...
+[2020.09.24-21.59.13:755][895]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact]
+[2020.09.24-21.59.13:755][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact]
+[2020.09.24-21.59.13:837][895]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact_Auto4EF53BC8F4614B37F25D997B63E8FC65B.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact_Auto4.uasset'
+[2020.09.24-21.59.13:838][895]LogFileHelpers: Auto-saving content packages took 0.086
+[2020.09.24-22.01.53:189][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.09.24-22.01.54:363][351]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.24-22.01.54:669][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.09.24-22.01.54:715][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.09.24-22.01.54:738][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.24-22.01.55:277][351]SourceControl: Error: Updated 0 paths from the index
+[2020.09.24-22.01.55:568][351]SourceControl: rm 'Content/ShowRoom/DurendalUltimate/MAT_FX_GroundCracks.uasset'
+[2020.09.24-22.02.23:413][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-22.02.23:458][957]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact00AEB33F4E3C2BB912C8CF820D7340CA.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-22.02.23:475][957]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-22.02.23:475][957]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-22.03.58:910][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur.uasset" SILENT=true
+[2020.09.24-22.03.58:919][552]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_GroundCrack_Blur1ECC014A437F9A678ADE8D96685F088C.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur.uasset'
+[2020.09.24-22.03.59:709][552]AssetCheck: New page: Asset Save: MIC_GroundCrack_Blur
+[2020.09.24-22.03.59:709][552]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur.MIC_GroundCrack_Blur
+[2020.09.24-22.04.17:705][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_GroundCrack" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_GroundCrack.uasset" SILENT=true
+[2020.09.24-22.04.17:716][544]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_GroundCrackF88E0671472CD95C5A20BCB952C7BFA3.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_GroundCrack.uasset'
+[2020.09.24-22.04.18:698][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.09.24-22.04.18:738][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.09.24-22.04.18:762][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.09.24-22.04.18:995][544]SourceControl: rm 'Content/ShowRoom/DurendalUltimate/MIC_CrackDark.uasset'
+[2020.09.24-22.04.19:153][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-22.04.19:195][544]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact3B2A7B174019C16EF1596886A1783BD8.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-22.04.19:265][544]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.24-22.04.19:265][544]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_GroundCrack.MIC_GroundCrack
+[2020.09.24-22.04.19:265][544]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-22.04.22:020][692]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur.MIC_GroundCrack_Blur
+[2020.09.24-22.04.54:801][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur.uasset" SILENT=true
+[2020.09.24-22.04.54:829][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.09.24-22.04.54:845][302]TextureStreamingBuild: Display: Compiling optional shaders took 0.014 seconds.
+[2020.09.24-22.04.54:875][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.09.24-22.04.54:895][302]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_GroundCrack_BlurF2EA8ED34E3BF0D8CC66239AE3B9A622.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur.uasset'
+[2020.09.24-22.04.54:911][302]AssetCheck: New page: Asset Save: MIC_GroundCrack_Blur
+[2020.09.24-22.04.54:911][302]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur.MIC_GroundCrack_Blur
+[2020.09.24-22.04.56:286][373]LogSlate: Window 'MIC_GroundCrack_Blur' being destroyed
+[2020.09.24-22.06.21:362][253]LogSlate: Window 'Message' being destroyed
+[2020.09.24-22.07.06:422][844]LogSlate: Window 'Message' being destroyed
+[2020.09.24-22.07.27:369][ 97]LogEditorTransaction: Undo Edit Curve
+[2020.09.24-22.07.27:371][ 97]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.24-22.09.14:192][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.09.24-22.09.14:193][463]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate' took 0.032
+[2020.09.24-22.09.14:194][463]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact] ([1] browsable assets)...
+[2020.09.24-22.09.14:198][463]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact]
+[2020.09.24-22.09.14:198][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact]
+[2020.09.24-22.09.14:240][463]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact_Auto5456A820A467EC76D369372AA1E89AA65.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact_Auto5.uasset'
+[2020.09.24-22.09.14:241][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ShowRoom/DurendalUltimate/MIC_GroundCrack] ([1] browsable assets)...
+[2020.09.24-22.09.14:241][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/DurendalUltimate/MIC_GroundCrack]
+[2020.09.24-22.09.14:253][463]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_GroundCrack_Auto527CC04854E3283E75E79A4960E28898E.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/DurendalUltimate/MIC_GroundCrack_Auto5.uasset'
+[2020.09.24-22.09.14:254][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur] ([1] browsable assets)...
+[2020.09.24-22.09.14:254][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur]
+[2020.09.24-22.09.14:265][463]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_GroundCrack_Blur_Auto586AB4CBE476FCE35C5661CA7C1FE5A0F.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur_Auto5.uasset'
+[2020.09.24-22.09.14:266][463]LogFileHelpers: Auto-saving content packages took 0.073
+[2020.09.24-22.14.02:593][659]LogSlate: Window 'Message' being destroyed
+[2020.09.24-22.15.25:971][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_GroundCrack" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_GroundCrack.uasset" SILENT=true
+[2020.09.24-22.15.25:985][619]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_GroundCrack445C8E79459EBA28B34E69BAA8B4B591.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_GroundCrack.uasset'
+[2020.09.24-22.15.26:006][619]AssetCheck: New page: Asset Save: MIC_GroundCrack
+[2020.09.24-22.15.26:006][619]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_GroundCrack.MIC_GroundCrack
+[2020.09.24-22.15.26:576][651]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.15.26:576][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-22.15.28:121][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur.uasset" SILENT=true
+[2020.09.24-22.15.28:134][726]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_GroundCrack_Blur822CA5434E4071B92C708C8675D742AC.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur.uasset'
+[2020.09.24-22.15.28:152][726]AssetCheck: New page: Asset Save: MIC_GroundCrack_Blur
+[2020.09.24-22.15.28:152][726]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur.MIC_GroundCrack_Blur
+[2020.09.24-22.15.29:403][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-22.15.29:449][792]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact32ED6C4A44A1AC8609263DB8DBB384FE.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-22.15.29:468][792]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-22.15.29:468][792]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-22.22.09:207][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.09.24-22.22.09:208][726]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate' took 0.033
+[2020.09.24-22.22.09:209][726]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact] ([1] browsable assets)...
+[2020.09.24-22.22.09:213][726]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact]
+[2020.09.24-22.22.09:213][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact]
+[2020.09.24-22.22.09:312][726]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact_Auto633A9227349199FF0A50E70904FBC0D6A.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact_Auto6.uasset'
+[2020.09.24-22.22.09:313][726]LogFileHelpers: Auto-saving content packages took 0.105
+[2020.09.24-22.22.23:804][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset" SILENT=true
+[2020.09.24-22.22.23:854][569]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_FirstImpact18A41363478C41E7B5025E93FB3080BA.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset'
+[2020.09.24-22.22.23:870][569]AssetCheck: New page: Asset Save: PS_Spear_FirstImpact
+[2020.09.24-22.22.23:870][569]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.PS_Spear_FirstImpact
+[2020.09.24-22.22.25:200][648]LogCascade: Quitting Cascade. FXSystem=0x000002B308697E80
+[2020.09.24-22.22.25:221][648]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2020.09.24-22.22.25:222][648]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.22.25:222][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-22.22.26:181][697]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.22.26:181][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-22.22.34:972][193]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_Explosion.PS_Spear_Explosion
+[2020.09.24-22.28.21:256][568]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.24-22.28.21:268][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-22.28.21:268][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.24-22.28.21:268][568]PIE: New page: PIE session: Map02_DurendalUltimate (Sep 25, 2020, 4:28:21 AM)
+[2020.09.24-22.28.21:268][568]LogPlayLevel: Creating play world package: /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-22.28.21:276][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007490s)
+[2020.09.24-22.28.21:278][568]LogAIModule: Creating AISystem for world Map02_DurendalUltimate
+[2020.09.24-22.28.21:278][568]LogPlayLevel: PIE: World Init took: (0.002325s)
+[2020.09.24-22.28.21:278][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate to /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate (0.010088s)
+[2020.09.24-22.28.21:312][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.09.24-22.28.21:314][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.24-22.28.21:314][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.24-22.28.21:314][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.24-22.28.21:314][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.24-22.28.21:314][568]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.24-22.28.21:314][568]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.24-22.28.21:314][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.24-22.28.21:315][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.24-22.28.21:315][568]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.24-22.28.21:315][568]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.24-22.28.21:330][568]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.24-22.28.21:330][568]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.09.24-22.28.21:330][568]LogAudioMixer: Display: Is Default: Yes
+[2020.09.24-22.28.21:330][568]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.24-22.28.21:330][568]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.24-22.28.21:330][568]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.24-22.28.21:330][568]LogAudioMixer: Display: Channel Order:
+[2020.09.24-22.28.21:330][568]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.24-22.28.21:330][568]LogAudioMixer: Display: 1: FrontRight
+[2020.09.24-22.28.21:444][568]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.09.24-22.28.21:446][568]LogInit: FAudioDevice initialized.
+[2020.09.24-22.28.21:455][568]LogLoad: Game class is 'GameMode'
+[2020.09.24-22.28.21:458][568]LogWorld: Bringing World /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate.Map02_DurendalUltimate up for play (max tick rate 60) at 2020.09.25-01.28.21
+[2020.09.24-22.28.21:458][568]LogWorld: Bringing up level for play took: 0.001594
+[2020.09.24-22.28.21:458][568]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.09.24-22.28.21:460][568]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-22.28.21:460][568]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.09.24-22.28.21:460][568]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-22.28.21:461][568]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.09.24-22.28.21:461][568]PIE: Play in editor start time for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate -0.625
+[2020.09.24-22.28.21:461][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-22.28.22:115][590]LogBlueprintUserMessages: [Map02_DurendalUltimate_C_2] Right
+[2020.09.24-22.28.47:176][ 94]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-22.28.47:176][ 94]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-22.28.47:176][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-22.28.47:177][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-22.28.47:177][ 94]LogWorld: BeginTearingDown for /Game/ShowRoom/DurendalUltimate/UEDPIE_0_Map02_DurendalUltimate
+[2020.09.24-22.28.47:177][ 94]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-22.28.47:178][ 94]LogWorld: UWorld::CleanupWorld for Map02_DurendalUltimate, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.28.47:178][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-22.28.47:192][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.24-22.28.47:192][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel' has LevelScriptBlueprint '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate' with GeneratedClass '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate_C' with ClassGeneratedBy '/Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate:PersistentLevel.Map02_DurendalUltimate'
+[2020.09.24-22.28.47:195][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-22.28.47:220][ 94]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-22.28.47:225][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.24-22.28.47:228][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.09.24-22.28.47:384][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.09.24-22.28.49:052][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.09.24-22.28.49:199][183]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Map02_DurendalUltimateA8E4BE6C4C7507CDF711D088CE2E8E65.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.umap'
+[2020.09.24-22.28.49:541][183]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Map02_DurendalUltimate_BuiltData3C4782E149344887799A2A90792B3C68.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/Map02_DurendalUltimate_BuiltData.uasset'
+[2020.09.24-22.28.49:556][183]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.24-22.28.49:556][183]LogContentValidation: Display: Validating World /Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate.Map02_DurendalUltimate
+[2020.09.24-22.28.49:556][183]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ShowRoom/DurendalUltimate/Map02_DurendalUltimate_BuiltData.Map02_DurendalUltimate_BuiltData
+[2020.09.24-22.28.52:576][342]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'D:/_DATA/Unreal Projects/VFXShowRoom'
+[2020.09.24-22.28.59:118][342]LogSlate: Window 'Submit Files' being destroyed
+[2020.09.24-22.29.01:732][342]LogSourceControl: commit successful: [master d9fdce3] even better
+[2020.09.24-22.29.01:828][342]SourceControl: [master d9fdce3] even better
+[2020.09.24-22.29.01:828][342]SourceControl:  13 files changed, 0 insertions(+), 0 deletions(-)
+[2020.09.24-22.29.01:828][342]SourceControl:  delete mode 100644 Content/ShowRoom/DurendalUltimate/MAT_FX_GroundCracks.uasset
+[2020.09.24-22.29.01:828][342]SourceControl:  rewrite Content/ShowRoom/DurendalUltimate/MIC_CircleErosion.uasset (93%)
+[2020.09.24-22.29.01:828][342]SourceControl:  rewrite Content/ShowRoom/DurendalUltimate/MIC_CrackGlow.uasset (95%)
+[2020.09.24-22.29.01:828][342]SourceControl:  rewrite Content/ShowRoom/DurendalUltimate/MIC_FireSplash.uasset (92%)
+[2020.09.24-22.29.01:828][342]SourceControl:  create mode 100644 Content/ShowRoom/DurendalUltimate/MIC_GroundCrack.uasset
+[2020.09.24-22.29.01:828][342]SourceControl:  create mode 100644 Content/ShowRoom/DurendalUltimate/MIC_GroundCrack_Blur.uasset
+[2020.09.24-22.29.01:828][342]SourceControl:  rewrite Content/ShowRoom/DurendalUltimate/MIC_SpearGlow.uasset (98%)
+[2020.09.24-22.29.01:828][342]SourceControl:  rewrite Content/ShowRoom/DurendalUltimate/PS_Spear_FirstImpact.uasset (90%)
+[2020.09.24-22.29.01:828][342]SourceControl:  create mode 100644 Content/ShowRoom/DurendalUltimate/T_FX_GroundCracks_Blur.uasset
+[2020.09.24-22.29.01:828][342]SourceControl:  create mode 100644 Content/ShowRoom/DurendalUltimate/T_FX_GroundCracks_M.uasset
+[2020.09.24-22.29.01:845][342]SourceControl: Commited [master d9fdce3] even better.
+[2020.09.24-22.29.12:233][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.09.24-22.29.16:029][940]LogSlate: Window 'Save Content' being destroyed
+[2020.09.24-22.29.16:219][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/DurendalUltimate/PS_Spear_Explosion" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_Explosion.uasset" SILENT=true
+[2020.09.24-22.29.16:274][940]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/PS_Spear_Explosion9DE5F10E43EB09E326CBC1930EC15E10.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/DurendalUltimate/PS_Spear_Explosion.uasset'
+[2020.09.24-22.29.16:342][940]LogSlate: Window 'VFXSHOWROOM - Unreal Editor' being destroyed
+[2020.09.24-22.29.16:418][940]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.29.16:418][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-22.29.16:599][940]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.29.16:599][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-22.29.16:611][940]LogCascade: Quitting Cascade. FXSystem=0x000002B3F7EBD9C0
+[2020.09.24-22.29.16:633][940]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.29.16:633][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.24-22.29.16:723][940]AssetCheck: New page: Asset Save: PS_Spear_Explosion
+[2020.09.24-22.29.16:723][940]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/DurendalUltimate/PS_Spear_Explosion.PS_Spear_Explosion
+[2020.09.24-22.29.16:728][941]Cmd: QUIT_EDITOR
+[2020.09.24-22.29.16:728][941]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.09.24-22.29.16:757][941]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.09.24-22.29.16:757][941]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.24-22.29.17:227][941]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.24-22.29.17:239][941]LogExit: Preparing to exit.
+[2020.09.24-22.29.18:310][941]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.29.18:310][941]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.29.18:310][941]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.29.18:310][941]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.29.18:310][941]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.29.18:311][941]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.29.18:322][941]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.24-22.29.18:339][941]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.24-22.29.18:339][941]LogExit: Editor shut down
+[2020.09.24-22.29.18:340][941]LogExit: Transaction tracking system shut down
+[2020.09.24-22.29.18:464][941]LogExit: Object subsystem successfully closed.
+[2020.09.24-22.29.18:485][941]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.09.24-22.29.18:520][941]LogModuleManager: Shutting down and abandoning module PinnedCommandList (714)
+[2020.09.24-22.29.18:520][941]LogModuleManager: Shutting down and abandoning module SkeletonEditor (712)
+[2020.09.24-22.29.18:520][941]LogModuleManager: Shutting down and abandoning module AnimationEditor (710)
+[2020.09.24-22.29.18:520][941]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (708)
+[2020.09.24-22.29.18:520][941]LogModuleManager: Shutting down and abandoning module Voice (706)
+[2020.09.24-22.29.18:520][941]LogModuleManager: Shutting down and abandoning module DistCurveEditor (704)
+[2020.09.24-22.29.18:520][941]LogModuleManager: Shutting down and abandoning module Cascade (702)
+[2020.09.24-22.29.18:520][941]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (700)
+[2020.09.24-22.29.18:520][941]LogModuleManager: Shutting down and abandoning module SceneOutliner (696)
+[2020.09.24-22.29.18:520][941]LogModuleManager: Shutting down and abandoning module AddContentDialog (694)
+[2020.09.24-22.29.18:521][941]LogModuleManager: Shutting down and abandoning module WidgetCarousel (693)
+[2020.09.24-22.29.18:521][941]LogModuleManager: Shutting down and abandoning module EditorWidgets (690)
+[2020.09.24-22.29.18:521][941]LogModuleManager: Shutting down and abandoning module CollectionManager (688)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module StatsViewer (686)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (684)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module FoliageEdit (682)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module LandscapeEditor (680)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module MeshPaintMode (678)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (676)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module ActorPickerMode (674)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module GeometryMode (672)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module TextureAlignMode (670)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module BspMode (668)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (666)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (664)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module AutomationWorker (662)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module SteamVREditor (660)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module OculusMR (658)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (656)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (654)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (652)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module PlacementMode (651)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module MaterialEditor (650)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (646)
+[2020.09.24-22.29.18:522][941]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (644)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (642)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (640)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (638)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module WebMMedia (636)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (634)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (632)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module SequenceRecorder (631)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (628)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (626)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (624)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (622)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (620)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (618)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (616)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (614)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (612)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (610)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module CharacterAI (608)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module SmartSnapping (606)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module SessionServices (604)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module MeshPaint (602)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module ViewportSnapping (600)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module ViewportInteraction (598)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module ClothPainter (596)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (595)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module LogVisualizer (592)
+[2020.09.24-22.29.18:523][941]LogModuleManager: Shutting down and abandoning module IntroTutorials (590)
+[2020.09.24-22.29.18:524][941]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (589)
+[2020.09.24-22.29.18:524][941]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (586)
+[2020.09.24-22.29.18:524][941]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (584)
+[2020.09.24-22.29.18:524][941]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (582)
+[2020.09.24-22.29.18:524][941]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (581)

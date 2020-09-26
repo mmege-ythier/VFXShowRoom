@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.SkeletalMesh Name="DurendalAnimation"
+   Begin Object Class=/Script/UnrealEd.FbxSkeletalMeshImportData Name="FbxSkeletalMeshImportData_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="FbxSkeletalMeshImportData_0"
+      ThresholdUV=0.000977
+      ImportMaterialOriginalNameData(0)=""
+      ImportMeshLodData(0)=(SectionOriginalMaterialName=(""))
+      ImportUniformScale=0.500000
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   Skeleton=Skeleton'"/Game/ShowRoom/DurendalUltimate/Animation/Animation_Skeleton.Animation_Skeleton"'
+   LODInfo(0)=(LODHysteresis=0.020000,BuildSettings=(bComputeWeightedNormals=True,ThresholdUV=0.000977),ReductionSettings=(NumOfTrianglesPercentage=1.000000,NumOfVertPercentage=1.000000,MaxDeviationPercentage=0.000000))
+   PhysicsAsset=PhysicsAsset'"/Game/ShowRoom/DurendalUltimate/Animation/Animation_PhysicsAsset.Animation_PhysicsAsset"'
+   AssetImportData=FbxSkeletalMeshImportData'"FbxSkeletalMeshImportData_0"'
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+   RetargetBasePose(0)=(Rotation=(X=-0.707107,Y=-0.000000,Z=-0.000000,W=0.707107),Translation=(X=-499.999939,Y=0.000048,Z=49.999973),Scale3D=(X=0.500000,Y=0.500000,Z=0.500000))
+   SamplingInfo=(BuiltData=(WholeMeshBuiltData=(())))
+End Object
