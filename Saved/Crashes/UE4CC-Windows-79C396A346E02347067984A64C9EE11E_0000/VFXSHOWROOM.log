@@ -1,0 +1,1336 @@
+﻿Log file open, 01/11/21 11:58:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VFXSHOWROOM
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.058339
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BlueprintJson
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.11-09.58.21:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.11-09.58.21:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.11-09.58.21:924][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.11-09.58.21:926][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.11-09.58.21:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.11-09.58.21:927][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.11-09.58.21:927][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.11-09.58.21:927][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.11-09.58.21:929][  0]LogHAL: Display: Platform has ~ 16 GB [16909565952 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.11-09.58.21:929][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.11-09.58.21:929][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.11-09.58.21:929][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.11-09.58.21:930][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/_Data/UnrealProject/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.11-09.58.21:930][  0]LogInit: Computer: DESKTOP-F1NPMHH
+[2021.01.11-09.58.21:930][  0]LogInit: User: maxim
+[2021.01.11-09.58.21:930][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.01.11-09.58.21:930][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.11-09.58.21:930][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.01.11-09.58.21:930][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.11-09.58.21:930][  0]LogMemory: Process Physical Memory: 108.01 MB used, 108.02 MB peak
+[2021.01.11-09.58.21:930][  0]LogMemory: Process Virtual Memory: 102.44 MB used, 102.44 MB peak
+[2021.01.11-09.58.21:930][  0]LogMemory: Physical Memory: 5966.50 MB used,  10159.72 MB free, 16126.22 MB total
+[2021.01.11-09.58.21:930][  0]LogMemory: Virtual Memory: 5182.00 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2021.01.11-09.58.21:932][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.11-09.58.21:957][  0]LogInit: Using OS detected language (en-US).
+[2021.01.11-09.58.21:957][  0]LogInit: Using OS detected locale (en-FI).
+[2021.01.11-09.58.21:957][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.11-09.58.22:061][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.11-09.58.22:080][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.11-09.58.22:080][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.11-09.58.22:173][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.11-09.58.22:173][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.11-09.58.22:173][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.11-09.58.22:173][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.11-09.58.22:240][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.01.11-09.58.22:240][  0]LogD3D11RHI:       8031/0/8063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.11-09.58.22:242][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.11-09.58.22:242][  0]LogD3D11RHI:       0/0/8063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.11-09.58.22:242][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.11-09.58.22:246][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.11-09.58.22:247][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.11-09.58.22:247][  0]LogWindows: EnumDisplayDevices:
+[2021.01.11-09.58.22:247][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2021.01.11-09.58.22:247][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2021.01.11-09.58.22:247][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.01.11-09.58.22:247][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.01.11-09.58.22:247][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.11-09.58.22:247][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.01.11-09.58.22:247][  0]LogD3D11RHI:   Driver Version: 456.79 (internal:27.21.14.5679, unified:456.79)
+[2021.01.11-09.58.22:247][  0]LogD3D11RHI:      Driver Date: 10-8-2020
+[2021.01.11-09.58.22:247][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.01.11-09.58.22:289][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.11-09.58.22:289][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.11-09.58.22:300][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.11-09.58.22:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.11-09.58.22:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.11-09.58.22:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.11-09.58.22:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.11-09.58.22:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.11-09.58.22:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.11-09.58.22:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.11-09.58.22:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.11-09.58.22:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.11-09.58.22:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.11-09.58.22:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.11-09.58.22:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.11-09.58.22:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.11-09.58.22:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.11-09.58.22:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.11-09.58.22:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.11-09.58.22:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.11-09.58.22:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.11-09.58.22:604][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.11-09.58.22:606][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.11-09.58.22:621][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (D:/_Data/UnrealProject/VFXShowRoom/Intermediate/Shaders/WorkingDirectory/9160/).
+[2021.01.11-09.58.22:621][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/maxim/AppData/Local/Temp/UnrealShaderWorkingDir/F1489B6D45428EC892D763BCF5BE73F9/'.
+[2021.01.11-09.58.22:622][  0]LogXGEController: Cleaning working directory: C:/Users/maxim/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.11-09.58.22:622][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.11-09.58.22:622][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.11-09.58.22:622][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.11-09.58.23:155][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.11-09.58.23:201][  0]LogDerivedDataCache: Loaded boot cache 0.05s 82MB C:/Users/maxim/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.11-09.58.23:201][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/maxim/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.01.11-09.58.23:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/_Data/UnrealProject/VFXShowRoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.11-09.58.23:201][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.11-09.58.23:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/_Data/UnrealProject/VFXShowRoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.11-09.58.23:201][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.11-09.58.23:209][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.11-09.58.23:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.11-09.58.23:209][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.11-09.58.23:210][  0]LogDerivedDataCache: Using Local data cache path C:/Users/maxim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.11-09.58.23:210][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.11-09.58.23:210][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.11-09.58.23:228][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.11-09.58.23:229][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.11-09.58.23:230][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.11-09.58.23:268][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.01.11-09.58.23:464][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.11-09.58.23:583][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.11-09.58.23:583][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.11-09.58.23:583][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.11-09.58.23:583][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.11-09.58.23:583][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.11-09.58.23:591][  0]LogNetVersion: VFXSHOWROOM 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3410049785)
+[2021.01.11-09.58.24:344][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.027099 seconds
+[2021.01.11-09.58.24:349][  0]LogUObjectArray: 46775 objects as part of root set at end of initial load.
+[2021.01.11-09.58.24:349][  0]LogUObjectAllocator: 8142024 out of 0 bytes used by permanent object pool.
+[2021.01.11-09.58.24:349][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.11-09.58.24:666][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.11-09.58.24:668][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.11-09.58.24:703][  0]SourceControl: Source control is disabled
+[2021.01.11-09.58.24:703][  0]SourceControl: Source control is disabled
+[2021.01.11-09.58.24:703][  0]SourceControl: Source control is disabled
+[2021.01.11-09.58.24:704][  0]SourceControl: Source control is disabled
+[2021.01.11-09.58.24:704][  0]SourceControl: Source control is disabled
+[2021.01.11-09.58.24:709][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.11-09.58.24:710][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.11-09.58.24:761][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.11-09.58.24:767][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.11-09.58.24:767][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.11-09.58.24:833][  0]LogOcInput: OculusInput pre-init called
+[2021.01.11-09.58.24:839][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.11-09.58.24:839][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.11-09.58.24:889][  0]LogEngine: Initializing Engine...
+[2021.01.11-09.58.24:890][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.11-09.58.24:890][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.11-09.58.25:173][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.11-09.58.25:178][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.11-09.58.25:190][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.11-09.58.25:190][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.11-09.58.25:190][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.11-09.58.25:190][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.11-09.58.25:190][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.11-09.58.25:190][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.11-09.58.25:190][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.11-09.58.25:190][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.11-09.58.25:190][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.11-09.58.25:190][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.11-09.58.25:206][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.11-09.58.25:206][  0]LogAudioMixer: Display: Name: Speakers (USB Audio Device)
+[2021.01.11-09.58.25:206][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.01.11-09.58.25:206][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.11-09.58.25:206][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.11-09.58.25:206][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.11-09.58.25:206][  0]LogAudioMixer: Display: Channel Order:
+[2021.01.11-09.58.25:206][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.11-09.58.25:206][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.11-09.58.25:219][  0]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2021.01.11-09.58.25:224][  0]LogInit: FAudioDevice initialized.
+[2021.01.11-09.58.25:224][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.11-09.58.25:263][  0]LogDerivedDataCache: Saved boot cache 0.04s 92MB C:/Users/maxim/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.11-09.58.25:264][  0]LogInit: Texture streaming: Enabled
+[2021.01.11-09.58.25:271][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.11-09.58.25:271][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.11-09.58.25:272][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.11-09.58.25:300][  0]LogInit: Transaction tracking system initialized
+[2021.01.11-09.58.25:306][  0]BlueprintLog: New page: Editor Load
+[2021.01.11-09.58.25:326][  0]LocalizationService: Localization service is disabled
+[2021.01.11-09.58.25:357][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.11-09.58.25:357][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.11-09.58.25:530][  0]LogFileCache: Scanning file cache for directory 'D:/_Data/UnrealProject/VFXShowRoom/Content/' took 0.00s
+[2021.01.11-09.58.25:530][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.11-09.58.25:530][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.11-09.58.25:996][  0]SourceControl: Source control is disabled
+[2021.01.11-09.58.25:997][  0]Cmd: MAP LOAD FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/ShowRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.11-09.58.25:997][  0]LightingResults: New page: Lighting Build
+[2021.01.11-09.58.25:997][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-09.58.25:997][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-09.58.25:997][  0]MapCheck: New page: Map Check
+[2021.01.11-09.58.25:997][  0]LightingResults: New page: Lighting Build
+[2021.01.11-09.58.26:025][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.01.11-09.58.26:176][  0]LogAIModule: Creating AISystem for world ShowRoom
+[2021.01.11-09.58.26:188][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.11-09.58.26:219][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.01.11-09.58.26:220][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.11-09.58.26:221][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,115ms to complete.
+[2021.01.11-09.58.26:221][  0]LogFileHelpers: Loading map 'ShowRoom' took 0.224
+[2021.01.11-09.58.26:350][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-09.58.26:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-09.58.26:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-09.58.26:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-09.58.26:368][  0]LogCollectionManager: Loaded 0 collections in 0.001071 seconds
+[2021.01.11-09.58.26:378][  0]LogFileCache: Scanning file cache for directory 'D:/_Data/UnrealProject/VFXShowRoom/Saved/Collections/' took 0.00s
+[2021.01.11-09.58.26:378][  0]LogFileCache: Scanning file cache for directory 'D:/_Data/UnrealProject/VFXShowRoom/Content/Developers/maxim/Collections/' took 0.00s
+[2021.01.11-09.58.26:378][  0]LogFileCache: Scanning file cache for directory 'D:/_Data/UnrealProject/VFXShowRoom/Content/Collections/' took 0.00s
+[2021.01.11-09.58.26:378][  0]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 3166 classes and 738 folders.
+[2021.01.11-09.58.26:379][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.11-09.58.26:428][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.11-09.58.26:432][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.01.11-09.58.26:466][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.11-09.58.26:467][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.11-09.58.26:470][  0]LogSlate: Took 0.000561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.11-09.58.26:522][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.01.11-09.58.26:589][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.11-09.58.26:589][  0]LogLoad: (Engine Initialization) Total time: 5.96 seconds
+[2021.01.11-09.58.26:589][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.11-09.58.26:733][  0]LogAssetRegistry: Asset discovery search completed in 3.4663 seconds
+[2021.01.11-09.58.26:736][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2021.01.11-09.58.26:737][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.11-09.58.26:783][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.11-09.58.26:794][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/_Data/UnrealProject/VFXShowRoom/Content/' took 0.09s
+[2021.01.11-09.58.40:371][538]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.11-09.59.45:714][264]Cmd: DELETE
+[2021.01.11-09.59.45:714][264]Cmd: ACTOR DELETE
+[2021.01.11-09.59.45:728][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.11-09.59.45:755][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.01.11-09.59.45:756][264]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.01.11-09.59.52:566][ 66]LogSlate: Took 0.002257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.11-10.00.00:277][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.00.00:281][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.00.00:289][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.00.00:293][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.00.24:998][895]Cmd: DELETE
+[2021.01.11-10.00.24:998][895]Cmd: ACTOR DELETE
+[2021.01.11-10.00.24:999][895]LogEditorActor: Deleted Actor: BP_LightStudio_C
+[2021.01.11-10.00.25:027][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.01.11-10.00.25:028][895]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.01.11-10.00.45:429][203]SourceControl: fatal: /Script: '/Script' is outside repository at 'D:/_Data/UnrealProject/VFXShowRoom'
+[2021.01.11-10.00.47:598][442]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.11-10.00.47:602][442]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.11-10.01.08:247][831]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.11-10.01.45:402][173]Cmd: DELETE
+[2021.01.11-10.01.45:402][173]Cmd: ACTOR DELETE
+[2021.01.11-10.01.45:403][173]LogEditorActor: Deleted Actor: AtmosphericFog
+[2021.01.11-10.01.45:429][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.01.11-10.01.45:432][173]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.01.11-10.02.03:649][337]Cmd: DELETE
+[2021.01.11-10.02.03:649][337]Cmd: ACTOR DELETE
+[2021.01.11-10.02.03:650][337]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2021.01.11-10.02.03:677][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.01.11-10.02.03:678][337]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.01.11-10.04.21:649][339]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.11-10.08.02:209][915]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.11-10.08.11:569][996]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.11-10.08.21:452][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.08.21:456][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.08.21:460][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.08.21:464][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.08.24:801][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2021.01.11-10.08.28:508][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2021.01.11-10.09.26:053][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.09.26:056][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.09.26:062][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.09.26:066][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.11.00:730][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.01.11-10.11.00:735][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Level/ShowRoom" FILE="D:/_Data/UnrealProject/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/Level/ShowRoom_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.11-10.11.00:875][737]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/ShowRoom_Auto1FCBBE81341CDBB42B04E71A48793ECB1.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/Level/ShowRoom_Auto1.umap'
+[2021.01.11-10.11.00:878][737]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ShowRoom/Level/ShowRoom' took 0.176
+[2021.01.11-10.11.00:878][737]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.176
+[2021.01.11-10.12.34:189][279]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.11-10.12.34:191][279]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.11-10.12.34:989][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor41)
+[2021.01.11-10.13.10:315][231]LogEditorViewport: Clicking Background
+[2021.01.11-10.13.10:682][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor29)
+[2021.01.11-10.13.18:611][215]LogEditorViewport: Clicking Background
+[2021.01.11-10.13.39:102][628]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.11-10.14.09:494][237]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.11-10.14.39:661][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.01.11-10.16.12:187][595]LogEditorViewport: Clicking Background
+[2021.01.11-10.16.51:250][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.11-10.16.51:253][196]LogMetaData: Removing '/Game/ShowRoom/Level/SlashesShowroom.SlashesShowroom_C' ref from Metadata '/Game/ShowRoom/Level/ShowRoom.PackageMetaData'
+[2021.01.11-10.16.51:253][196]LogMetaData: Removing '/Game/ShowRoom/Level/SlashesShowroom.SKEL_SlashesShowroom_C' ref from Metadata '/Game/ShowRoom/Level/ShowRoom.PackageMetaData'
+[2021.01.11-10.16.51:269][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Level/SlashesShowroom_BuiltData" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/SlashesShowroom_BuiltData.uasset" SILENT=true
+[2021.01.11-10.16.51:289][196]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/SlashesShowroom_BuiltData5E51D6534056069DE5EA9DB1E3C292DD.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/SlashesShowroom_BuiltData.uasset'
+[2021.01.11-10.16.51:515][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Level/ShowRoom_BuiltData" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/ShowRoom_BuiltData.uasset" SILENT=true
+[2021.01.11-10.16.51:552][196]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/ShowRoom_BuiltDataCF24B75F49B17F558AFF86BA2A3F0266.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/ShowRoom_BuiltData.uasset'
+[2021.01.11-10.16.51:554][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Level/SlashesShowroom" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/SlashesShowroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.11-10.16.51:580][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.11-10.16.51:700][196]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/SlashesShowroomFED6702844E5CFE5821469B97D122607.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/SlashesShowroom.umap'
+[2021.01.11-10.16.51:879][196]LogFileHelpers: Saving map 'SlashesShowroom' took 0.325
+[2021.01.11-10.16.51:879][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Level/ShowRoom" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/ShowRoom.umap" SILENT=true
+[2021.01.11-10.16.51:883][196]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/ShowRoom93F94B7946184FD2FEF851A5A70A6733.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/ShowRoom.umap'
+[2021.01.11-10.16.52:257][196]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-10.16.52:257][196]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ShowRoom/Level/SlashesShowroom_BuiltData.SlashesShowroom_BuiltData
+[2021.01.11-10.16.52:258][196]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Level/ShowRoom_BuiltData.ShowRoom_BuiltData
+[2021.01.11-10.16.52:258][196]LogContentValidation: Display: Validating World /Game/ShowRoom/Level/SlashesShowroom.SlashesShowroom
+[2021.01.11-10.16.52:258][196]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Level/ShowRoom.ShowRoom_C
+[2021.01.11-10.16.52:258][196]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Level/ShowRoom.ShowRoom
+[2021.01.11-10.16.53:939][388]MapCheck: New page: Map Check
+[2021.01.11-10.16.53:949][388]LightingResults: New page: Lighting Build - 11 Jan 2021, 14.16.53
+[2021.01.11-10.16.54:005][388]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.11-10.16.54:078][388]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.11-10.16.54:092][388]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.11-10.16.54:608][388]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.11-10.16.54:609][388]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9160
+[2021.01.11-10.17.01:268][388]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.01.11-10.17.01:268][388]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.11-10.17.01:268][388]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.11-10.17.01:268][388]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.11-10.17.01:268][388]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.11-10.17.01:268][388]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.11-10.17.01:394][388]LogEditorBuildUtils: Build time 0:07
+[2021.01.11-10.17.01:404][388]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MAT_Concrete_Tiles, compiling. 
+[2021.01.11-10.17.01:423][388]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MAT_Concrete_Tiles, compiling. 
+[2021.01.11-10.17.01:453][389]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.01.11-10.17.01:453][389]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.01.11-10.17.01:453][389]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.01.11-10.17.01:453][389]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.01.11-10.17.01:464][389]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.01.11-10.17.01:478][389]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.01.11-10.17.01:478][389]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.01.11-10.17.01:478][389]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.01.11-10.17.01:521][389]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.01.11-10.17.01:521][389]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.01.11-10.17.02:146][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.01.11-10.17.04:196][506]Job is a success!
+[2021.01.11-10.17.04:330][507]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.01.11-10.17.04:330][507]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.01.11-10.17.04:330][507]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2021.01.11-10.17.04:330][507]LogVolumetricLightmapImport:      Bricks at depth
+[2021.01.11-10.17.04:330][507]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2021.01.11-10.17.04:330][507]LogVolumetricLightmapImport:          1: 7.4% covering 6.3% of volume
+[2021.01.11-10.17.04:330][507]LogVolumetricLightmapImport:          2: 90.7% covering 1.2% of volume
+[2021.01.11-10.17.04:330][507]LogVolumetricLightmapImport:      Bricks in each level
+[2021.01.11-10.17.04:330][507]LogVolumetricLightmapImport:          SlashesShowroom 			 54 bricks 	 100.0% (Persistent Level)
+[2021.01.11-10.17.04:630][507]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.01.11-10.17.04:630][507]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.01.11-10.17.04:630][507]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.01.11-10.17.04:630][507]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.01.11-10.17.04:630][507]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2021.01.11-10.17.04:630][507]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2021.01.11-10.17.04:630][507]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2021.01.11-10.17.04:630][507]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2021.01.11-10.17.04:630][507]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2021.01.11-10.17.04:630][507]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2021.01.11-10.17.04:677][507]LogStaticLightingSystem: SlashesShowroom_BuiltData storing lightmap data for 144 meshes in 5 LightmapResourceClusters (28.8 Meshes per cluster).
+[2021.01.11-10.17.04:708][507]Lightmass on DESKTOP-F1NPMHH: 2.00 sec total, 53 ms importing, 7 ms setup, 200 ms photons, 1.69 sec processing, 0 ms extra exporting [144/144 mappings]. Threads: 25.3 sec total, 12.4 sec processing.
+[2021.01.11-10.17.04:710][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.01.11-10.17.04:756][507]LogStaticLightingSystem: Illumination: 10.7 sec (259 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.01.11-10.17.04:757][507]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (10.0 MB streaming, 0.0 MB non-streaming), 10 textures
+[2021.01.11-10.17.04:757][507]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.01.11-10.17.05:274][507]DumpUnbuiltLightIteractions
+[2021.01.11-10.17.05:274][507]Lights with unbuilt interactions: 0
+[2021.01.11-10.17.05:274][507]
+[2021.01.11-10.17.05:274][507]Primitives with unbuilt interactions: 0
+[2021.01.11-10.17.05:362][508]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.11-10.17.05:362][508]MapCheck: New page: SlashesShowroom - 11 Jan 2021, 14.17.05
+[2021.01.11-10.17.05:366][508]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4,057ms to complete.
+[2021.01.11-10.17.21:752][448]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.11-10.18.43:295][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.18.43:299][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.18.43:304][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.18.43:308][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.19.08:803][ 65]Cmd: DELETE
+[2021.01.11-10.19.08:803][ 65]Cmd: ACTOR DELETE
+[2021.01.11-10.19.08:806][ 65]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.01.11-10.19.08:834][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.01.11-10.19.08:836][ 65]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.01.11-10.23.00:225][466]LogMaterial: Display: Missing cached shader map for material MAT_Add_Tex, compiling. 
+[2021.01.11-10.23.00:251][467]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 18
+[2021.01.11-10.23.00:252][467]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2021.01.11-10.23.00:252][467]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2021.01.11-10.23.00:252][467]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2021.01.11-10.23.00:252][467]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.01.11-10.23.00:252][467]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.01.11-10.23.00:252][467]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.01.11-10.23.00:252][467]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.01.11-10.23.00:252][467]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.01.11-10.23.05:885][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.23.05:887][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.23.05:894][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.23.05:898][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-10.23.13:179][909]LogTexture: Display: Building textures: T_Noise_Flame (AutoDXT, 512X512)
+[2021.01.11-10.23.13:179][909]LogTexture: Display: Building textures: T_CircleImpact (AutoDXT, 512X512)
+[2021.01.11-10.23.13:179][909]LogTexture: Display: Building textures: T_FlammeColor02 (AutoDXT, 512X512)
+[2021.01.11-10.23.13:179][909]LogTexture: Display: Building textures: T_FX_Flowmap_01 (AutoDXT, 1024X1024)
+[2021.01.11-10.23.13:179][909]LogMaterial: Display: Missing cached shader map for material MAT_ImpactBurst, compiling. 
+[2021.01.11-10.23.13:225][910]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 138
+[2021.01.11-10.23.13:225][910]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 128
+[2021.01.11-10.23.13:225][910]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 118
+[2021.01.11-10.23.13:225][910]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 108
+[2021.01.11-10.23.13:225][910]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 98
+[2021.01.11-10.23.13:226][910]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 88
+[2021.01.11-10.23.13:226][910]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 78
+[2021.01.11-10.23.13:226][910]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 68
+[2021.01.11-10.23.13:226][910]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 58
+[2021.01.11-10.23.13:226][910]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 48
+[2021.01.11-10.23.13:226][910]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 38
+[2021.01.11-10.23.13:226][910]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 28
+[2021.01.11-10.23.16:334][ 49]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 18
+[2021.01.11-10.23.16:379][ 51]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 16
+[2021.01.11-10.23.16:478][ 56]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2021.01.11-10.23.17:101][ 87]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2021.01.11-10.23.17:101][ 87]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.01.11-10.23.17:101][ 87]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2021.01.11-10.23.17:116][ 88]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.01.11-10.23.17:226][ 94]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2021.01.11-10.23.17:314][ 98]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.01.11-10.23.17:334][ 99]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2021.01.11-10.23.17:512][109]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.01.11-10.23.17:531][110]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.01.11-10.23.17:612][114]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.01.11-10.23.17:765][121]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.01.11-10.26.47:874][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.01.11-10.26.47:878][863]LogMetaData: Removing '/Game/ShowRoom/SlashesShowroom/SlashesShowroom.SlashesShowroom_C' ref from Metadata '/Game/ShowRoom/Level/SlashesShowroom.PackageMetaData'
+[2021.01.11-10.26.47:878][863]LogMetaData: Removing '/Game/ShowRoom/SlashesShowroom/SlashesShowroom.SKEL_SlashesShowroom_C' ref from Metadata '/Game/ShowRoom/Level/SlashesShowroom.PackageMetaData'
+[2021.01.11-10.26.47:964][863]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/SlashesShowroom_BuiltData87A1C9D548AE4253C74CE8AAB088506A.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/SlashesShowroom_BuiltData.uasset'
+[2021.01.11-10.26.48:221][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/ShowRoom_C" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/ShowRoom_C.uasset" SILENT=true
+[2021.01.11-10.26.48:222][863]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/ShowRoom_CBF6239C440BB7FF99C60A7BCE0108696.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/ShowRoom_C.uasset'
+[2021.01.11-10.26.48:358][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Level/ShowRoom" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/ShowRoom.umap" SILENT=true
+[2021.01.11-10.26.48:361][863]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/ShowRoom6D9BE71F42F39D893C4D4798649D70FC.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/ShowRoom.umap'
+[2021.01.11-10.26.48:362][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/ShowRoom" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/ShowRoom.uasset" SILENT=true
+[2021.01.11-10.26.48:362][863]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/ShowRoom4DBECDA842D74297D3ACFC89DE69F1D9.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/ShowRoom.uasset'
+[2021.01.11-10.26.48:516][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/ShowRoom_BuiltData" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/ShowRoom_BuiltData.uasset" SILENT=true
+[2021.01.11-10.26.48:516][863]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/ShowRoom_BuiltDataEF8AFACC402819D19C585CB245F12FB3.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/ShowRoom_BuiltData.uasset'
+[2021.01.11-10.26.48:660][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Level/ShowRoom_BuiltData" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/ShowRoom_BuiltData.uasset" SILENT=true
+[2021.01.11-10.26.48:663][863]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/ShowRoom_BuiltDataC22D11BB4B6E53C51B46149F152D87DE.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Level/ShowRoom_BuiltData.uasset'
+[2021.01.11-10.26.48:690][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.11-10.26.48:815][863]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/SlashesShowroomD9CE11454906D5013C902DB27D47E106.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/SlashesShowroom.umap'
+[2021.01.11-10.26.48:994][863]LogFileHelpers: Saving map 'SlashesShowroom' took 0.330
+[2021.01.11-10.26.49:931][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.01.11-10.26.49:958][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.11-10.26.49:988][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.01.11-10.26.50:018][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.11-10.26.50:134][863]SourceControl: rm 'Content/ShowRoom/Level/SlashesShowroom.umap'
+[2021.01.11-10.26.50:134][863]SourceControl: rm 'Content/ShowRoom/Level/SlashesShowroom_BuiltData.uasset'
+[2021.01.11-10.26.50:176][863]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-10.26.50:176][863]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ShowRoom/SlashesShowroom/SlashesShowroom_BuiltData.SlashesShowroom_BuiltData
+[2021.01.11-10.26.50:176][863]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/SlashesShowroom/ShowRoom_C.ShowRoom_C
+[2021.01.11-10.26.50:176][863]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Level/ShowRoom.ShowRoom_C
+[2021.01.11-10.26.50:176][863]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Level/ShowRoom.ShowRoom
+[2021.01.11-10.26.50:176][863]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/SlashesShowroom/ShowRoom.ShowRoom
+[2021.01.11-10.26.50:176][863]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/SlashesShowroom/ShowRoom_BuiltData.ShowRoom_BuiltData
+[2021.01.11-10.26.50:176][863]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Level/ShowRoom_BuiltData.ShowRoom_BuiltData
+[2021.01.11-10.26.50:176][863]LogContentValidation: Display: Validating World /Game/ShowRoom/SlashesShowroom/SlashesShowroom.SlashesShowroom
+[2021.01.11-10.27.14:084][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/PS_CartoonSlash01" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/PS_CartoonSlash01.uasset" SILENT=true
+[2021.01.11-10.27.14:097][613]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/PS_CartoonSlash01A2BE597146FCC8EB275FF6A87EEE8DC2.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/PS_CartoonSlash01.uasset'
+[2021.01.11-10.27.14:254][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/PS_CartoonSlash01" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/PS_CartoonSlash01.uasset" SILENT=true
+[2021.01.11-10.27.14:266][613]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/PS_CartoonSlash0122D604374CEB4B3E380E31998BC8D02E.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/PS_CartoonSlash01.uasset'
+[2021.01.11-10.27.14:271][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/PS_CartoonSlash02" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/PS_CartoonSlash02.uasset" SILENT=true
+[2021.01.11-10.27.14:287][613]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/PS_CartoonSlash02CC5B58684E00CF7886EFEDBF86C026CA.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/PS_CartoonSlash02.uasset'
+[2021.01.11-10.27.14:437][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/PS_CartoonSlash02" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/PS_CartoonSlash02.uasset" SILENT=true
+[2021.01.11-10.27.14:441][613]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/PS_CartoonSlash023D47E28A481A65FA6F9D6883BAB7078A.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/PS_CartoonSlash02.uasset'
+[2021.01.11-10.27.14:444][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/PS_CartoonSlash03" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/PS_CartoonSlash03.uasset" SILENT=true
+[2021.01.11-10.27.14:453][613]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/PS_CartoonSlash036F5AC36A480F61A49998F8AEA0F642BE.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/PS_CartoonSlash03.uasset'
+[2021.01.11-10.27.14:603][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/PS_CartoonSlash03" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/PS_CartoonSlash03.uasset" SILENT=true
+[2021.01.11-10.27.14:607][613]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/PS_CartoonSlash03B04FD2D8466823C1293CD380C9887AED.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/PS_CartoonSlash03.uasset'
+[2021.01.11-10.27.14:610][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/PS_CartoonSlash04" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/PS_CartoonSlash04.uasset" SILENT=true
+[2021.01.11-10.27.14:619][613]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/PS_CartoonSlash043608A2444F681402872EEB87A6032A5A.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/PS_CartoonSlash04.uasset'
+[2021.01.11-10.27.14:782][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/PS_CartoonSlash04" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/PS_CartoonSlash04.uasset" SILENT=true
+[2021.01.11-10.27.14:786][613]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/PS_CartoonSlash0404BA00E449519A584698FAB8ADC3D208.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/PS_CartoonSlash04.uasset'
+[2021.01.11-10.27.15:473][613]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-10.27.15:473][613]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/SlashesShowroom/PS_CartoonSlash01.PS_CartoonSlash01
+[2021.01.11-10.27.15:473][613]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/PS_CartoonSlash01.PS_CartoonSlash01
+[2021.01.11-10.27.15:473][613]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/SlashesShowroom/PS_CartoonSlash02.PS_CartoonSlash02
+[2021.01.11-10.27.15:473][613]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/PS_CartoonSlash02.PS_CartoonSlash02
+[2021.01.11-10.27.15:473][613]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/SlashesShowroom/PS_CartoonSlash03.PS_CartoonSlash03
+[2021.01.11-10.27.15:473][613]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/PS_CartoonSlash03.PS_CartoonSlash03
+[2021.01.11-10.27.15:473][613]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/SlashesShowroom/PS_CartoonSlash04.PS_CartoonSlash04
+[2021.01.11-10.27.15:473][613]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/PS_CartoonSlash04.PS_CartoonSlash04
+[2021.01.11-10.27.16:985][765]LogTexture: Display: Building textures: T_Black (AutoDXT, 32X32)
+[2021.01.11-10.27.16:985][765]LogStaticMesh: Building static mesh MDL_FX_Slash_01...
+[2021.01.11-10.27.17:002][765]LogTexture: Display: Building textures: T_SlashHighlights (AutoDXT, 512X512)
+[2021.01.11-10.27.17:002][765]LogTexture: Display: Building textures: T_SlashMask (AutoDXT, 512X512)
+[2021.01.11-10.27.17:016][765]LogStaticMesh: Built static mesh [0.03s] /Game/ShowRoom/Meshes/FXMeshes/MDL_FX_Slash_01.MDL_FX_Slash_01
+[2021.01.11-10.27.17:036][765]LogMaterial: Display: Missing cached shader map for material MAT_SlashRefraction, compiling. 
+[2021.01.11-10.27.17:052][765]LogStaticMesh: Building static mesh MDL_FX_Slash_Spiral...
+[2021.01.11-10.27.17:068][765]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2021.01.11-10.27.17:068][765]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2021.01.11-10.27.17:068][765]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2021.01.11-10.27.17:068][765]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2021.01.11-10.27.17:068][765]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2021.01.11-10.27.17:068][765]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2021.01.11-10.27.17:068][765]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2021.01.11-10.27.17:068][765]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.01.11-10.27.17:068][765]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.01.11-10.27.17:068][765]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.01.11-10.27.17:068][765]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.01.11-10.27.17:073][765]LogStaticMesh: Built static mesh [0.02s] /Game/ShowRoom/Meshes/FXMeshes/MDL_FX_Slash_Spiral.MDL_FX_Slash_Spiral
+[2021.01.11-10.27.17:078][765]LogStaticMesh: Building static mesh MDL_FX_Slash_02...
+[2021.01.11-10.27.17:090][765]LogStaticMesh: Built static mesh [0.01s] /Game/ShowRoom/Meshes/FXMeshes/MDL_FX_Slash_02.MDL_FX_Slash_02
+[2021.01.11-10.27.17:095][765]LogStaticMesh: Building static mesh MDL_FX_SlashCircular...
+[2021.01.11-10.27.17:107][765]LogStaticMesh: Built static mesh [0.01s] /Game/ShowRoom/Meshes/FXMeshes/MDL_FX_SlashCircular.MDL_FX_SlashCircular
+[2021.01.11-10.27.17:118][765]LogMaterial: Display: Missing cached shader map for material MAT_Add_RGB_UVScroll, compiling. 
+[2021.01.11-10.27.17:143][765]LogMaterial: Display: Missing cached shader map for material MAT_Unlit_RGB_UVScroll, compiling. 
+[2021.01.11-10.27.17:173][765]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ShowRoom/Particles/PF_Slashes.PF_Slashes
+[2021.01.11-10.27.17:250][765]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 84
+[2021.01.11-10.27.17:250][765]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2021.01.11-10.27.18:229][783]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 76
+[2021.01.11-10.27.18:290][788]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 69
+[2021.01.11-10.27.18:588][806]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 63
+[2021.01.11-10.27.18:856][811]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 57
+[2021.01.11-10.27.18:856][811]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 52
+[2021.01.11-10.27.18:905][812]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 47
+[2021.01.11-10.27.19:259][832]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 43
+[2021.01.11-10.27.19:358][838]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 39
+[2021.01.11-10.27.19:371][839]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 35
+[2021.01.11-10.27.19:768][868]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 32
+[2021.01.11-10.27.20:376][915]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2021.01.11-10.27.20:528][917]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 26
+[2021.01.11-10.27.20:575][918]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 23
+[2021.01.11-10.27.20:720][929]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2021.01.11-10.27.20:892][942]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2021.01.11-10.27.20:921][944]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2021.01.11-10.27.21:318][973]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2021.01.11-10.27.21:409][980]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2021.01.11-10.27.21:424][981]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2021.01.11-10.27.21:639][995]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.01.11-10.27.21:654][996]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.01.11-10.27.21:746][  3]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2021.01.11-10.27.21:761][  4]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.01.11-10.27.21:911][ 14]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2021.01.11-10.27.21:997][ 21]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.01.11-10.27.22:043][ 24]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.01.11-10.27.22:101][ 28]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.01.11-10.27.22:132][ 30]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2021.01.11-10.27.22:144][ 31]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.01.11-10.27.26:544][532]LogCascade: Quitting Cascade. FXSystem=0x000002483A00B4A0
+[2021.01.11-10.27.26:563][532]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-10.27.26:563][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-10.27.34:871][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/PF_Slashes" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/PF_Slashes.uasset" SILENT=true
+[2021.01.11-10.27.34:891][456]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/PF_Slashes4E5CEE824B458E30A055E090D7F6DB0D.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/PF_Slashes.uasset'
+[2021.01.11-10.27.35:038][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/PF_Slashes" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/PF_Slashes.uasset" SILENT=true
+[2021.01.11-10.27.35:041][456]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/PF_SlashesFDB886814540F5F1DE680BA5E755D561.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/PF_Slashes.uasset'
+[2021.01.11-10.27.35:209][456]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-10.27.35:209][456]LogContentValidation: Display: Validating ParticleSystem /Game/ShowRoom/SlashesShowroom/PF_Slashes.PF_Slashes
+[2021.01.11-10.27.35:210][456]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/PF_Slashes.PF_Slashes
+[2021.01.11-10.28.09:762][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MIC_Slashes_01" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_Slashes_01.uasset" SILENT=true
+[2021.01.11-10.28.09:770][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_01E522595D457655CD64AAC78F4B9EFF98.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_Slashes_01.uasset'
+[2021.01.11-10.28.09:954][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_01" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_01.uasset" SILENT=true
+[2021.01.11-10.28.09:980][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_010818502644B37FDC5D8110B4EBCF2956.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_01.uasset'
+[2021.01.11-10.28.09:992][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MIC_SlashBody" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashBody.uasset" SILENT=true
+[2021.01.11-10.28.09:998][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashBody791555CA44FF229622384A8C4DA2D837.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashBody.uasset'
+[2021.01.11-10.28.10:144][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MIC_SlashBody" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashBody.uasset" SILENT=true
+[2021.01.11-10.28.10:147][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashBody6218C37E498781E5371FBEAC73102C94.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashBody.uasset'
+[2021.01.11-10.28.10:158][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MIC_Slashes_02" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_Slashes_02.uasset" SILENT=true
+[2021.01.11-10.28.10:166][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_02A51840FA40E701AE477F37A2F0E3A68C.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_Slashes_02.uasset'
+[2021.01.11-10.28.10:308][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_02" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_02.uasset" SILENT=true
+[2021.01.11-10.28.10:313][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_0230AFAD3F4A542C560B4647A9C2ADF2D1.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_02.uasset'
+[2021.01.11-10.28.10:324][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MIC_Slashes_03" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_Slashes_03.uasset" SILENT=true
+[2021.01.11-10.28.10:331][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_03FE52B5614B472DA5EBCC31A5F7885CA2.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_Slashes_03.uasset'
+[2021.01.11-10.28.10:477][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_03" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_03.uasset" SILENT=true
+[2021.01.11-10.28.10:481][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_03F51724314EC34CB38F7A02985464D117.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_03.uasset'
+[2021.01.11-10.28.10:492][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MIC_Slashes_04" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_Slashes_04.uasset" SILENT=true
+[2021.01.11-10.28.10:499][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_0434F27E8046A20F93F6481BAD3E6689F6.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_Slashes_04.uasset'
+[2021.01.11-10.28.10:633][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_04" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_04.uasset" SILENT=true
+[2021.01.11-10.28.10:637][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_04D29553FC4C8175D64CEFCA985C4A6D11.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_04.uasset'
+[2021.01.11-10.28.10:648][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MIC_SlashHighlights_01" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashHighlights_01.uasset" SILENT=true
+[2021.01.11-10.28.10:654][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_01543263074492443349EBD48A88417717.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashHighlights_01.uasset'
+[2021.01.11-10.28.10:820][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_01A0A0B1D34BB24DEE89828CB95FCBDF92.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_01.uasset'
+[2021.01.11-10.28.10:831][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MIC_SlashHighlights_02" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashHighlights_02.uasset" SILENT=true
+[2021.01.11-10.28.10:838][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_023DA36DF54F8829589A1D7B8FBC1753C2.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashHighlights_02.uasset'
+[2021.01.11-10.28.10:990][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_02BCBAF6644AF6539F628B898CDADCA01C.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_02.uasset'
+[2021.01.11-10.28.11:001][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MIC_SlashHighlights_03" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashHighlights_03.uasset" SILENT=true
+[2021.01.11-10.28.11:008][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_03BA7F31904785563564C3209F488ACEFD.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashHighlights_03.uasset'
+[2021.01.11-10.28.11:147][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_0378EDFF5447C84FFE93E2458E5D17F484.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_03.uasset'
+[2021.01.11-10.28.11:158][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MIC_SlashRefraction_01" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashRefraction_01.uasset" SILENT=true
+[2021.01.11-10.28.11:165][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_01C91BB93F4F8EC815C882159FDAF8190E.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashRefraction_01.uasset'
+[2021.01.11-10.28.11:301][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_012A0082514B1B9EA6CB37D194066D298E.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_01.uasset'
+[2021.01.11-10.28.11:316][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MIC_SlashRefraction_02" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashRefraction_02.uasset" SILENT=true
+[2021.01.11-10.28.11:322][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_02615DF3BB465ABD38309EF2BDC6587181.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashRefraction_02.uasset'
+[2021.01.11-10.28.11:485][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_021532058148AE9D34D4C405B393C59964.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_02.uasset'
+[2021.01.11-10.28.11:500][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MIC_SlashRefraction_03" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashRefraction_03.uasset" SILENT=true
+[2021.01.11-10.28.11:506][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_03286B2B334FEAEED7504C25A1D2264312.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MIC_SlashRefraction_03.uasset'
+[2021.01.11-10.28.11:646][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_030D29438D4994D6AFBC8E2BB13690556E.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_03.uasset'
+[2021.01.11-10.28.11:663][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MAT_SlashRefraction" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MAT_SlashRefraction.uasset" SILENT=true
+[2021.01.11-10.28.11:672][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MAT_SlashRefractionC63A3A2542D2404CC471F2B35B31E4F8.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MAT_SlashRefraction.uasset'
+[2021.01.11-10.28.11:825][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/Mat_SlashRefraction7D0187484D25C775F4B49E910A542A25.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/Mat_SlashRefraction.uasset'
+[2021.01.11-10.28.11:842][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/MAT_Slashes" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MAT_Slashes.uasset" SILENT=true
+[2021.01.11-10.28.11:854][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MAT_SlashesADD6B00F42F352D24FCBEF97C59332E8.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/MAT_Slashes.uasset'
+[2021.01.11-10.28.11:994][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MAT_Slashes" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MAT_Slashes.uasset" SILENT=true
+[2021.01.11-10.28.12:009][406]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MAT_Slashes7C409CC84CBDDCCD771F84A00FF50CF2.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MAT_Slashes.uasset'
+[2021.01.11-10.28.14:100][406]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/MIC_Slashes_01.MIC_Slashes_01
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_01.MIC_Slashes_01
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/MIC_SlashBody.MIC_SlashBody
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashBody.MIC_SlashBody
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/MIC_Slashes_02.MIC_Slashes_02
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_02.MIC_Slashes_02
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/MIC_Slashes_03.MIC_Slashes_03
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_03.MIC_Slashes_03
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/MIC_Slashes_04.MIC_Slashes_04
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_04.MIC_Slashes_04
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/MIC_SlashHighlights_01.MIC_SlashHighlights_01
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_01.MIC_SlashHighlights_01
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/MIC_SlashHighlights_02.MIC_SlashHighlights_02
+[2021.01.11-10.28.14:100][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_02.MIC_SlashHighlights_02
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/MIC_SlashHighlights_03.MIC_SlashHighlights_03
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_03.MIC_SlashHighlights_03
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/MIC_SlashRefraction_01.MIC_SlashRefraction_01
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_01.MIC_SlashRefraction_01
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/MIC_SlashRefraction_02.MIC_SlashRefraction_02
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_02.MIC_SlashRefraction_02
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/MIC_SlashRefraction_03.MIC_SlashRefraction_03
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_03.MIC_SlashRefraction_03
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating Material /Game/ShowRoom/SlashesShowroom/MAT_SlashRefraction.MAT_SlashRefraction
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/Mat_SlashRefraction.MAT_SlashRefraction
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating Material /Game/ShowRoom/SlashesShowroom/MAT_Slashes.MAT_Slashes
+[2021.01.11-10.28.14:101][406]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MAT_Slashes.MAT_Slashes
+[2021.01.11-10.29.18:417][700]LogStaticMesh: Building static mesh MDL_FX_Slash_03...
+[2021.01.11-10.29.18:443][700]LogStaticMesh: Built static mesh [0.03s] /Game/ShowRoom/Meshes/FXMeshes/MDL_FX_Slash_03.MDL_FX_Slash_03
+[2021.01.11-10.29.18:585][700]LogTexture: Display: Building textures: T_EarthColor (AutoDXT, 1024X1024)
+[2021.01.11-10.29.18:839][700]LogTexture: Display: Building textures: T_FireColor (AutoDXT, 1024X1024)
+[2021.01.11-10.29.18:839][700]LogTexture: Display: Building textures: T_FireErosion (AutoDXT, 1024X1024)
+[2021.01.11-10.29.18:839][700]LogTexture: Display: Building textures: T_FireMask (AutoDXT, 1024X1024)
+[2021.01.11-10.29.19:046][700]LogTexture: Display: Building textures: T_FX_Cone (DXT1, 512X512)
+[2021.01.11-10.29.19:046][700]LogTexture: Display: Building textures: T_Mask03 (AutoDXT, 1024X1024)
+[2021.01.11-10.29.19:046][700]LogTexture: Display: Building textures: T_Rim_Mask (AutoDXT, 512X512)
+[2021.01.11-10.29.19:131][700]LogTexture: Display: Building textures: T_VoronoiNoise (AutoDXT, 512X512)
+[2021.01.11-10.29.19:131][700]LogTexture: Display: Building textures: T_Watercolor (AutoDXT, 256X256)
+[2021.01.11-10.29.19:131][700]LogTexture: Display: Building textures: T_WaterSlashMask (AutoDXT, 256X256)
+[2021.01.11-10.29.19:155][700]LoadErrors: Error: /Game/ShowRoom/Particles/FXMeshes/MDL_FX_CylinderNoise : Failed import for StaticMesh /Game/ShowRoom/Particles/FXMeshes/MDL_FX_CylinderNoise.MDL_FX_CylinderNoise [redirection] in /Game/ShowRoom/Particles/FXMeshes/MDL_FX_CylinderNoise Referenced by export ObjectRedirector /Game/ShowRoom/Particles/FXMeshes/MDL_FX_CylinderNoise.MDL_FX_CylinderNoise
+[2021.01.11-10.29.51:695][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Materials/MAT_Slashes" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MAT_Slashes.uasset" SILENT=true
+[2021.01.11-10.29.51:707][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MAT_SlashesFEA05F334C87DB5DA336C78AE0AA9342.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MAT_Slashes.uasset'
+[2021.01.11-10.29.51:920][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MAT_SlashRefraction50ACA964482569A322C52F909FCA1E75.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MAT_SlashRefraction.uasset'
+[2021.01.11-10.29.52:065][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Materials/MIC_SlashBody" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_SlashBody.uasset" SILENT=true
+[2021.01.11-10.29.52:072][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashBody27F0DF0E4D4168B0E4720C9E4B1EF10E.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_SlashBody.uasset'
+[2021.01.11-10.29.52:238][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_01C92AC82E4AF40FE90EF368B35EF5073A.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_Slashes_01.uasset'
+[2021.01.11-10.29.52:403][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_0214D8A36C4227204151D175BF04ED7FC6.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_Slashes_02.uasset'
+[2021.01.11-10.29.52:569][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_0356394AF24E32F18ECEFFD28FDE6E3CF0.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_Slashes_03.uasset'
+[2021.01.11-10.29.52:751][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_044AE9E7874CBEAEB135D9B0A5D38B2EA0.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_Slashes_04.uasset'
+[2021.01.11-10.29.52:907][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_016E2E032645304E72EDCDEFB862DC4839.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_SlashHighlights_01.uasset'
+[2021.01.11-10.29.53:061][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_0296120B8D4C7E92BC119D78A08396B4F6.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_SlashHighlights_02.uasset'
+[2021.01.11-10.29.53:208][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_0345E1D63945614CC8D854D4AB75AA9D50.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_SlashHighlights_03.uasset'
+[2021.01.11-10.29.53:366][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_01839EAFAD4C0B4E7D547288865D581472.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_SlashRefraction_01.uasset'
+[2021.01.11-10.29.53:530][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_020FE8A54649513DBC70E3ECBBFAC03EE5.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_SlashRefraction_02.uasset'
+[2021.01.11-10.29.53:707][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_0332D2AFE44E64F47B0D28AD935166E851.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Materials/MIC_SlashRefraction_03.uasset'
+[2021.01.11-10.29.56:227][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.01.11-10.29.56:258][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.11-10.29.56:285][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.11-10.29.56:311][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.11-10.29.56:338][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.11-10.29.56:365][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.11-10.29.56:392][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.11-10.29.56:425][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.11-10.29.56:451][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.11-10.29.56:479][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.11-10.29.56:505][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.11-10.29.56:530][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.11-10.29.56:557][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.11-10.29.56:588][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.01.11-10.29.56:614][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MAT_SlashRefraction.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MAT_Slashes.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MIC_SlashBody.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MIC_SlashHighlights_01.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MIC_SlashHighlights_02.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MIC_SlashHighlights_03.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MIC_SlashRefraction_01.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MIC_SlashRefraction_02.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MIC_SlashRefraction_03.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MIC_Slashes_01.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MIC_Slashes_02.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MIC_Slashes_03.uasset'
+[2021.01.11-10.29.56:745][339]SourceControl: rm 'Content/ShowRoom/SlashesShowroom/MIC_Slashes_04.uasset'
+[2021.01.11-10.29.56:837][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MAT_Slashes" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MAT_Slashes.uasset" SILENT=true
+[2021.01.11-10.29.56:840][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MAT_Slashes673D46F74979398AB6C408822B33192B.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MAT_Slashes.uasset'
+[2021.01.11-10.29.56:844][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/Mat_SlashRefractionF8F1C3F5425DB0935C9DF18767C67B0C.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/Mat_SlashRefraction.uasset'
+[2021.01.11-10.29.56:844][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MIC_SlashBody" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashBody.uasset" SILENT=true
+[2021.01.11-10.29.56:847][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashBody3C53A3C243F92FD58C1674845279D868.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashBody.uasset'
+[2021.01.11-10.29.56:848][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_01" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_01.uasset" SILENT=true
+[2021.01.11-10.29.56:850][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_01F62F0AAF4E2908E9BE0C4CA807500C87.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_01.uasset'
+[2021.01.11-10.29.56:851][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_02" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_02.uasset" SILENT=true
+[2021.01.11-10.29.56:854][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_02982A31CC47D30A71F99F23843F13843E.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_02.uasset'
+[2021.01.11-10.29.56:855][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_03" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_03.uasset" SILENT=true
+[2021.01.11-10.29.56:857][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_03458933A448A4F50EEA2B42A5C5E23F03.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_03.uasset'
+[2021.01.11-10.29.56:858][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_04" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_04.uasset" SILENT=true
+[2021.01.11-10.29.56:861][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_Slashes_04A13B6F37483576E11CBEC0AA2C7F2C8B.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_Slashes_04.uasset'
+[2021.01.11-10.29.56:864][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_01FFB97F1440D330F2B644F48443E07C45.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_01.uasset'
+[2021.01.11-10.29.56:867][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_020838A778490FBEF86301B789CCE4F0A1.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_02.uasset'
+[2021.01.11-10.29.56:871][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashHighlights_03548CA236494E9268C87AE9BF72E4F3B5.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_03.uasset'
+[2021.01.11-10.29.56:874][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_0181C3A3AA4AF8C12DAFDE7F949EDFC636.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_01.uasset'
+[2021.01.11-10.29.56:877][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_0232E77D4D4442BC89E337B6B3816A5AAD.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_02.uasset'
+[2021.01.11-10.29.56:881][339]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/MIC_SlashRefraction_03A17596DE42DB93C3B7C526BADB1FB695.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_03.uasset'
+[2021.01.11-10.29.56:954][339]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating Material /Game/ShowRoom/SlashesShowroom/Materials/MAT_Slashes.MAT_Slashes
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating Material /Game/ShowRoom/SlashesShowroom/Materials/MAT_SlashRefraction.MAT_SlashRefraction
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/Materials/MIC_SlashBody.MIC_SlashBody
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/Materials/MIC_Slashes_01.MIC_Slashes_01
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/Materials/MIC_Slashes_02.MIC_Slashes_02
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/Materials/MIC_Slashes_03.MIC_Slashes_03
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/Materials/MIC_Slashes_04.MIC_Slashes_04
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/Materials/MIC_SlashHighlights_01.MIC_SlashHighlights_01
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/Materials/MIC_SlashHighlights_02.MIC_SlashHighlights_02
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/Materials/MIC_SlashHighlights_03.MIC_SlashHighlights_03
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/Materials/MIC_SlashRefraction_01.MIC_SlashRefraction_01
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/Materials/MIC_SlashRefraction_02.MIC_SlashRefraction_02
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/SlashesShowroom/Materials/MIC_SlashRefraction_03.MIC_SlashRefraction_03
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MAT_Slashes.MAT_Slashes
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/Mat_SlashRefraction.MAT_SlashRefraction
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashBody.MIC_SlashBody
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_01.MIC_Slashes_01
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_02.MIC_Slashes_02
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_03.MIC_Slashes_03
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_Slashes_04.MIC_Slashes_04
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_01.MIC_SlashHighlights_01
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_02.MIC_SlashHighlights_02
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashHighlights_03.MIC_SlashHighlights_03
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_01.MIC_SlashRefraction_01
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_02.MIC_SlashRefraction_02
+[2021.01.11-10.29.56:954][339]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Particles/FXMaterials/MIC_SlashRefraction_03.MIC_SlashRefraction_03
+[2021.01.11-10.31.13:628][775]LogTexture: Display: Building textures: T_FX_GroundCracks1 (AutoDXT, 1024X1024)
+[2021.01.11-10.31.20:847][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.01.11-10.31.21:861][600]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.11-10.31.22:017][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.01.11-10.31.22:052][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.01.11-10.31.22:083][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.11-10.31.22:421][600]SourceControl: Error: Updated 0 paths from the index
+[2021.01.11-10.31.22:535][600]SourceControl: rm 'Content/ShowRoom/Textures/T_FX_GroundCracks1.uasset'
+[2021.01.11-10.32.15:661][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_WaterSlashMask87F393154BF07447142507A59C537979.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_WaterSlashMask.uasset'
+[2021.01.11-10.32.15:803][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_WaterSlashMask" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_WaterSlashMask.uasset" SILENT=true
+[2021.01.11-10.32.15:806][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_WaterSlashMask81A349994F853D2683B645A3D0939710.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_WaterSlashMask.uasset'
+[2021.01.11-10.32.15:812][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Textures/T_Watercolor" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_Watercolor.uasset" SILENT=true
+[2021.01.11-10.32.15:815][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_WatercolorA6E5B9A74D77658DFAE10DB534EF904F.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_Watercolor.uasset'
+[2021.01.11-10.32.15:971][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_Watercolor" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_Watercolor.uasset" SILENT=true
+[2021.01.11-10.32.15:974][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_Watercolor51C5449046BE371F5633DFBCC48A2FDF.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_Watercolor.uasset'
+[2021.01.11-10.32.15:979][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Textures/T_Rim_Mask" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_Rim_Mask.uasset" SILENT=true
+[2021.01.11-10.32.15:986][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_Rim_Mask74411F2B47598CD838EF3D8B6A664BE1.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_Rim_Mask.uasset'
+[2021.01.11-10.32.16:148][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_Rim_Mask" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_Rim_Mask.uasset" SILENT=true
+[2021.01.11-10.32.16:151][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_Rim_Mask2AE65FAD43040878E034C3BC3F229A4C.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_Rim_Mask.uasset'
+[2021.01.11-10.32.16:156][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Textures/T_SlashColor" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_SlashColor.uasset" SILENT=true
+[2021.01.11-10.32.16:164][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashColor69C801274EAC3E53357556B86D1B5E18.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_SlashColor.uasset'
+[2021.01.11-10.32.16:346][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_SlashColor" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashColor.uasset" SILENT=true
+[2021.01.11-10.32.16:363][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashColor03707BCE4B76657D988421A8560983F2.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashColor.uasset'
+[2021.01.11-10.32.16:367][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Textures/T_Mask03" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_Mask03.uasset" SILENT=true
+[2021.01.11-10.32.16:373][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_Mask03B4163E61447DA1B98A76F1B2A2D3FC59.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_Mask03.uasset'
+[2021.01.11-10.32.16:541][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_Mask03" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_Mask03.uasset" SILENT=true
+[2021.01.11-10.32.16:546][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_Mask03CF39969346DD86C300D56584EF5905C8.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_Mask03.uasset'
+[2021.01.11-10.32.16:559][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashColor_GreenFF2884104E04794480E385BAF6179225.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_SlashColor_Green.uasset'
+[2021.01.11-10.32.16:713][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_SlashColor_Green" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashColor_Green.uasset" SILENT=true
+[2021.01.11-10.32.16:723][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashColor_Green4A4F050F4ACF258B895600816332AE74.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashColor_Green.uasset'
+[2021.01.11-10.32.16:738][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashColor_PurpleF986E92F4D3B574C831CE9BCA5FC89C3.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_SlashColor_Purple.uasset'
+[2021.01.11-10.32.16:911][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_SlashColor_Purple" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashColor_Purple.uasset" SILENT=true
+[2021.01.11-10.32.16:914][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashColor_Purple689C781C4EADD1E6A85E649923710426.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashColor_Purple.uasset'
+[2021.01.11-10.32.16:928][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashColor_RedA953037C437E8FBB5DB9C28E16F25CFA.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_SlashColor_Red.uasset'
+[2021.01.11-10.32.17:059][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_SlashColor_Red" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashColor_Red.uasset" SILENT=true
+[2021.01.11-10.32.17:063][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashColor_Red69EB41194226850FF1192685D5AFBE65.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashColor_Red.uasset'
+[2021.01.11-10.32.17:068][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Textures/T_SlashMask" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_SlashMask.uasset" SILENT=true
+[2021.01.11-10.32.17:076][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashMask3E3BB818432EE023087867B484E18BC1.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_SlashMask.uasset'
+[2021.01.11-10.32.17:221][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_SlashMask" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashMask.uasset" SILENT=true
+[2021.01.11-10.32.17:224][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashMaskA1A6F1E34A82C59520E921AA10D8A5C3.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashMask.uasset'
+[2021.01.11-10.32.17:236][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashHighlights23F028264C818F892FAC3087CDC2CD6B.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_SlashHighlights.uasset'
+[2021.01.11-10.32.17:387][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_SlashHighlights" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashHighlights.uasset" SILENT=true
+[2021.01.11-10.32.17:390][599]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_SlashHighlights76A300844288781CACC17DB9A6ED2414.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_SlashHighlights.uasset'
+[2021.01.11-10.32.19:126][599]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_WaterSlashMask.T_WaterSlashMask
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_WaterSlashMask.T_WaterSlashMask
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_Watercolor.T_Watercolor
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_Watercolor.T_Watercolor
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_Rim_Mask.T_Rim_Mask
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_Rim_Mask.T_Rim_Mask
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_SlashColor.T_SlashColor
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_SlashColor.T_SlashColor
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_Mask03.T_Mask03
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_Mask03.T_Mask03
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_SlashColor_Green.T_SlashColor_Green
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_SlashColor_Green.T_SlashColor_Green
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_SlashColor_Purple.T_SlashColor_Purple
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_SlashColor_Purple.T_SlashColor_Purple
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_SlashColor_Red.T_SlashColor_Red
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_SlashColor_Red.T_SlashColor_Red
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_SlashMask.T_SlashMask
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_SlashMask.T_SlashMask
+[2021.01.11-10.32.19:126][599]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_SlashHighlights.T_SlashHighlights
+[2021.01.11-10.32.19:127][599]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_SlashHighlights.T_SlashHighlights
+[2021.01.11-10.33.26:708][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Textures/T_EarthColor" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_EarthColor.uasset" SILENT=true
+[2021.01.11-10.33.26:713][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_EarthColorFE4309F8484FFB3A7C6552AD86E45A88.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_EarthColor.uasset'
+[2021.01.11-10.33.26:906][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_EarthColor" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_EarthColor.uasset" SILENT=true
+[2021.01.11-10.33.26:909][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_EarthColor04519C0D4730CB40B4CFF49623F967A8.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_EarthColor.uasset'
+[2021.01.11-10.33.26:912][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_ExtraGradientF26E0F4A423D03278B360D9D8D9EEE79.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_ExtraGradient.uasset'
+[2021.01.11-10.33.27:042][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_ExtraGradient" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_ExtraGradient.uasset" SILENT=true
+[2021.01.11-10.33.27:046][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_ExtraGradient4E0DDA0744B84680A34505959103F349.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_ExtraGradient.uasset'
+[2021.01.11-10.33.27:048][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_ExtraGradient02751356CF4A2549FA167031BEEDFB35B5.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_ExtraGradient02.uasset'
+[2021.01.11-10.33.27:194][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_ExtraGradient02" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_ExtraGradient02.uasset" SILENT=true
+[2021.01.11-10.33.27:198][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_ExtraGradient027350AE864544D18303F07E96860D3FCB.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_ExtraGradient02.uasset'
+[2021.01.11-10.33.27:204][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Textures/T_FireColor" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_FireColor.uasset" SILENT=true
+[2021.01.11-10.33.27:211][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_FireColorC2D8D0D747A0BDCDB5C533A94E5FAD5B.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_FireColor.uasset'
+[2021.01.11-10.33.27:396][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_FireColor" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_FireColor.uasset" SILENT=true
+[2021.01.11-10.33.27:400][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_FireColorE0D3514D4EC78E762F03DF85BFBE0ACF.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_FireColor.uasset'
+[2021.01.11-10.33.27:405][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Textures/T_FireErosion" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_FireErosion.uasset" SILENT=true
+[2021.01.11-10.33.27:414][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_FireErosion9085E5464E366E9B1AFD8D8E4D4A71D4.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_FireErosion.uasset'
+[2021.01.11-10.33.27:591][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_FireErosion" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_FireErosion.uasset" SILENT=true
+[2021.01.11-10.33.27:595][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_FireErosion54E9F30E4928C92FBA9101B1B8C56EF6.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_FireErosion.uasset'
+[2021.01.11-10.33.27:600][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Textures/T_FireMask" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_FireMask.uasset" SILENT=true
+[2021.01.11-10.33.27:607][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_FireMaskBB730D684F3958BC5CDCB981CACDCC88.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_FireMask.uasset'
+[2021.01.11-10.33.27:787][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_FireMask" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_FireMask.uasset" SILENT=true
+[2021.01.11-10.33.27:791][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_FireMaskD4D13EB14FE63C894A0367ABD04A9664.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_FireMask.uasset'
+[2021.01.11-10.33.27:796][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SlashesShowroom/Textures/T_FX_Cone" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_FX_Cone.uasset" SILENT=true
+[2021.01.11-10.33.27:805][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_FX_ConeC2509BA143DAF8DAA27E9F985F865A3E.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/SlashesShowroom/Textures/T_FX_Cone.uasset'
+[2021.01.11-10.33.27:986][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_FX_Cone" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_FX_Cone.uasset" SILENT=true
+[2021.01.11-10.33.27:990][384]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_FX_Cone2DEE716647AE887DA6C37CADBF31C676.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_FX_Cone.uasset'
+[2021.01.11-10.33.29:137][384]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_EarthColor.T_EarthColor
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_EarthColor.T_EarthColor
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_ExtraGradient.T_ExtraGradient
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_ExtraGradient.T_ExtraGradient
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_ExtraGradient02.T_ExtraGradient02
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_ExtraGradient02.T_ExtraGradient02
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_FireColor.T_FireColor
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_FireColor.T_FireColor
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_FireErosion.T_FireErosion
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_FireErosion.T_FireErosion
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_FireMask.T_FireMask
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_FireMask.T_FireMask
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/SlashesShowroom/Textures/T_FX_Cone.T_FX_Cone
+[2021.01.11-10.33.29:137][384]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_FX_Cone.T_FX_Cone
+[2021.01.11-10.33.55:024][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/Noises/T_VoronoiNoise" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/Noises/T_VoronoiNoise.uasset" SILENT=true
+[2021.01.11-10.33.55:033][326]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_VoronoiNoise59B0CF564262606AA5291C80081DCA7C.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/Noises/T_VoronoiNoise.uasset'
+[2021.01.11-10.33.55:219][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/Textures/FXTextures/T_VoronoiNoise" FILE="D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_VoronoiNoise.uasset" SILENT=true
+[2021.01.11-10.33.55:233][326]LogSavePackage: Moving 'D:/_Data/UnrealProject/VFXShowRoom/Saved/T_VoronoiNoise77AD88E34A0A2370DCC9A2B5944423F5.tmp' to 'D:/_Data/UnrealProject/VFXShowRoom/Content/ShowRoom/Textures/FXTextures/T_VoronoiNoise.uasset'
+[2021.01.11-10.33.55:429][326]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-10.33.55:429][326]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/Textures/Noises/T_VoronoiNoise.T_VoronoiNoise
+[2021.01.11-10.33.55:429][326]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/Textures/FXTextures/T_VoronoiNoise.T_VoronoiNoise
+[2021.01.11-10.34.05:413][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.01.11-10.34.08:373][513]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.11-10.34.22:748][190]LogTexture: Display: Building textures: T_Sphere_N (BC5, 1024X1024)
+[2021.01.11-10.34.22:748][190]LogMaterial: Display: Missing cached shader map for material MAT_Smoke_Lit, compiling. 
+[2021.01.11-10.34.22:844][190]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 87
+[2021.01.11-10.34.22:844][190]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 79
+[2021.01.11-10.34.22:844][190]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 71
+[2021.01.11-10.34.22:844][190]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 63
+[2021.01.11-10.34.22:844][190]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 55
+[2021.01.11-10.34.22:844][190]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 47
+[2021.01.11-10.34.22:844][190]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 39
+[2021.01.11-10.34.22:844][190]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 31
+[2021.01.11-10.34.22:844][190]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 23
+[2021.01.11-10.34.22:845][190]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2021.01.11-10.34.22:845][190]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2021.01.11-10.34.22:845][190]LogMaterial: Display: Missing cached shader map for material Mat_Refraction_SphereMask, compiling. 
+[2021.01.11-10.34.22:935][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.01.11-10.34.22:983][190]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 38
+[2021.01.11-10.34.24:153][190]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 34
+[2021.01.11-10.34.25:193][190]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 31
+[2021.01.11-10.34.26:166][190]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 28
+[2021.01.11-10.34.26:367][190]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.11-10.34.26:495][190]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 25
+[2021.01.11-10.34.26:813][190]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2021.01.11-10.34.26:856][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.01.11-10.34.26:899][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.01.11-10.34.26:938][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.01.11-10.34.26:977][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.01.11-10.34.27:022][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.01.11-10.34.27:082][190]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2021.01.11-10.34.27:123][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.01.11-10.34.27:155][190]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2021.01.11-10.34.27:424][190]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 20
+[2021.01.11-10.34.27:535][190]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 18
+[2021.01.11-10.34.27:623][190]SourceControl: Error: Updated 0 paths from the index
+[2021.01.11-10.34.27:695][190]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2021.01.11-10.34.27:972][190]SourceControl: rm 'Content/ShowRoom/Particles/P_Ambient_Dust.uasset'
+[2021.01.11-10.34.27:972][190]SourceControl: rm 'Content/ShowRoom/Particles/P_Explosion.uasset'
+[2021.01.11-10.34.27:972][190]SourceControl: rm 'Content/ShowRoom/Particles/P_Fire.uasset'
+[2021.01.11-10.34.27:972][190]SourceControl: rm 'Content/ShowRoom/Particles/P_Smoke.uasset'
+[2021.01.11-10.34.27:972][190]SourceControl: rm 'Content/ShowRoom/Particles/P_Sparks.uasset'
+[2021.01.11-10.34.27:972][190]SourceControl: rm 'Content/ShowRoom/Particles/P_Steam_Lit.uasset'
+[2021.01.11-10.34.28:014][191]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2021.01.11-10.34.28:396][206]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 12
+[2021.01.11-10.34.28:493][211]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.01.11-10.34.28:511][212]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2021.01.11-10.34.28:606][217]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2021.01.11-10.34.28:775][224]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2021.01.11-10.34.28:913][230]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.01.11-10.34.28:933][231]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.01.11-10.34.29:122][240]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.01.11-10.34.29:146][241]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.01.11-10.34.29:213][244]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2021.01.11-10.34.29:230][245]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.01.11-10.34.39:217][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.11-10.34.40:976][389]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.11-10.34.41:008][389]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.11-10.34.41:291][389]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.282 s
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: 
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: Cannot remove redirection from /Game/ShowRoom/Particles/FXMeshes/MDL_FX_CylinderNoise.MDL_FX_CylinderNoise, it was not registered
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: Stack: 
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa9f5f9231 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa9f285d5a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffad897d0f7 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa80dfb0b6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa80dfa9be UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa806215a5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa80888ec8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa808965c4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa98591498 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa985a9281 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa9840323f UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa98489175 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa9847413e UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa98468f67 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffada704ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffada6f242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffada707195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffada6eec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffb0387e858 USER32.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffb0387e299 USER32.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffada708569 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa98494080 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa98431c85 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa80930fa6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa80dfa1ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa78f4876f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa7904b119 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa790446bf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa78fabeec UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa78f52164 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa98591498 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa985a9281 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa9840323f UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa98489175 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa9847413e UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffa98468f67 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffada704ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffada6f242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffada707195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffada6eec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffb0387e858 USER32.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffb0387e299 USER32.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffada708699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ff63f8b6db0 UE4Editor.exe!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ff63f8cc3ec UE4Editor.exe!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ff63f8cc4ca UE4Editor.exe!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ff63f8dceae UE4Editor.exe!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ff63f8dfcbe UE4Editor.exe!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffb04a87034 KERNEL32.DLL!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: [Callstack] 0x00007ffb04d1d0d1 ntdll.dll!UnknownFunction []
+[2021.01.11-10.34.41:291][389]LogOutputDevice: Error: 
+[2021.01.11-10.34.41:300][389]LogStats:                SubmitErrorReport -  0.000 s
