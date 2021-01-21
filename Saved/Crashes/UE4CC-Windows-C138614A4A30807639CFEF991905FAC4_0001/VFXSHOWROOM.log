@@ -1,0 +1,1679 @@
+﻿Log file open, 01/12/21 19:45:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VFXSHOWROOM
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.114544
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BlueprintJson
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.12-17.45.53:298][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.12-17.45.53:298][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.12-17.45.53:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.12-17.45.53:298][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.12-17.45.53:298][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.01.12-17.45.53:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.12-17.45.53:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.12-17.45.53:298][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.12-17.45.53:298][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.12-17.45.53:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.12-17.45.53:299][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.12-17.45.53:301][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:301][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.12-17.45.53:301][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.12-17.45.53:301][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:301][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.12-17.45.53:301][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:301][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.12-17.45.53:301][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.12-17.45.53:301][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.12-17.45.53:301][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.12-17.45.53:301][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.12-17.45.53:301][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.12-17.45.53:301][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.12-17.45.53:302][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.12-17.45.53:303][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.12-17.45.53:303][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.12-17.45.53:303][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.12-17.45.53:305][  0]LogHAL: Display: Platform has ~ 16 GB [17039900672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.12-17.45.53:306][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.12-17.45.53:306][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2021.01.12-17.45.53:306][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.12-17.45.53:307][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.01.12-17.45.53:308][  0]LogInit: Computer: PYRATHGAMINGPC
+[2021.01.12-17.45.53:308][  0]LogInit: User: Gameolic3
+[2021.01.12-17.45.53:308][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.12-17.45.53:308][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.12-17.45.53:308][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.12-17.45.53:308][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.12-17.45.53:308][  0]LogMemory: Process Physical Memory: 106.14 MB used, 106.14 MB peak
+[2021.01.12-17.45.53:308][  0]LogMemory: Process Virtual Memory: 100.72 MB used, 100.72 MB peak
+[2021.01.12-17.45.53:308][  0]LogMemory: Physical Memory: 7390.43 MB used,  8860.09 MB free, 16250.52 MB total
+[2021.01.12-17.45.53:308][  0]LogMemory: Virtual Memory: 5138.54 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2021.01.12-17.45.53:313][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.12-17.45.53:368][  0]LogInit: Using OS detected language (en-US).
+[2021.01.12-17.45.53:368][  0]LogInit: Using OS detected locale (en-US).
+[2021.01.12-17.45.53:369][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.12-17.45.53:621][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.12-17.45.53:653][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.12-17.45.53:653][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.12-17.45.53:886][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.12-17.45.53:886][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.12-17.45.53:886][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.12-17.45.53:886][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.12-17.45.53:981][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2021.01.12-17.45.53:981][  0]LogD3D11RHI:       2010/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.01.12-17.45.53:991][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.01.12-17.45.53:991][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.12-17.45.53:996][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.12-17.45.53:996][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.12-17.45.53:996][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.12-17.45.54:005][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.12-17.45.54:005][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2021.01.12-17.45.54:005][  0]LogWindows: EnumDisplayDevices:
+[2021.01.12-17.45.54:005][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2021.01.12-17.45.54:005][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.12-17.45.54:006][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.12-17.45.54:006][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.01.12-17.45.54:006][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2021.01.12-17.45.54:006][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.01.12-17.45.54:006][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.01.12-17.45.54:006][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2021.01.12-17.45.54:057][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.12-17.45.54:057][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.12-17.45.54:074][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.12-17.45.54:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.12-17.45.54:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.12-17.45.54:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.12-17.45.54:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.12-17.45.54:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.12-17.45.54:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.12-17.45.54:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.12-17.45.54:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.12-17.45.54:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.12-17.45.54:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.12-17.45.54:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.12-17.45.54:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.12-17.45.54:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.12-17.45.54:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.12-17.45.54:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.12-17.45.54:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.12-17.45.54:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.12-17.45.54:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.12-17.45.54:721][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.12-17.45.54:724][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.12-17.45.54:752][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (D:/_DATA/Unreal Projects/VFXShowRoom/Intermediate/Shaders/WorkingDirectory/16332/).
+[2021.01.12-17.45.54:752][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gameolic3/AppData/Local/Temp/UnrealShaderWorkingDir/30218E3F47B92FC86B6E1FA38AC6A0CC/'.
+[2021.01.12-17.45.54:753][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.12-17.45.54:753][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.12-17.45.54:753][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.12-17.45.55:599][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.12-17.45.55:673][  0]LogDerivedDataCache: Loaded boot cache 0.07s 91MB C:/Users/Gameolic3/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.12-17.45.55:673][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gameolic3/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.01.12-17.45.55:673][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/_DATA/Unreal Projects/VFXShowRoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.12-17.45.55:673][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.12-17.45.55:673][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/_DATA/Unreal Projects/VFXShowRoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.12-17.45.55:673][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.12-17.45.55:685][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.12-17.45.55:685][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.12-17.45.55:685][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.12-17.45.55:686][  0]LogDerivedDataCache: Using Local data cache path D:/_DATA/_Portfolio/_DerivedDataCache: Writable
+[2021.01.12-17.45.55:686][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.12-17.45.55:686][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.12-17.45.55:716][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.12-17.45.55:718][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.12-17.45.55:719][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.12-17.45.55:776][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2021.01.12-17.45.56:107][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.12-17.45.56:337][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.12-17.45.56:337][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.12-17.45.56:337][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.12-17.45.56:337][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.12-17.45.56:337][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.12-17.45.56:352][  0]LogNetVersion: VFXSHOWROOM 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3410049785)
+[2021.01.12-17.45.57:862][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.057192 seconds
+[2021.01.12-17.45.57:873][  0]LogUObjectArray: 46775 objects as part of root set at end of initial load.
+[2021.01.12-17.45.57:873][  0]LogUObjectAllocator: 8142024 out of 0 bytes used by permanent object pool.
+[2021.01.12-17.45.57:873][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.12-17.45.58:613][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.12-17.45.58:617][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.12-17.45.58:691][  0]SourceControl: Source control is disabled
+[2021.01.12-17.45.58:692][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.12-17.45.58:692][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.01.12-17.45.58:694][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.12-17.45.58:694][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.01.12-17.45.58:696][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.12-17.45.58:696][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.01.12-17.45.58:697][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.12-17.45.58:697][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.01.12-17.45.58:812][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.12-17.45.58:824][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.12-17.45.58:824][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.12-17.45.58:954][  0]LogOcInput: OculusInput pre-init called
+[2021.01.12-17.45.58:968][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.12-17.45.58:968][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.12-17.45.59:071][  0]LogEngine: Initializing Engine...
+[2021.01.12-17.45.59:073][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.12-17.45.59:074][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.12-17.45.59:555][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.12-17.45.59:563][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.12-17.45.59:594][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.12-17.45.59:595][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.12-17.45.59:595][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.12-17.45.59:595][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.12-17.45.59:595][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.12-17.45.59:595][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.12-17.45.59:595][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.12-17.45.59:595][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.12-17.45.59:595][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.12-17.45.59:595][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.12-17.45.59:618][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.12-17.45.59:618][  0]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2021.01.12-17.45.59:618][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.01.12-17.45.59:618][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.12-17.45.59:618][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.12-17.45.59:618][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.12-17.45.59:618][  0]LogAudioMixer: Display: Channel Order:
+[2021.01.12-17.45.59:618][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-17.45.59:618][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-17.45.59:745][  0]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.01.12-17.45.59:753][  0]LogInit: FAudioDevice initialized.
+[2021.01.12-17.45.59:753][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.12-17.45.59:904][  0]LogDerivedDataCache: Saved boot cache 0.15s 91MB C:/Users/Gameolic3/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.12-17.45.59:905][  0]LogInit: Texture streaming: Enabled
+[2021.01.12-17.45.59:917][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.12-17.45.59:917][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.12-17.45.59:921][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.12-17.46.00:005][  0]LogInit: Transaction tracking system initialized
+[2021.01.12-17.46.00:017][  0]BlueprintLog: New page: Editor Load
+[2021.01.12-17.46.00:056][  0]LocalizationService: Localization service is disabled
+[2021.01.12-17.46.00:469][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/' took 0.00s
+[2021.01.12-17.46.00:469][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.12-17.46.00:470][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.12-17.46.01:351][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.12-17.46.01:351][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.01.12-17.46.01:969][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.12-17.50.34:873][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.01.12-17.50.34:874][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.12-17.50.34:919][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.12-17.51.34:888][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.01.12-17.51.34:889][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.12-17.51.34:902][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.12-17.51.34:904][  0]Cmd: MAP LOAD FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/Level/ShowRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.12-17.51.34:904][  0]LogEditorServer: Warning: Can't find file 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/Level/ShowRoom.umap'
+[2021.01.12-17.51.34:904][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.12-17.51.34:904][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.236ms to complete.
+[2021.01.12-17.51.34:904][  0]LogFileHelpers: Loading map 'ShowRoom' took 0.001
+[2021.01.12-17.51.34:996][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-17.51.35:003][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-17.51.35:011][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-17.51.35:019][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-17.51.35:027][  0]LogCollectionManager: Loaded 0 collections in 0.003539 seconds
+[2021.01.12-17.51.35:043][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Collections/' took 0.00s
+[2021.01.12-17.51.35:043][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/Developers/Gameolic3/Collections/' took 0.00s
+[2021.01.12-17.51.35:043][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/Collections/' took 0.00s
+[2021.01.12-17.51.35:043][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3166 classes and 738 folders.
+[2021.01.12-17.51.35:045][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.12-17.51.35:100][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.12-17.51.35:106][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.01.12-17.51.35:171][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.01.12-17.51.35:210][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.12-17.51.35:215][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.12-17.51.35:263][  0]LogRenderer: Reallocating scene render targets to support 1416x476 Format 9 NumSamples 1 (Frame:1).
+[2021.01.12-17.51.35:357][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.01.12-17.51.35:357][  0]LogLoad: (Engine Initialization) Total time: 343.89 seconds
+[2021.01.12-17.51.35:357][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.12-17.51.35:429][  0]LogContentStreaming: Texture pool size now 800 MB
+[2021.01.12-17.51.35:460][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.12-17.51.35:472][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/' took 0.09s
+[2021.01.12-17.51.35:488][  1]LogAssetRegistry: Asset discovery search completed in 339.7122 seconds
+[2021.01.12-17.51.35:492][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2021.01.12-17.51.36:400][ 43]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.12-17.51.41:737][340]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ShowRoom/SunVFX/Mesh/MDL_Corolla.MDL_Corolla
+[2021.01.12-17.51.42:235][340]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ShowRoom/SunVFX/Mesh/NewParticleSystem.NewParticleSystem
+[2021.01.12-17.51.42:240][340]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2021.01.12-17.51.42:467][340]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ShowRoom/SunVFX/Mesh/MAT_SunCorolla.MAT_SunCorolla
+[2021.01.12-17.51.42:477][340]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.51.42:629][340]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.51.42:654][340]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.51.42:679][340]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.01.12-17.51.42:679][340]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.51.42:679][340]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.51.42:679][340]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.51.42:690][340]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2021.01.12-17.51.42:704][340]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.12-17.51.42:720][340]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.12-17.51.42:742][340]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.12-17.51.42:768][340]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.01.12-17.51.42:943][340]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.12-17.51.42:963][340]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2021.01.12-17.51.43:034][340]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2021.01.12-17.51.43:034][340]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2021.01.12-17.51.43:035][340]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2021.01.12-17.51.43:179][341]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.12-17.51.43:233][343]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2021.01.12-17.51.43:277][343]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2021.01.12-17.51.43:364][346]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2021.01.12-17.51.43:396][348]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2021.01.12-17.51.43:586][359]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2021.01.12-17.51.43:669][364]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2021.01.12-17.51.44:126][391]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2021.01.12-17.51.44:190][395]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2021.01.12-17.51.44:325][403]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2021.01.12-17.51.44:910][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2021.01.12-17.51.44:950][438]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2021.01.12-17.51.45:047][443]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2021.01.12-17.51.45:551][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2021.01.12-17.51.45:636][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2021.01.12-17.51.45:735][480]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.51.45:829][485]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.51.46:411][506]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.01.12-17.51.46:526][511]LogSlate: Window 'NewParticleSystem' being destroyed
+[2021.01.12-17.51.46:646][519]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.01.12-17.51.46:767][526]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.01.12-17.51.46:799][528]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.01.12-17.51.47:186][551]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.01.12-17.51.47:420][565]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.01.12-17.51.47:484][569]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.01.12-17.51.47:540][572]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.01.12-17.51.47:544][572]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.51.47:544][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.51.47:544][572]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.51.47:544][572]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.51.47:544][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.51.47:544][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-17.51.47:684][581]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.01.12-17.51.47:889][593]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.01.12-17.51.47:957][597]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.01.12-17.51.47:991][599]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.01.12-17.51.48:268][615]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.01.12-17.51.48:417][624]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.01.12-17.51.48:450][626]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.01.12-17.51.48:477][627]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.01.12-17.51.48:858][650]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.01.12-17.51.48:891][652]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.01.12-17.51.48:941][655]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.01.12-17.51.48:966][656]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.01.12-17.51.49:390][681]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.01.12-17.51.49:455][685]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.01.12-17.51.49:489][687]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.01.12-17.51.49:529][689]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.01.12-17.51.56:106][ 83]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.51.56:131][ 83]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.51.56:157][ 84]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.01.12-17.51.56:157][ 84]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.51.56:157][ 84]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.51.56:157][ 84]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.51.56:348][ 96]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.01.12-17.51.56:381][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.01.12-17.51.56:399][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2021.01.12-17.51.56:399][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.01.12-17.51.56:616][112]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2021.01.12-17.51.56:665][115]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.01.12-17.51.56:699][117]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.01.12-17.51.56:715][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.01.12-17.51.56:899][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.01.12-17.51.56:999][135]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.01.12-17.51.57:299][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.01.12-17.51.57:381][158]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.01.12-17.51.57:533][167]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.01.12-17.51.57:899][189]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.01.12-17.51.57:899][189]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.01.12-17.51.58:048][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.01.12-17.51.58:416][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.01.12-17.51.58:484][224]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.01.12-17.51.58:549][228]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.01.12-17.51.58:632][233]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.01.12-17.51.59:018][256]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.01.12-17.51.59:215][268]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.01.12-17.51.59:333][275]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.01.12-17.51.59:449][282]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-17.52.00:042][317]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.52.00:042][317]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.52.00:042][317]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.52.00:042][317]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.52.00:042][317]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.52.00:042][317]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-17.52.13:355][113]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.13:388][114]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.01.12-17.52.13:388][114]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.52.13:388][114]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.52.13:388][114]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.52.13:568][124]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.01.12-17.52.13:630][128]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.01.12-17.52.13:630][128]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2021.01.12-17.52.13:630][128]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.01.12-17.52.13:831][140]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2021.01.12-17.52.13:865][142]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.01.12-17.52.13:931][146]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.01.12-17.52.13:931][146]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.01.12-17.52.14:108][156]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.01.12-17.52.14:160][159]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.01.12-17.52.14:575][182]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.01.12-17.52.14:608][184]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.01.12-17.52.14:725][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.01.12-17.52.15:146][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.01.12-17.52.15:210][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.01.12-17.52.15:261][223]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.01.12-17.52.15:646][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.01.12-17.52.15:744][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.01.12-17.52.15:810][256]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.01.12-17.52.15:862][259]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.01.12-17.52.16:278][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.01.12-17.52.16:499][297]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.01.12-17.52.16:597][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.01.12-17.52.16:645][306]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.01.12-17.52.17:272][343]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.52.17:272][343]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.52.17:272][343]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.52.17:272][343]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.52.17:272][343]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.52.17:272][343]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-17.52.23:300][699]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.23:324][699]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.23:355][699]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.01.12-17.52.23:355][699]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.52.23:355][699]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.52.23:355][699]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.52.23:355][699]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2021.01.12-17.52.23:560][706]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.01.12-17.52.23:576][707]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2021.01.12-17.52.23:584][707]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.52.23:611][708]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.01.12-17.52.23:856][722]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.01.12-17.52.23:910][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.01.12-17.52.23:976][729]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.01.12-17.52.23:976][729]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.01.12-17.52.24:208][743]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.01.12-17.52.24:258][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.01.12-17.52.24:624][768]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.01.12-17.52.24:691][772]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.01.12-17.52.24:789][778]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.01.12-17.52.25:274][807]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.01.12-17.52.25:274][807]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.01.12-17.52.25:391][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.01.12-17.52.25:791][838]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.01.12-17.52.25:856][842]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.01.12-17.52.25:874][843]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.01.12-17.52.26:026][852]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.01.12-17.52.26:410][875]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.01.12-17.52.26:575][885]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.01.12-17.52.26:743][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.01.12-17.52.26:859][902]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.01.12-17.52.27:126][918]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-17.52.27:380][933]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-17.52.27:493][940]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-17.52.27:568][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-17.52.27:569][944]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.52.27:569][944]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.52.27:569][944]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.52.27:569][944]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.52.27:569][944]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.52.27:569][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-17.52.28:567][  3]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.28:593][  3]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.01.12-17.52.28:593][  3]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.52.28:593][  3]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.52.28:593][  3]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.52.28:593][  3]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2021.01.12-17.52.28:772][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.01.12-17.52.28:820][ 17]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.52.28:821][ 17]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.01.12-17.52.28:836][ 18]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.01.12-17.52.29:037][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.01.12-17.52.29:104][ 34]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.01.12-17.52.29:137][ 36]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.01.12-17.52.29:154][ 37]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.01.12-17.52.29:321][ 47]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2021.01.12-17.52.29:422][ 53]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.01.12-17.52.29:789][ 75]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.01.12-17.52.29:854][ 79]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.01.12-17.52.30:005][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.01.12-17.52.30:344][107]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.01.12-17.52.30:344][107]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.30:386][107]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2021.01.12-17.52.30:395][107]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2021.01.12-17.52.30:499][112]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2021.01.12-17.52.30:704][122]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2021.01.12-17.52.30:924][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2021.01.12-17.52.30:938][136]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2021.01.12-17.52.30:985][139]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2021.01.12-17.52.31:053][143]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2021.01.12-17.52.31:145][148]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.01.12-17.52.31:145][148]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.01.12-17.52.31:320][159]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.01.12-17.52.31:336][160]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.01.12-17.52.31:386][163]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.01.12-17.52.31:451][167]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.01.12-17.52.31:603][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.01.12-17.52.31:636][178]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.01.12-17.52.32:022][201]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.01.12-17.52.32:055][201]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.32:154][202]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2021.01.12-17.52.32:252][208]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2021.01.12-17.52.32:604][229]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2021.01.12-17.52.32:669][233]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2021.01.12-17.52.32:687][234]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2021.01.12-17.52.32:770][239]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2021.01.12-17.52.32:886][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2021.01.12-17.52.33:018][254]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.01.12-17.52.33:018][254]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.01.12-17.52.33:086][258]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.01.12-17.52.33:138][261]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.01.12-17.52.33:237][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.01.12-17.52.33:352][274]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.01.12-17.52.33:385][276]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.01.12-17.52.33:419][278]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.01.12-17.52.33:543][285]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.01.12-17.52.33:634][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.01.12-17.52.33:701][295]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.01.12-17.52.34:002][313]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.01.12-17.52.34:219][326]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.01.12-17.52.34:251][328]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.01.12-17.52.34:586][348]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.01.12-17.52.34:669][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.01.12-17.52.34:869][365]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.01.12-17.52.35:087][378]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.01.12-17.52.35:285][390]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.01.12-17.52.35:302][391]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.01.12-17.52.35:373][394]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.35:418][394]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2021.01.12-17.52.35:448][394]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.35:480][394]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.01.12-17.52.35:788][407]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2021.01.12-17.52.35:953][417]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2021.01.12-17.52.36:003][420]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2021.01.12-17.52.36:088][425]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2021.01.12-17.52.36:308][438]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2021.01.12-17.52.36:308][438]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.01.12-17.52.36:376][441]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.36:405][441]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2021.01.12-17.52.36:452][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2021.01.12-17.52.36:530][449]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.52.36:530][449]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.52.36:612][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.01.12-17.52.36:662][457]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.01.12-17.52.36:730][461]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.01.12-17.52.36:749][462]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.01.12-17.52.36:932][473]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.01.12-17.52.36:947][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.01.12-17.52.36:996][477]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.01.12-17.52.37:046][480]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.01.12-17.52.37:217][490]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.01.12-17.52.37:283][494]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.01.12-17.52.37:632][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.01.12-17.52.37:682][518]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.01.12-17.52.37:833][527]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.01.12-17.52.38:201][549]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.01.12-17.52.38:218][550]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.01.12-17.52.38:349][558]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.01.12-17.52.38:799][585]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.01.12-17.52.38:844][587]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.01.12-17.52.38:884][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.01.12-17.52.39:002][597]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.01.12-17.52.39:351][618]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.01.12-17.52.39:569][631]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.01.12-17.52.39:751][642]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.01.12-17.52.39:886][650]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.01.12-17.52.40:509][686]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.52.40:509][686]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.52.40:509][686]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.52.40:509][686]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.52.40:509][686]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.52.40:509][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-17.52.41:510][745]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.41:559][745]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.01.12-17.52.41:559][745]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.52.41:559][745]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.52.41:559][745]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.52.41:726][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.01.12-17.52.41:772][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.01.12-17.52.41:772][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.01.12-17.52.41:772][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.01.12-17.52.42:004][773]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.01.12-17.52.42:054][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.01.12-17.52.42:105][779]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.01.12-17.52.42:105][779]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.01.12-17.52.42:160][781]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.42:284][787]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2021.01.12-17.52.42:367][792]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2021.01.12-17.52.42:484][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2021.01.12-17.52.42:598][806]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.01.12-17.52.42:676][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.01.12-17.52.42:708][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.01.12-17.52.42:739][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.01.12-17.52.42:839][820]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.01.12-17.52.42:942][826]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.01.12-17.52.43:040][832]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.01.12-17.52.43:091][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.01.12-17.52.43:165][839]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.01.12-17.52.43:248][844]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.01.12-17.52.43:332][849]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.01.12-17.52.43:631][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.01.12-17.52.43:799][877]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.01.12-17.52.43:849][880]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.01.12-17.52.44:250][904]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.01.12-17.52.44:282][906]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.01.12-17.52.44:449][916]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.01.12-17.52.44:767][935]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.01.12-17.52.44:866][941]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.01.12-17.52.44:881][942]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.01.12-17.52.45:015][950]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.01.12-17.52.45:400][973]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.01.12-17.52.45:566][983]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.01.12-17.52.45:732][993]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-17.52.45:799][997]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-17.52.46:465][ 36]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.52.46:466][ 36]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.52.46:466][ 36]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.52.46:466][ 36]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.52.46:466][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.52.46:466][ 36]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-17.52.47:023][ 69]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.47:047][ 69]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.47:080][ 71]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.01.12-17.52.47:080][ 71]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.52.47:080][ 71]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.52.47:080][ 71]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.52.47:264][ 82]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.01.12-17.52.47:312][ 85]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.01.12-17.52.47:312][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.01.12-17.52.47:312][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.01.12-17.52.47:549][ 99]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.01.12-17.52.47:614][103]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.01.12-17.52.47:648][105]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.01.12-17.52.47:667][106]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.01.12-17.52.47:831][116]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.01.12-17.52.47:914][121]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.01.12-17.52.48:267][142]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.01.12-17.52.48:351][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.01.12-17.52.48:466][154]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.01.12-17.52.48:503][155]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.48:902][178]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2021.01.12-17.52.48:934][180]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.52.49:035][186]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.01.12-17.52.49:086][189]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.01.12-17.52.49:150][193]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.01.12-17.52.49:251][199]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.01.12-17.52.49:325][201]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.01.12-17.52.49:453][210]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.01.12-17.52.49:487][212]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.01.12-17.52.49:509][212]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.01.12-17.52.49:583][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.01.12-17.52.49:753][228]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.01.12-17.52.49:787][230]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.01.12-17.52.49:821][232]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.01.12-17.52.49:889][235]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.50:185][251]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2021.01.12-17.52.50:368][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2021.01.12-17.52.50:415][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.01.12-17.52.50:432][266]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.01.12-17.52.50:549][273]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.01.12-17.52.50:616][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.01.12-17.52.50:646][279]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.01.12-17.52.50:750][285]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.01.12-17.52.50:881][293]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.01.12-17.52.50:881][293]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.01.12-17.52.50:934][296]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.01.12-17.52.51:058][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.01.12-17.52.51:166][310]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.01.12-17.52.51:199][312]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.01.12-17.52.51:523][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.01.12-17.52.51:703][342]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.01.12-17.52.51:719][343]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.01.12-17.52.52:135][368]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.01.12-17.52.52:187][371]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.01.12-17.52.52:354][381]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.01.12-17.52.52:671][400]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.01.12-17.52.52:776][406]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.01.12-17.52.52:776][406]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.01.12-17.52.52:987][419]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.01.12-17.52.53:337][440]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-17.52.53:503][450]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.01.12-17.52.53:704][462]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-17.52.53:753][465]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.01.12-17.52.54:412][504]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.52.54:413][504]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.52.54:413][504]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.52.54:413][504]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.52.54:413][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.52.54:413][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-17.52.55:846][590]LogMaterialEditor: Saving and Compiling material MAT_SunCorolla
+[2021.01.12-17.52.56:356][590]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.56:441][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.01.12-17.52.56:441][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.52.56:441][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.52.56:441][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.52.56:466][590]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.52.56:561][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.01.12-17.52.56:585][590]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 93
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 92
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 91
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 90
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 89
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 88
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 87
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 85
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 83
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 81
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 79
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 77
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 75
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 74
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 73
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 72
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 71
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 67
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2021.01.12-17.52.59:888][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2021.01.12-17.52.59:900][590]TextureStreamingBuild: Display: Compiling optional shaders took 3.336 seconds.
+[2021.01.12-17.52.59:930][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.12-17.53.06:799][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.53.06:799][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.01.12-17.53.06:800][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.01.12-17.53.06:800][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.01.12-17.53.06:800][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.01.12-17.53.06:800][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.01.12-17.53.06:800][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.01.12-17.53.06:800][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.01.12-17.53.06:800][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.01.12-17.53.06:841][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SunVFX/Mesh/MAT_SunCorolla" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/SunVFX/Mesh/MAT_SunCorolla.uasset" SILENT=true
+[2021.01.12-17.53.06:861][590]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_SunCorolla93A3C297429893329457CEB0E7008A70.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/SunVFX/Mesh/MAT_SunCorolla.uasset'
+[2021.01.12-17.53.06:900][590]AssetCheck: New page: Asset Save: MAT_SunCorolla
+[2021.01.12-17.53.06:900][590]LogContentValidation: Display: Validating Material /Game/ShowRoom/SunVFX/Mesh/MAT_SunCorolla.MAT_SunCorolla
+[2021.01.12-17.53.08:009][651]LogRenderer: Reallocating scene render targets to support 1432x920 Format 9 NumSamples 1 (Frame:1).
+[2021.01.12-17.53.48:279][886]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.12-17.53.56:633][353]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.12-17.54.44:837][943]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.12-17.54.55:662][528]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.12-17.54.58:371][672]Cmd: DELETE
+[2021.01.12-17.54.58:371][672]Cmd: ACTOR DELETE
+[2021.01.12-17.54.58:373][672]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2021.01.12-17.54.58:402][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.01.12-17.54.58:403][672]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.01.12-17.55.11:307][333]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.01.12-17.55.23:908][  3]LogEditorFactories: Performing atomic reimport of [C:/Users/Gameolic3/Desktop/MDL_Corolla.fbx]
+[2021.01.12-17.55.23:960][  3]LogFbx: Loading FBX Scene from C:/Users/Gameolic3/Desktop/MDL_Corolla.fbx
+[2021.01.12-17.55.23:968][  3]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.12-17.55.23:971][  3]LogFbx: Display: Triangulating static mesh Sphere
+[2021.01.12-17.55.24:024][  3]LogStaticMesh: Building static mesh MDL_Corolla...
+[2021.01.12-17.55.24:029][  3]LogStaticMesh: Built static mesh [0.01s] /Game/ShowRoom/SunVFX/Mesh/MDL_Corolla.MDL_Corolla
+[2021.01.12-17.55.25:387][  3]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2021.01.12-17.55.25:394][  3]LogEditorFactories: -- imported successfully
+[2021.01.12-17.55.25:397][  3]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.12-17.55.35:380][569]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.55.35:403][569]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.01.12-17.55.35:403][569]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.01.12-17.55.35:403][569]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.01.12-17.55.35:403][569]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.01.12-17.55.35:411][569]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.55.35:435][569]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.55.35:772][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.01.12-17.55.35:774][576]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.01.12-17.55.35:991][588]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2021.01.12-17.55.36:012][589]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.01.12-17.55.36:030][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.01.12-17.55.36:059][592]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.01.12-17.55.36:388][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.01.12-17.55.36:403][612]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.01.12-17.55.36:404][612]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.01.12-17.55.36:471][616]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.01.12-17.55.37:226][658]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.01.12-17.55.37:240][659]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.01.12-17.55.37:355][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.01.12-17.55.37:710][682]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.01.12-17.55.37:919][695]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.01.12-17.55.38:043][702]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.01.12-17.55.38:170][709]LogMaterialEditor: Saving and Compiling material MAT_SunCorolla
+[2021.01.12-17.55.39:002][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.01.12-17.55.39:002][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.01.12-17.55.39:002][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.01.12-17.55.39:002][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.01.12-17.55.39:002][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.01.12-17.55.39:039][709]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.55.39:141][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.01.12-17.55.39:194][709]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.55.39:276][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.01.12-17.55.39:276][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.01.12-17.55.39:313][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.01.12-17.55.39:342][709]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 85
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 83
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 82
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 81
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 79
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 78
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 77
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2021.01.12-17.55.42:784][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 75
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 74
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 73
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 72
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 70
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 69
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 65
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 64
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 63
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 53
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2021.01.12-17.55.42:785][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2021.01.12-17.55.42:788][709]TextureStreamingBuild: Display: Compiling optional shaders took 3.475 seconds.
+[2021.01.12-17.55.42:818][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.01.12-17.55.49:797][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.01.12-17.55.49:798][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.01.12-17.55.49:798][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.01.12-17.55.49:798][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.01.12-17.55.49:798][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.01.12-17.55.49:798][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-17.55.49:798][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-17.55.49:798][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.01.12-17.55.49:838][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SunVFX/Mesh/MAT_SunCorolla" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/SunVFX/Mesh/MAT_SunCorolla.uasset" SILENT=true
+[2021.01.12-17.55.49:857][709]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_SunCorolla6CBA5A474F538C6562A14C95AC2303F2.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/SunVFX/Mesh/MAT_SunCorolla.uasset'
+[2021.01.12-17.55.49:892][709]AssetCheck: New page: Asset Save: MAT_SunCorolla
+[2021.01.12-17.55.49:892][709]LogContentValidation: Display: Validating Material /Game/ShowRoom/SunVFX/Mesh/MAT_SunCorolla.MAT_SunCorolla
+[2021.01.12-17.55.49:899][709]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.55.49:899][709]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.55.49:899][709]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.55.49:899][709]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.55.49:899][709]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.55.49:899][709]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-17.56.24:706][477]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.01.12-17.56.48:840][791]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.56.48:863][791]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.56.48:880][791]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.01.12-17.56.48:880][791]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.01.12-17.56.48:880][791]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.01.12-17.56.48:880][791]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.01.12-17.56.49:285][813]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.01.12-17.56.49:329][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.01.12-17.56.49:458][822]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.01.12-17.56.49:473][823]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.01.12-17.56.49:614][831]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.01.12-17.56.49:700][835]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.01.12-17.56.50:034][851]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.56.50:127][855]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.01.12-17.56.50:272][862]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.01.12-17.56.50:343][866]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.01.12-17.56.50:388][868]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.01.12-17.56.50:499][874]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2021.01.12-17.56.50:716][885]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.01.12-17.56.50:769][888]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.01.12-17.56.50:778][888]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.01.12-17.56.50:810][890]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.01.12-17.56.51:067][903]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.01.12-17.56.51:535][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.01.12-17.56.51:597][929]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.01.12-17.56.51:732][936]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.01.12-17.56.52:046][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.01.12-17.56.52:198][961]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.01.12-17.56.52:297][964]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.01.12-17.56.52:679][986]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.01.12-17.56.52:890][997]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.01.12-17.56.52:912][998]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.01.12-17.56.53:022][  4]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.01.12-17.56.53:548][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-17.56.53:755][ 42]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.01.12-17.56.53:870][ 48]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-17.56.53:934][ 51]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.01.12-17.56.54:733][ 92]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.56.54:733][ 92]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.56.54:733][ 92]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.56.54:733][ 92]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.56.54:733][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.56.54:733][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-17.57.05:267][635]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.05:291][635]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.05:319][636]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.01.12-17.57.05:319][636]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.01.12-17.57.05:319][636]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.01.12-17.57.05:319][636]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.01.12-17.57.05:581][648]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.01.12-17.57.05:596][649]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.01.12-17.57.05:732][656]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.01.12-17.57.05:763][658]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.01.12-17.57.05:961][668]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.01.12-17.57.05:973][668]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.01.12-17.57.06:108][673]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.06:416][687]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.01.12-17.57.06:498][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.01.12-17.57.06:579][695]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.01.12-17.57.06:661][699]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.01.12-17.57.06:750][703]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2021.01.12-17.57.06:977][714]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.01.12-17.57.07:060][716]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.01.12-17.57.07:093][718]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.01.12-17.57.07:142][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.01.12-17.57.07:359][733]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.01.12-17.57.07:792][754]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.01.12-17.57.07:893][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.01.12-17.57.08:039][767]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.01.12-17.57.08:384][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.01.12-17.57.08:513][791]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.01.12-17.57.08:653][796]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.01.12-17.57.09:003][809]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.01.12-17.57.09:173][815]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.01.12-17.57.09:225][817]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.01.12-17.57.09:310][820]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.01.12-17.57.09:753][837]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-17.57.09:980][846]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.01.12-17.57.10:102][850]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.01.12-17.57.10:167][853]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-17.57.10:868][879]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.57.10:868][879]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.57.10:868][879]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.57.10:868][879]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.57.10:868][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.57.10:868][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-17.57.15:965][ 78]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.15:982][ 78]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.01.12-17.57.15:982][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.01.12-17.57.15:982][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.01.12-17.57.15:982][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.01.12-17.57.15:989][ 78]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.16:203][ 86]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.01.12-17.57.16:203][ 86]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.01.12-17.57.16:349][ 91]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.01.12-17.57.16:355][ 91]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.01.12-17.57.16:407][ 93]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.01.12-17.57.16:420][ 94]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.01.12-17.57.16:747][107]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.01.12-17.57.16:755][107]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.01.12-17.57.16:780][108]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.01.12-17.57.16:845][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.01.12-17.57.17:167][121]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.17:438][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.01.12-17.57.17:477][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.01.12-17.57.17:497][131]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.01.12-17.57.17:692][140]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.01.12-17.57.17:739][142]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.01.12-17.57.17:882][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.01.12-17.57.17:947][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.01.12-17.57.18:059][154]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.01.12-17.57.18:072][155]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.01.12-17.57.18:231][161]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.01.12-17.57.18:544][173]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.01.12-17.57.18:719][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.01.12-17.57.18:825][183]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.01.12-17.57.19:229][198]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.01.12-17.57.19:229][198]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.01.12-17.57.19:430][205]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.01.12-17.57.19:771][217]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.01.12-17.57.19:818][219]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.01.12-17.57.19:900][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.01.12-17.57.20:044][227]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.01.12-17.57.20:400][240]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.01.12-17.57.20:584][247]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.01.12-17.57.20:767][253]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.01.12-17.57.20:844][256]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.01.12-17.57.21:507][280]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.57.21:507][280]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.57.21:507][280]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.57.21:507][280]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.57.21:507][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.57.21:507][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-17.57.34:841][981]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.34:858][981]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.01.12-17.57.34:858][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.01.12-17.57.34:858][981]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.01.12-17.57.34:858][981]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.01.12-17.57.34:868][981]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2021.01.12-17.57.34:900][981]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.35:070][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.01.12-17.57.35:082][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.01.12-17.57.35:250][992]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.57.35:260][993]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.57.35:571][  6]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.35:631][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2021.01.12-17.57.35:664][  6]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.01.12-17.57.35:665][  6]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.35:694][  6]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.01.12-17.57.35:710][  7]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.01.12-17.57.35:723][  8]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.12-17.57.36:179][ 20]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.01.12-17.57.36:228][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.01.12-17.57.36:292][ 26]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.01.12-17.57.36:292][ 26]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.01.12-17.57.36:479][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.01.12-17.57.36:499][ 34]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.01.12-17.57.36:699][ 44]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.01.12-17.57.36:745][ 46]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.01.12-17.57.36:818][ 50]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.01.12-17.57.36:867][ 52]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.01.12-17.57.37:187][ 66]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.37:243][ 68]LogMaterialEditor: Saving and Compiling material MAT_SunCorolla
+[2021.01.12-17.57.38:127][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.01.12-17.57.38:127][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.01.12-17.57.38:127][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2021.01.12-17.57.38:127][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.01.12-17.57.38:127][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.01.12-17.57.38:127][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.01.12-17.57.38:127][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.01.12-17.57.38:127][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.01.12-17.57.38:127][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.01.12-17.57.38:127][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.01.12-17.57.38:162][ 68]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.38:308][ 68]LogMaterial: Display: Missing cached shader map for material MAT_SunCorolla, compiling. 
+[2021.01.12-17.57.38:439][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.01.12-17.57.38:463][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 87
+[2021.01.12-17.57.38:464][ 68]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 87
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 85
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 83
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 81
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 79
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 77
+[2021.01.12-17.57.42:029][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 75
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 73
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 72
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 67
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2021.01.12-17.57.42:030][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2021.01.12-17.57.42:033][ 68]TextureStreamingBuild: Display: Compiling optional shaders took 3.592 seconds.
+[2021.01.12-17.57.42:069][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.01.12-17.57.49:043][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.01.12-17.57.49:043][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.01.12-17.57.49:043][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.01.12-17.57.49:043][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.01.12-17.57.49:043][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.01.12-17.57.49:043][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.01.12-17.57.49:043][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.01.12-17.57.49:043][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.01.12-17.57.49:090][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SunVFX/Mesh/MAT_SunCorolla" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/SunVFX/Mesh/MAT_SunCorolla.uasset" SILENT=true
+[2021.01.12-17.57.49:121][ 68]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_SunCorolla24B2AC9344A52E9E21970C92C1554B49.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/SunVFX/Mesh/MAT_SunCorolla.uasset'
+[2021.01.12-17.57.49:172][ 68]AssetCheck: New page: Asset Save: MAT_SunCorolla
+[2021.01.12-17.57.49:173][ 68]LogContentValidation: Display: Validating Material /Game/ShowRoom/SunVFX/Mesh/MAT_SunCorolla.MAT_SunCorolla
+[2021.01.12-17.57.49:179][ 68]MaterialEditorStats: Base pass shader: 77 instructions
+[2021.01.12-17.57.49:179][ 68]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2021.01.12-17.57.49:179][ 68]MaterialEditorStats: Base pass vertex shader: 172 instructions
+[2021.01.12-17.57.49:179][ 68]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.12-17.57.49:179][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-17.57.49:179][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-18.01.35:624][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.01.12-18.01.35:626][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_0" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Temp/Untitled_0_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.12-18.01.35:630][433]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Untitled_0_Auto1BF79BBEF42BB87DD2099CBB1DB027C88.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Temp/Untitled_0_Auto1.umap'
+[2021.01.12-18.01.35:633][433]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.035
+[2021.01.12-18.01.35:633][433]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.035
+[2021.01.12-18.01.35:634][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShowRoom/SunVFX/Mesh/MDL_Corolla] ([1] browsable assets)...
+[2021.01.12-18.01.35:648][433]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ShowRoom/SunVFX/Mesh/MDL_Corolla.MDL_Corolla]
+[2021.01.12-18.01.35:648][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/SunVFX/Mesh/MDL_Corolla]
+[2021.01.12-18.01.35:667][433]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_Corolla_Auto1BD1EA81341851328DFBEC2B849121D13.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/SunVFX/Mesh/MDL_Corolla_Auto1.uasset'
+[2021.01.12-18.01.35:688][433]LogFileHelpers: Auto-saving content packages took 0.055
+[2021.01.12-18.34.58:076][275]LogEditorFactories: Performing atomic reimport of [C:/Users/Gameolic3/Desktop/MDL_Corolla.fbx]
+[2021.01.12-18.34.58:125][275]LogFbx: Loading FBX Scene from C:/Users/Gameolic3/Desktop/MDL_Corolla.fbx
+[2021.01.12-18.34.58:132][275]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.12-18.34.58:134][275]LogFbx: Display: Triangulating static mesh MDL_Corolla
+[2021.01.12-18.34.58:190][275]LogStaticMesh: Building static mesh MDL_Corolla...
+[2021.01.12-18.34.58:194][275]LogStaticMesh: Built static mesh [0.00s] /Game/ShowRoom/SunVFX/Mesh/MDL_Corolla.MDL_Corolla
+[2021.01.12-18.34.59:640][275]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2021.01.12-18.34.59:648][275]LogEditorFactories: -- imported successfully
+[2021.01.12-18.34.59:652][275]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.12-18.35.34:157][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.01.12-18.35.34:158][196]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.028
+[2021.01.12-18.35.34:158][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShowRoom/SunVFX/Mesh/MDL_Corolla] ([1] browsable assets)...
+[2021.01.12-18.35.34:172][196]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ShowRoom/SunVFX/Mesh/MDL_Corolla.MDL_Corolla]
+[2021.01.12-18.35.34:172][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShowRoom/SunVFX/Mesh/MDL_Corolla]
+[2021.01.12-18.35.34:190][196]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_Corolla_Auto26E1305E5407A3497CA986A991464751F.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Autosaves/Game/ShowRoom/SunVFX/Mesh/MDL_Corolla_Auto2.uasset'
+[2021.01.12-18.35.34:192][196]LogFileHelpers: Auto-saving content packages took 0.034
+[2021.01.12-18.36.03:558][856]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ShowRoom/SunVFX/Mesh/MDL_Sun.MDL_Sun
+[2021.01.12-18.36.06:350][940]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ShowRoom/SunVFX/Mesh/MAT_Sun.MAT_Sun
+[2021.01.12-18.36.06:356][940]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.06:442][940]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.06:455][940]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.06:475][940]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-18.36.06:475][940]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-18.36.06:475][940]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.12-18.36.06:489][940]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.12-18.36.06:505][940]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.01.12-18.36.06:505][940]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.01.12-18.36.06:505][940]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2021.01.12-18.36.06:525][940]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2021.01.12-18.36.07:030][947]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.01.12-18.36.07:121][950]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.01.12-18.36.07:153][951]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.01.12-18.36.07:153][951]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.12-18.36.07:153][951]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.12-18.36.07:153][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.12-18.36.07:153][951]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-18.36.07:199][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.01.12-18.36.07:206][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.01.12-18.36.07:486][962]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.01.12-18.36.07:617][966]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.01.12-18.36.07:821][975]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.01.12-18.36.07:821][975]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.01.12-18.36.07:919][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.01.12-18.36.08:075][989]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.01.12-18.36.08:371][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-18.36.08:400][  1]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-18.36.08:412][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.01.12-18.36.08:556][  6]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.01.12-18.36.14:072][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_10
+[2021.01.12-18.36.14:072][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_10.MaterialExpressionAdd_0"')'
+[2021.01.12-18.36.14:073][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_3
+[2021.01.12-18.36.14:073][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_3.MaterialExpressionVectorParameter_0"',OutputIndex=1,Mask=1,MaskR=1)'
+[2021.01.12-18.36.14:073][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_3
+[2021.01.12-18.36.14:073][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_3.MaterialExpressionVectorParameter_0"',OutputIndex=2,Mask=1,MaskG=1)'
+[2021.01.12-18.36.14:073][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_6
+[2021.01.12-18.36.14:074][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_6.MaterialExpressionTextureCoordinate_0"')'
+[2021.01.12-18.36.14:074][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_4
+[2021.01.12-18.36.14:074][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'"MaterialGraphNode_4.MaterialExpressionAppendVector_0"')'
+[2021.01.12-18.36.14:075][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_7
+[2021.01.12-18.36.14:075][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTime'"MaterialGraphNode_7.MaterialExpressionTime_0"')'
+[2021.01.12-18.36.14:075][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_9
+[2021.01.12-18.36.14:075][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_9.MaterialExpressionConstant_1"')'
+[2021.01.12-18.36.14:076][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_11
+[2021.01.12-18.36.14:076][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'"MaterialGraphNode_11.MaterialExpressionAppendVector_1"')'
+[2021.01.12-18.36.14:076][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_5
+[2021.01.12-18.36.14:076][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_5.MaterialExpressionMultiply_0"')'
+[2021.01.12-18.36.14:076][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_12
+[2021.01.12-18.36.14:077][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_12.MaterialExpressionConstant_2"')'
+[2021.01.12-18.36.14:077][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_8
+[2021.01.12-18.36.14:077][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_8.MaterialExpressionMultiply_1"')'
+[2021.01.12-18.36.14:077][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_30 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_30
+[2021.01.12-18.36.14:077][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_30.MaterialExpressionAdd_2"')'
+[2021.01.12-18.36.14:078][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_24 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_24
+[2021.01.12-18.36.14:078][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_24.MaterialExpressionConstant_5"')'
+[2021.01.12-18.36.14:078][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_7
+[2021.01.12-18.36.14:078][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTime'"MaterialGraphNode_7.MaterialExpressionTime_0"')'
+[2021.01.12-18.36.14:078][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_12
+[2021.01.12-18.36.14:078][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_12.MaterialExpressionConstant_2"')'
+[2021.01.12-18.36.14:078][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_23 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_23
+[2021.01.12-18.36.14:078][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_23.MaterialExpressionMultiply_4"')'
+[2021.01.12-18.36.14:079][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_26 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_26
+[2021.01.12-18.36.14:079][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_26.MaterialExpressionVectorParameter_1"',OutputIndex=1,Mask=1,MaskR=1)'
+[2021.01.12-18.36.14:079][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_26 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_26
+[2021.01.12-18.36.14:079][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_26.MaterialExpressionVectorParameter_1"',OutputIndex=2,Mask=1,MaskG=1)'
+[2021.01.12-18.36.14:079][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_29 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_29
+[2021.01.12-18.36.14:079][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_29.MaterialExpressionTextureCoordinate_2"')'
+[2021.01.12-18.36.14:079][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_27 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_27
+[2021.01.12-18.36.14:079][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'"MaterialGraphNode_27.MaterialExpressionAppendVector_3"')'
+[2021.01.12-18.36.14:080][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_28 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_28
+[2021.01.12-18.36.14:080][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_28.MaterialExpressionMultiply_5"')'
+[2021.01.12-18.36.14:080][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_25 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_25
+[2021.01.12-18.36.14:080][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'"MaterialGraphNode_25.MaterialExpressionAppendVector_2"')'
+[2021.01.12-18.36.14:080][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_22 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_22
+[2021.01.12-18.36.14:080][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_22.MaterialExpressionTextureSample_1"',OutputIndex=2,Mask=1,MaskG=1)'
+[2021.01.12-18.36.14:080][246]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.MAT_SunCorolla:MaterialGraph_0.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.MAT_Sun:MaterialGraph_0.MaterialGraphNode_2
+[2021.01.12-18.36.14:080][246]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_2.MaterialExpressionTextureSample_0"',OutputIndex=1,Mask=1,MaskR=1)'
+[2021.01.12-18.36.14:121][246]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.14:133][246]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.12-18.36.14:151][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-18.36.14:151][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-18.36.14:151][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-18.36.14:151][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-18.36.14:151][246]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.01.12-18.36.14:165][246]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.12-18.36.14:179][246]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.01.12-18.36.14:563][254]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.01.12-18.36.14:667][257]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.01.12-18.36.14:699][258]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.01.12-18.36.14:700][258]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2021.01.12-18.36.14:700][258]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.12-18.36.14:700][258]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.12-18.36.14:700][258]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.12-18.36.14:700][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-18.36.14:710][259]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.01.12-18.36.15:059][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.01.12-18.36.15:183][274]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.01.12-18.36.15:334][279]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.01.12-18.36.15:339][279]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.01.12-18.36.15:517][285]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.01.12-18.36.15:618][289]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.01.12-18.36.15:914][299]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.01.12-18.36.15:918][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.01.12-18.36.15:980][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.01.12-18.36.16:058][304]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.01.12-18.36.18:923][458]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.18:939][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-18.36.18:939][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-18.36.18:939][458]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.12-18.36.18:949][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-18.36.18:949][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-18.36.18:964][458]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.01.12-18.36.18:990][458]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.12-18.36.19:022][458]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.01.12-18.36.19:359][464]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.01.12-18.36.19:509][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.01.12-18.36.19:542][470]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2021.01.12-18.36.19:542][470]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.12-18.36.19:542][470]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.12-18.36.19:542][470]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-18.36.19:542][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-18.36.19:556][471]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.01.12-18.36.19:585][472]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.01.12-18.36.19:837][480]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.01.12-18.36.19:967][485]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.01.12-18.36.20:135][491]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.01.12-18.36.20:177][492]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.01.12-18.36.20:305][497]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.01.12-18.36.20:390][500]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.01.12-18.36.20:774][513]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-18.36.20:801][514]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-18.36.20:813][514]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.01.12-18.36.20:889][517]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.01.12-18.36.31:993][ 29]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.32:002][ 29]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-18.36.32:002][ 29]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-18.36.32:010][ 29]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.12-18.36.32:019][ 29]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-18.36.32:019][ 29]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-18.36.32:027][ 29]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.32:437][ 44]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.01.12-18.36.32:584][ 49]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.01.12-18.36.32:641][ 51]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.01.12-18.36.32:668][ 52]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.01.12-18.36.33:215][ 70]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2021.01.12-18.36.33:215][ 70]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.12-18.36.33:215][ 70]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.12-18.36.33:215][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-18.36.33:215][ 70]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-18.36.40:290][318]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.40:304][318]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.01.12-18.36.40:316][318]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-18.36.40:316][318]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-18.36.40:317][318]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-18.36.40:317][318]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-18.36.40:324][318]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.40:799][335]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.01.12-18.36.40:897][338]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.01.12-18.36.40:928][339]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.01.12-18.36.40:944][340]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.01.12-18.36.41:364][354]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.41:372][354]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-18.36.41:372][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-18.36.41:854][371]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2021.01.12-18.36.41:854][371]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.12-18.36.41:855][371]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.12-18.36.41:855][371]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-18.36.41:855][371]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-18.36.42:892][404]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.42:907][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-18.36.42:907][404]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-18.36.42:914][404]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.01.12-18.36.42:922][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-18.36.42:922][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-18.36.42:935][404]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.43:414][421]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.01.12-18.36.43:530][425]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.01.12-18.36.43:530][425]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.01.12-18.36.43:530][425]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.01.12-18.36.44:077][442]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2021.01.12-18.36.44:077][442]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.12-18.36.44:077][442]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.12-18.36.44:077][442]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-18.36.44:077][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-18.36.44:619][458]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.44:640][459]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-18.36.44:640][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-18.36.45:091][475]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2021.01.12-18.36.45:091][475]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.12-18.36.45:091][475]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.12-18.36.45:091][475]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-18.36.45:091][475]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-18.36.45:770][495]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.45:780][495]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-18.36.45:780][495]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-18.36.45:788][495]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.01.12-18.36.45:797][495]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.01.12-18.36.45:797][495]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-18.36.45:807][495]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.46:214][509]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.01.12-18.36.46:339][513]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.01.12-18.36.46:383][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.01.12-18.36.46:383][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.01.12-18.36.46:936][532]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2021.01.12-18.36.46:937][532]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.12-18.36.46:937][532]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.12-18.36.46:937][532]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-18.36.46:937][532]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-18.36.50:417][641]LogMaterial: Display: Missing cached shader map for material MAT_Sun, compiling. 
+[2021.01.12-18.36.50:433][642]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-18.36.50:433][642]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.01.12-18.36.50:868][659]MaterialEditorStats: Base pass shader without light map: 42 instructions
+[2021.01.12-18.36.50:868][659]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.12-18.36.50:868][659]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.12-18.36.50:868][659]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.12-18.36.50:868][659]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.12-18.37.06:085][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/SunVFX/Mesh/MDL_Corolla" FILE="D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/SunVFX/Mesh/MDL_Corolla.uasset" SILENT=true
+[2021.01.12-18.37.06:096][217]LogSavePackage: Moving 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_CorollaA912038F4FD6E4F52ADF63ACE8556F17.tmp' to 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/SunVFX/Mesh/MDL_Corolla.uasset'
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SyncInterval 0
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.BufferDesc.Width 648
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.BufferDesc.Height 97
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.OutputWindow 000000000018038A
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.01.12-18.37.07:451][217]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.01.12-18.37.07:451][217]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:389 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2021.01.12-18.37.07:451][217]LogD3D11RHI: [Aftermath] GDynamicRHI=00000221690F20C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.01.12-18.37.07:451][217]LogWindows: Windows GetLastError: The operation completed successfully. (0)
