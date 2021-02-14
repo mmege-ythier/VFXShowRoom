@@ -1,0 +1,1218 @@
+﻿Log file open, 02/14/21 23:39:57
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: VFXSHOWROOM
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.320516
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin BlueprintJson
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Gameolic3/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.14-21.39.58:117][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.14-21.39.58:117][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.14-21.39.58:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.02.14-21.39.58:117][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.14-21.39.58:117][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.02.14-21.39.58:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.02.14-21.39.58:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.02.14-21.39.58:117][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.14-21.39.58:117][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.14-21.39.58:117][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.14-21.39.58:117][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.14-21.39.58:117][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.14-21.39.58:117][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.02.14-21.39.58:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.02.14-21.39.58:118][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.02.14-21.39.58:125][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.14-21.39.58:125][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.14-21.39.58:126][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.14-21.39.58:127][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.14-21.39.58:127][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.14-21.39.58:127][  0]LogHAL: Display: Platform has ~ 16 GB [17039900672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.14-21.39.58:127][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.14-21.39.58:127][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.14-21.39.58:127][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Scalability.ini]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.14-21.39.58:128][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Config/Windows/Engine.ini]
+[2021.02.14-21.39.58:129][  0]LogInit: Computer: PYRATHGAMINGPC
+[2021.02.14-21.39.58:129][  0]LogInit: User: Gameolic3
+[2021.02.14-21.39.58:129][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.02.14-21.39.58:129][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.14-21.39.58:129][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.02.14-21.39.58:129][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.14-21.39.58:129][  0]LogMemory: Process Physical Memory: 135.00 MB used, 135.00 MB peak
+[2021.02.14-21.39.58:129][  0]LogMemory: Process Virtual Memory: 118.71 MB used, 118.71 MB peak
+[2021.02.14-21.39.58:129][  0]LogMemory: Physical Memory: 6271.57 MB used,  9978.95 MB free, 16250.52 MB total
+[2021.02.14-21.39.58:129][  0]LogMemory: Virtual Memory: 134210208.00 MB used,  7523.24 MB free, 134217728.00 MB total
+[2021.02.14-21.39.58:136][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.14-21.39.58:191][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.14-21.39.58:197][  0]LogInit: Using OS detected language (en-US).
+[2021.02.14-21.39.58:197][  0]LogInit: Using OS detected locale (en-US).
+[2021.02.14-21.39.58:199][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.14-21.39.58:403][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.14-21.39.58:426][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.14-21.39.58:458][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.14-21.39.58:458][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.14-21.39.58:707][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.14-21.39.58:707][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.14-21.39.58:707][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.14-21.39.58:707][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.14-21.39.58:784][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2021.02.14-21.39.58:784][  0]LogD3D11RHI:       2010/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.02.14-21.39.58:794][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.02.14-21.39.58:794][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.02.14-21.39.58:797][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.14-21.39.58:797][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.14-21.39.58:797][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.14-21.39.58:804][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.14-21.39.58:804][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2021.02.14-21.39.58:804][  0]LogWindows: EnumDisplayDevices:
+[2021.02.14-21.39.58:804][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2021.02.14-21.39.58:805][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.02.14-21.39.58:805][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.02.14-21.39.58:805][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.02.14-21.39.58:805][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2021.02.14-21.39.58:805][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.02.14-21.39.58:805][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.02.14-21.39.58:805][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2021.02.14-21.39.58:857][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.14-21.39.58:857][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.14-21.39.58:875][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.14-21.39.58:877][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.02.14-21.39.59:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.14-21.39.59:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.14-21.39.59:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.14-21.39.59:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.14-21.39.59:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.14-21.39.59:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.14-21.39.59:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.14-21.39.59:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.14-21.39.59:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.14-21.39.59:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.14-21.39.59:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.14-21.39.59:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.14-21.39.59:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.14-21.39.59:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.14-21.39.59:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.14-21.39.59:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.14-21.39.59:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.14-21.39.59:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.14-21.39.59:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.14-21.39.59:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.14-21.39.59:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.14-21.39.59:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.14-21.39.59:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.02.14-21.39.59:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.02.14-21.39.59:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.02.14-21.39.59:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.02.14-21.39.59:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.14-21.39.59:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.14-21.39.59:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.14-21.39.59:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.14-21.39.59:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.14-21.39.59:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.14-21.39.59:482][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.14-21.39.59:489][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.14-21.39.59:545][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.02.14-21.39.59:545][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../_DATA/Unreal Projects/VFXShowRoom/Intermediate/Shaders/WorkingDirectory/18472/).
+[2021.02.14-21.39.59:546][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gameolic3/AppData/Local/Temp/UnrealShaderWorkingDir/845A82AC4A849A66A4F143991846BCC8/'.
+[2021.02.14-21.39.59:546][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.14-21.39.59:546][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.14-21.40.00:435][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.14-21.40.00:492][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Gameolic3/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.14-21.40.00:492][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gameolic3/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.02.14-21.40.00:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../_DATA/Unreal Projects/VFXShowRoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.14-21.40.00:492][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.14-21.40.00:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../_DATA/Unreal Projects/VFXShowRoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.14-21.40.00:492][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.14-21.40.00:505][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.14-21.40.00:506][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.14-21.40.00:506][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.14-21.40.00:543][  0]LogDerivedDataCache: Speed tests for D:/_DATA/_Portfolio/_DerivedDataCache took 0.04 seconds
+[2021.02.14-21.40.00:543][  0]LogDerivedDataCache: Display: Performance to D:/_DATA/_Portfolio/_DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1461.54MBs, RandomWriteSpeed=25.36MBs. Assigned SpeedClass 'Local'
+[2021.02.14-21.40.00:545][  0]LogDerivedDataCache: Using Local data cache path D:/_DATA/_Portfolio/_DerivedDataCache: Writable
+[2021.02.14-21.40.00:545][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.14-21.40.00:545][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.14-21.40.00:611][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.14-21.40.00:612][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.14-21.40.00:643][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2021.02.14-21.40.00:918][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.14-21.40.00:918][  0]LogInit: Active device profile: [0000013A95684D00][0000013A8ED67C80 49] Windows
+[2021.02.14-21.40.00:918][  0]LogInit: Profiles: [0000013A95684D00][0000013A8ED67C80 49] Windows, [0000013A95649F00][0000013A8ED6E140 49] WindowsNoEditor, [0000013A95686300][0000013A8ED722C0 49] WindowsServer, [0000013A95648D00][0000013A8ED76440 49] WindowsClient, [0000013A95686200][0000013A8ED7A5C0 49] IOS, [0000013A9564AE00][0000013A8AEAA740 49] iPadAir, [0000013A95685300][0000013A8AEAE8C0 49] iPadAir2, [0000013A955E6C00][0000013A8AEB6B80 49] IPadPro, [0000013A955E6D00][0000013A8AEB2BC0 49] iPadAir3, [0000013A95686B00][0000013A8AEBAD40 49] iPadAir4, [0000013A955E6800][0000013A8AEBEEC0 49] iPadMini2, [0000013A95685100][0000013A8AEC3040 49] iPadMini3, [0000013A955E5800][0000013A8AEC71C0 49] iPadMini4, [0000013A95685700][0000013A8AECB340 49] iPadMini5, [0000013A95626500][0000013A8AED3600 49] iPhone6, [0000013A95626600][0000013A8AECF640 49] iPodTouch6, [0000013A95648600][0000013A8AED7880 49] iPhone7, [0000013A95648800][0000013A8ED6B8C0 49] iPodTouch7, [0000013A95627E00][0000013A8AEDBA00 49] iPhone5S, [0000013A9564A000][0000013A8AEE3B80 49] iPhone6Plus, [0000013A95625400][0000013A8AEE7D00 49] iPhone6S, [0000013A9564BC00][0000013A8AEEA1C0 49] iPhone6SPlus, [0000013A95624300][0000013A8AEEE340 49] iPhone7Plus, [0000013A95649800][0000013A8AEF24C0 49] iPhoneSE, [0000013A95627100][0000013A8AEF6640 49] iPhone8, [0000013A95649600][0000013A8AEFA7C0 49] iPhone8Plus, [0000013A95625900][0000013A8AEFE940 49] iPhoneX, [0000013A95648E00][0000013A8AF02AC0 49] iPhoneXS, [0000013A95626300][0000013A8AF06C40 49] iPhoneXSMax, [0000013A9564BD00][0000013A958F6DC0 49] iPhoneXR, [0000013A95625A00][0000013A958FAF40 49] iPhone11, [0000013A9564AD00][0000013A958FF0C0 49] iPhone11Pro, [0000013A95627200][0000013A95903240 49] iPhone11ProMax, [0000013A9564A400][0000013A959073C0 49] iPhoneSE2, [0000013A95624500][0000013A9590B540 49] iPhone12Mini, [0000013A95649100][0000013A9590F6C0 49] iPhone12, [0000013A95626800][0000013A8AEDF800 49] iPhone12Pro, [0000013A95649000][0000013A95913940 49] iPhone12ProMax, [0000013A95624C00][0000013A95917A80 49] iPadPro105, [0000013A95687100][0000013A9591FC00 49] iPadPro129, [0000013A9564A200][0000013A959220C0 49] iPadPro97, [0000013A95684B00][0000013A95926240 49] iPadPro2_129, [0000013A95624F00][0000013A9592A3C0 49] iPad5, [0000013A95684C00][0000013A9592E540 49] iPad6, [0000013A95626B00][0000013A959326C0 49] iPad7, [0000013A95685B00][0000013A95936840 49] iPad8, [0000013A95627B00][0000013A9593A9C0 49] iPadPro11, [0000013A95687600][0000013A9593EB40 49] iPadPro2_11, [0000013A95624600][0000013A95942CC0 49] iPadPro3_129, [0000013A95687000][0000013A95946E40 49] iPadPro4_129, [0000013A95624A00][0000013A9594AFC0 49] AppleTV, [0000013A95686600][0000013A9594F140 49] AppleTV4K, [0000013A95625600][0000013A959532C0 49] TVOS, [0000013A95684800][0000013A95957440 49] Mac, [0000013A95626F00][0000013A9595B5C0 49] MacClient, [0000013A95684500][0000013A9595F740 49] MacNoEditor, [0000013A95624B00][0000013A9591B880 49] MacServer, [0000013A95686500][0000013A959639C0 49] Linux, [0000013A95625E00][0000013A95967B00 49] LinuxNoEditor, [0000013A95686900][0000013A9596BC40 49] LinuxAArch64NoEditor, [0000013A95625B00][0000013A95972100 49] LinuxClient, [0000013A95684200][0000013A95976280 49] LinuxAArch64Client, [0000013A95626900][0000013A9597A400 49] LinuxServer, [0000013A95687900][0000013A9597E580 49] LinuxAArch64Server, [0000013A95625500][0000013A95982700 49] Android, [0000013A95684900][0000013A95986880 49] Android_Low, [0000013A95627800][0000013A9598AA00 49] Android_Mid, [0000013A95685F00][0000013A9598EB80 49] Android_High, [0000013A95626200][0000013A95992D00 49] Android_Default, [0000013A95686E00][0000013A95996E80 49] Android_Adreno4xx, [0000013A95625800][0000013A9599B000 49] Android_Adreno5xx_Low, [0000013A95686A00][0000013A9599F180 49] Android_Adreno5xx, [0000013A95624E00][0000013A959A3300 49] Android_Adreno6xx, [0000013A95685600][0000013A959A7480 49] Android_Adreno6xx_Vulkan, [0000013A95627C00][0000013A959AB600 49] Android_Mali_T6xx, [0000013A95686100][0000013A959AF780 49] Android_Mali_T7xx, [0000013A95625700][0000013A9596F8C0 49] Android_Mali_T8xx, [0000013A95686400][0000013A959B3A00 49] Android_Mali_G71, [0000013A95626C00][0000013A959B7B40 49] Android_Mali_G72, [0000013A95687A00][0000013A959BBC80 49] Android_Mali_G72_Vulkan, [0000013A95626000][0000013A959C2140 49] Android_Mali_G76, [0000013A95686800][0000013A959C62C0 49] Android_Mali_G76_Vulkan, [0000013A95627D00][0000013A959CA440 49] Android_Mali_G77, [0000013A95684E00][0000013A959CE5C0 49] Android_Mali_G77_Vulkan, [0000013A95624100][0000013A959D2740 49] Android_Vulkan_SM5, [0000013A95685000][0000013A959D68C0 49] Android_PowerVR_G6xxx, [0000013A95626100][0000013A959DAA40 49] Android_PowerVR_GT7xxx, [0000013A955E5E00][0000013A959DEBC0 49] Android_PowerVR_GE8xxx, [0000013A9564BF00][0000013A959E2D40 49] Android_PowerVR_GM9xxx, [0000013A955E4600][0000013A959E6EC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000013A9564AA00][0000013A959EB040 49] Android_TegraK1, [0000013A955E5A00][0000013A959EF1C0 49] Android_Unknown_Vulkan, [0000013A95649C00][0000013A959F3340 49] Lumin, [0000013A955E5500][0000013A959F74C0 49] Lumin_Desktop, [0000013A9564A100][0000013A959FB640 49] HoloLens, 
+[2021.02.14-21.40.01:037][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.14-21.40.01:037][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.14-21.40.01:037][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.14-21.40.01:037][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.14-21.40.01:037][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.14-21.40.01:060][  0]LogNetVersion: VFXSHOWROOM 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 123229168)
+[2021.02.14-21.40.01:572][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.02.14-21.40.01:632][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.060034 seconds
+[2021.02.14-21.40.01:638][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.02.14-21.40.01:638][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.02.14-21.40.01:638][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.14-21.40.02:018][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.14-21.40.02:025][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.14-21.40.02:103][  0]SourceControl: Source control is disabled
+[2021.02.14-21.40.02:711][  0]LogUProjectInfo: Found projects:
+[2021.02.14-21.40.02:961][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.14-21.40.02:979][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.14-21.40.02:979][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.14-21.40.03:023][  0]LogCollectionManager: Loaded 0 collections in 0.000785 seconds
+[2021.02.14-21.40.03:044][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Saved/Collections/' took 0.00s
+[2021.02.14-21.40.03:044][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/Developers/Gameolic3/Collections/' took 0.00s
+[2021.02.14-21.40.03:044][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/Collections/' took 0.00s
+[2021.02.14-21.40.03:044][  0]LogOcInput: OculusInput pre-init called
+[2021.02.14-21.40.03:053][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.14-21.40.03:053][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.14-21.40.03:102][  0]LogEngine: Initializing Engine...
+[2021.02.14-21.40.03:104][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.14-21.40.03:104][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.14-21.40.03:104][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.14-21.40.03:222][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.14-21.40.03:230][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.14-21.40.03:251][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.02.14-21.40.03:257][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.02.14-21.40.03:257][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.02.14-21.40.03:257][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.14-21.40.03:257][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.14-21.40.03:257][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.14-21.40.03:257][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.14-21.40.03:257][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.14-21.40.03:257][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.14-21.40.03:257][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.14-21.40.03:257][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.14-21.40.03:257][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.14-21.40.03:257][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.14-21.40.03:275][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.14-21.40.03:275][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.14-21.40.03:410][  0]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.02.14-21.40.03:417][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.14-21.40.03:419][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.14-21.40.03:419][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.14-21.40.03:420][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.14-21.40.03:420][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.14-21.40.03:420][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.14-21.40.03:421][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.14-21.40.03:421][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.14-21.40.03:421][  0]LogInit: FAudioDevice initialized.
+[2021.02.14-21.40.03:422][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.02.14-21.40.03:422][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.14-21.40.03:568][  0]LogDerivedDataCache: Saved boot cache 0.15s 77MB C:/Users/Gameolic3/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.14-21.40.03:568][  0]LogInit: Texture streaming: Enabled
+[2021.02.14-21.40.03:588][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.02.14-21.40.03:593][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.14-21.40.03:593][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={79CBCD02-430C-CF34-52DA-50A6BA3F44AD}
+[2021.02.14-21.40.03:593][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.14-21.40.03:596][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.14-21.40.03:641][  0]LogInit: Transaction tracking system initialized
+[2021.02.14-21.40.03:661][  0]BlueprintLog: New page: Editor Load
+[2021.02.14-21.40.03:724][  0]LocalizationService: Localization service is disabled
+[2021.02.14-21.40.03:747][  0]TimingProfiler: Initialize
+[2021.02.14-21.40.03:747][  0]TimingProfiler: OnSessionChanged
+[2021.02.14-21.40.03:747][  0]LoadingProfiler: Initialize
+[2021.02.14-21.40.03:747][  0]LoadingProfiler: OnSessionChanged
+[2021.02.14-21.40.03:747][  0]NetworkingProfiler: Initialize
+[2021.02.14-21.40.03:747][  0]NetworkingProfiler: OnSessionChanged
+[2021.02.14-21.40.03:747][  0]MemoryProfiler: Initialize
+[2021.02.14-21.40.03:747][  0]MemoryProfiler: OnSessionChanged
+[2021.02.14-21.40.03:898][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.02.14-21.40.03:898][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.14-21.40.04:082][  0]LogFileCache: Scanning file cache for directory 'D:/_DATA/Unreal Projects/VFXShowRoom/Content/' took 0.00s
+[2021.02.14-21.40.04:312][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.239
+[2021.02.14-21.40.04:312][  0]Cmd: MAP LOAD FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/BlazingHope_Ultimate_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.14-21.40.04:312][  0]LightingResults: New page: Lighting Build
+[2021.02.14-21.40.04:313][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-21.40.04:313][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-21.40.04:313][  0]MapCheck: New page: Map Check
+[2021.02.14-21.40.04:313][  0]LightingResults: New page: Lighting Build
+[2021.02.14-21.40.04:321][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.02.14-21.40.05:324][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'BlazingHope_Ultimate_Map'.
+[2021.02.14-21.40.05:325][  0]LogAIModule: Creating AISystem for world BlazingHope_Ultimate_Map
+[2021.02.14-21.40.05:334][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.14-21.40.05:355][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.02.14-21.40.05:359][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.14-21.40.05:359][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2021.02.14-21.40.05:360][  0]LogFileHelpers: Loading map 'BlazingHope_Ultimate_Map' took 1.048
+[2021.02.14-21.40.05:362][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.289
+[2021.02.14-21.40.05:522][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-21.40.05:530][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-21.40.05:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-21.40.05:546][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.14-21.40.05:568][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0141 seconds. Added 3602 classes and 862 folders.
+[2021.02.14-21.40.05:572][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.14-21.40.05:574][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.14-21.40.05:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.14-21.40.05:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.02.14-21.40.05:574][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.14-21.40.05:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.14-21.40.05:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.02.14-21.40.05:575][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.02.14-21.40.05:575][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:575][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.02.14-21.40.05:575][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.02.14-21.40.05:575][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.14-21.40.05:575][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:575][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.14-21.40.05:575][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.02.14-21.40.05:576][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.14-21.40.05:576][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:576][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.14-21.40.05:576][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.02.14-21.40.05:576][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.14-21.40.05:576][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:576][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.14-21.40.05:576][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.02.14-21.40.05:577][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.14-21.40.05:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.14-21.40.05:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.02.14-21.40.05:577][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.14-21.40.05:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.14-21.40.05:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.02.14-21.40.05:578][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.14-21.40.05:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.14-21.40.05:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.02.14-21.40.05:578][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.14-21.40.05:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.14-21.40.05:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.02.14-21.40.05:579][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.14-21.40.05:579][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:579][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.14-21.40.05:579][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.02.14-21.40.05:579][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.14-21.40.05:579][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:579][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.14-21.40.05:579][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.02.14-21.40.05:580][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.14-21.40.05:580][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:580][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.14-21.40.05:580][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.02.14-21.40.05:581][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.14-21.40.05:581][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:581][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.14-21.40.05:581][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.02.14-21.40.05:582][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.14-21.40.05:582][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:582][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.14-21.40.05:582][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.02.14-21.40.05:583][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.14-21.40.05:583][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:583][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.14-21.40.05:583][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.02.14-21.40.05:584][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.14-21.40.05:584][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:584][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.14-21.40.05:584][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.02.14-21.40.05:585][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.14-21.40.05:585][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:585][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.14-21.40.05:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.02.14-21.40.05:586][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.14-21.40.05:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.14-21.40.05:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.02.14-21.40.05:587][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.14-21.40.05:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.14-21.40.05:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.02.14-21.40.05:588][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.14-21.40.05:588][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.14-21.40.05:588][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.02.14-21.40.05:589][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.14-21.40.05:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.14-21.40.05:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.02.14-21.40.05:589][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.02.14-21.40.05:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.02.14-21.40.05:590][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.02.14-21.40.05:590][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.14-21.40.05:591][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:591][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.14-21.40.05:591][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.02.14-21.40.05:591][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.14-21.40.05:591][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:591][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.14-21.40.05:591][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.02.14-21.40.05:592][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.14-21.40.05:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.14-21.40.05:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.14-21.40.05:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.02.14-21.40.05:630][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.14-21.40.05:633][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.02.14-21.40.05:684][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.14-21.40.05:687][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.14-21.40.05:692][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.14-21.40.05:834][  0]LogRenderer: Reallocating scene render targets to support 1296x572 Format 10 NumSamples 1 (Frame:1).
+[2021.02.14-21.40.05:977][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.14-21.40.05:977][  0]LogLoad: (Engine Initialization) Total time: 8.90 seconds
+[2021.02.14-21.40.05:977][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.14-21.40.05:977][  0]LogInit: First time updating LLM stats...
+[2021.02.14-21.40.06:027][  0]LogAssetRegistry: Asset discovery search completed in 5.3862 seconds
+[2021.02.14-21.40.06:029][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.02.14-21.40.06:088][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.14-21.40.06:215][  2]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.14-21.40.07:016][ 50]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.14-21.40.13:295][402]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/ShowRoom/BlazingHopeUltimate/FXs/lightnig.lightnig
+[2021.02.14-21.40.14:008][402]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ShowRoom/BlazingHopeUltimate/M_ElectricityMaster.M_ElectricityMaster
+[2021.02.14-21.40.14:009][402]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0006 seconds. Added 3 classes and 0 folders.
+[2021.02.14-21.40.14:013][402]LogMaterial: Display: Missing cached shader map for material M_ElectricityMaster, compiling. 
+[2021.02.14-21.40.14:214][402]LogMaterial: Display: Missing cached shader map for material M_ElectricityMaster, compiling. 
+[2021.02.14-21.40.14:231][402]LogMaterial: Display: Missing cached shader map for material M_ElectricityMaster, compiling. 
+[2021.02.14-21.40.14:251][402]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.02.14-21.40.14:251][402]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.02.14-21.40.14:251][402]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.02.14-21.40.14:251][402]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.02.14-21.40.14:257][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.02.14-21.40.14:261][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.02.14-21.40.14:265][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2021.02.14-21.40.14:270][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.02.14-21.40.14:274][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.02.14-21.40.14:278][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.02.14-21.40.14:343][402]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_Lightning.MIC_Lightning
+[2021.02.14-21.40.14:826][402]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2021.02.14-21.40.14:833][402]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.14-21.40.14:931][402]LogRenderer: Reallocating scene render targets to support 1296x920 Format 10 NumSamples 1 (Frame:1).
+[2021.02.14-21.40.15:062][403]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2021.02.14-21.40.15:062][403]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.14-21.40.15:224][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2021.02.14-21.40.15:461][410]37096_lightnig_MessageLog: System successfully compiled.
+[2021.02.14-21.40.15:491][412]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2021.02.14-21.40.15:491][412]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2021.02.14-21.40.15:614][414]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2021.02.14-21.40.15:816][422]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2021.02.14-21.40.16:135][438]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2021.02.14-21.40.16:407][453]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2021.02.14-21.40.16:581][463]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2021.02.14-21.40.16:791][475]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2021.02.14-21.40.16:905][481]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2021.02.14-21.40.17:222][496]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2021.02.14-21.40.18:064][532]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2021.02.14-21.40.18:074][532]LogSlate: Window 'M_ElectricityMaster' being destroyed
+[2021.02.14-21.40.18:185][539]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2021.02.14-21.40.18:185][539]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2021.02.14-21.40.18:317][547]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.02.14-21.40.18:787][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.02.14-21.40.19:063][589]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.02.14-21.40.19:081][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.02.14-21.40.19:081][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.02.14-21.40.19:530][617]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.02.14-21.40.19:647][624]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.02.14-21.40.19:665][625]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.02.14-21.40.19:957][642]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.02.14-21.40.20:020][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.02.14-21.40.20:129][652]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.02.14-21.40.20:129][652]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.02.14-21.40.20:129][652]MaterialEditorStats: Base pass vertex shader: 200 instructions
+[2021.02.14-21.40.20:129][652]MaterialEditorStats: Texture samplers: 4/16
+[2021.02.14-21.40.20:129][652]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.02.14-21.40.20:129][652]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.02.14-21.40.20:138][652]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.02.14-21.40.20:138][652]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.14-21.40.20:271][661]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.02.14-21.40.20:487][674]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.02.14-21.40.20:521][676]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.02.14-21.40.20:602][681]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.02.14-21.40.20:838][694]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.02.14-21.40.21:049][707]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.02.14-21.40.21:132][712]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.02.14-21.40.21:132][712]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.02.14-21.40.21:403][728]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.02.14-21.40.21:599][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.02.14-21.40.21:599][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.02.14-21.40.21:614][741]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.02.14-21.40.21:953][761]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.02.14-21.40.22:100][770]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.02.14-21.40.22:115][771]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.02.14-21.40.51:829][431]LogSlate: Window 'New Level' being destroyed
+[2021.02.14-21.40.51:838][431]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.14-21.40.51:864][431]LightingResults: New page: Lighting Build
+[2021.02.14-21.40.51:864][431]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.02.14-21.40.51:866][431]LogWorld: UWorld::CleanupWorld for BlazingHope_Ultimate_Map, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-21.40.51:866][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-21.40.51:866][431]MapCheck: New page: Map Check
+[2021.02.14-21.40.51:866][431]LightingResults: New page: Lighting Build
+[2021.02.14-21.40.51:876][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.14-21.40.51:879][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.02.14-21.40.51:955][431]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.02.14-21.40.51:965][431]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.02.14-21.40.51:967][431]LogAIModule: Creating AISystem for world Untitled_1
+[2021.02.14-21.40.51:969][431]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.14-21.40.51:985][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.02.14-21.40.52:012][431]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.14-21.40.52:012][431]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2021.02.14-21.40.52:013][431]LogFileHelpers: Loading map 'Template_Default' took 0.175
+[2021.02.14-21.40.55:429][620]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/_DATA/Unreal Projects/VFXShowRoom'
+[2021.02.14-21.41.04:244][140]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-21.41.04:244][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-21.41.37:485][ 93]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/lightnig14EEA46D4076E29D2E3AA1B0CCCB6730.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/FXs/lightnig.uasset'
+[2021.02.14-21.41.37:502][ 93]AssetCheck: New page: Asset Save: lightnig
+[2021.02.14-21.41.37:502][ 93]LogContentValidation: Display: Validating NiagaraSystem /Game/ShowRoom/BlazingHopeUltimate/FXs/lightnig.lightnig
+[2021.02.14-21.41.38:202][131]LogNiagaraEditor: Warning: Cleanup System view model 0000013AC78B3910
+[2021.02.14-21.41.38:229][131]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-21.41.38:230][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-21.41.38:244][131]LogNiagaraEditor: Warning: Cleanup System view model 0000013AC78B3910
+[2021.02.14-21.41.38:244][131]LogNiagaraEditor: Warning: Deleting System view model 0000013AC78B3910
+[2021.02.14-21.41.38:297][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.02.14-21.41.40:537][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.02.14-21.41.40:544][249]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.02.14-21.41.40:956][249]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.02.14-21.41.40:956][249]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.02.14-21.41.40:962][249]TextureStreamingBuild: Display: Compiling optional shaders took 0.424 seconds.
+[2021.02.14-21.41.40:972][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.02.14-21.41.40:978][249]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_Lightning0B2D5F9340CA80D5B20B3E910ACB850C.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_Lightning.uasset'
+[2021.02.14-21.41.40:992][249]AssetCheck: New page: Asset Save: MIC_Lightning
+[2021.02.14-21.41.40:992][249]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_Lightning.MIC_Lightning
+[2021.02.14-21.41.42:433][321]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.14-21.41.42:433][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.14-21.41.57:412][215]Cmd: DELETE
+[2021.02.14-21.41.57:412][215]Cmd: ACTOR DELETE
+[2021.02.14-21.41.57:414][215]LogEditorActor: Deleted Actor: NiagaraActor
+[2021.02.14-21.41.57:423][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.02.14-21.41.57:425][215]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.02.14-21.43.08:772][299]LogActorFactory: Actor Factory created MDL_Circle
+[2021.02.14-21.43.10:008][371]LogActorFactory: Actor Factory created MDL_Circle
+[2021.02.14-21.49.03:419][552]Cmd: DELETE
+[2021.02.14-21.49.03:419][552]Cmd: ACTOR DELETE
+[2021.02.14-21.49.03:421][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.14-21.49.03:431][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.02.14-21.49.03:434][552]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.02.14-21.49.12:654][ 34]LogStaticMesh: Building static mesh MDL_Pillars...
+[2021.02.14-21.49.12:657][ 34]LogStaticMesh: Built static mesh [0.00s] /Game/ShowRoom/BlazingHopeUltimate/MDL_Pillars.MDL_Pillars
+[2021.02.14-21.49.12:931][ 34]LogTexture: Display: Building textures: T_Hex_01 (AutoDXT, 512X512)
+[2021.02.14-21.49.12:931][ 34]LogTexture: Display: Building textures: T_Hex_id (AutoDXT, 512X512)
+[2021.02.14-21.49.14:712][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/Blazinghope_sequence826445404AE7840560C6ED92AA71CAEF.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Blazinghope_sequence.uasset'
+[2021.02.14-21.49.14:739][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.02.14-21.49.14:751][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/BlazingHope_Ultimate_MapEE542DF149FEF69241AA50ADAF3D3146.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/BlazingHope_Ultimate_Map.umap'
+[2021.02.14-21.49.14:755][ 98]LogFileHelpers: Saving map 'BlazingHope_Ultimate_Map' took 0.027
+[2021.02.14-21.49.14:800][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/BlazingHope_Ultimate_Map_BuiltDa1996B3EA49436C287F05F4A4D2CF9A3D.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/BlazingHope_Ultimate_Map_BuiltData.uasset'
+[2021.02.14-21.49.14:850][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/BP_BlazingHope3BE87F434802E535765BA6A19DC40827.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/BP_BlazingHope.uasset'
+[2021.02.14-21.49.14:904][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/M_ElectricityMasterB72F11F54611DE1814F6CBBE77E53F85.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/M_ElectricityMaster.uasset'
+[2021.02.14-21.49.14:948][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/M_ErodeMask" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/M_ErodeMask.uasset" SILENT=true
+[2021.02.14-21.49.14:962][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/M_ErodeMask9903521F498CD6DB5E89FBA246797C02.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/M_ErodeMask.uasset'
+[2021.02.14-21.49.15:011][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Building9F39D86947B4E03E558C4286CC7AAFD0.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Building.uasset'
+[2021.02.14-21.49.15:059][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Cylinder_Gen729A03564EDB40C27C8A8E832DB5E41A.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Cylinder_Gen.uasset'
+[2021.02.14-21.49.15:100][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/MAT_Ground" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Ground.uasset" SILENT=true
+[2021.02.14-21.49.15:113][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Ground2F9DC1784DA2948C7FB5B58E5C3FE184.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Ground.uasset'
+[2021.02.14-21.49.15:154][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/MAT_Hexagon" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Hexagon.uasset" SILENT=true
+[2021.02.14-21.49.15:164][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Hexagon8A1CF8234C06DCDF35D111BFFB8B098D.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Hexagon.uasset'
+[2021.02.14-21.49.15:210][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_LonginusLanceE98AED374829B24AF8F500BAD697BD3F.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_LonginusLance.uasset'
+[2021.02.14-21.49.15:255][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_MiniSpear_032AE817534A8F3B888DCE8D994E828612.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_03.uasset'
+[2021.02.14-21.49.15:302][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_MiniSpear_ColorEBFA3F54495D448C115458A38AB77926.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_Color.uasset'
+[2021.02.14-21.49.15:350][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_MiniSpear_Outline2393C11E4E5D3972EA589497B874CAA7.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_Outline.uasset'
+[2021.02.14-21.49.15:386][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/MAT_Muzzle" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Muzzle.uasset" SILENT=true
+[2021.02.14-21.49.15:392][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_MuzzleF2A1E74C43AC9165E36CEEAD2A7662B6.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Muzzle.uasset'
+[2021.02.14-21.49.15:437][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_WarningCube8C42A6614C5BA3400AC967AEC53FBB56.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_WarningCube.uasset'
+[2021.02.14-21.49.15:482][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_Building_StaticMeshB5F20F374326F8D7B80EC5A409580990.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Building_StaticMesh.uasset'
+[2021.02.14-21.49.15:520][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/MDL_Circle" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Circle.uasset" SILENT=true
+[2021.02.14-21.49.15:530][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_Circle171799274F5B38FEA9A7C2AAE7CABD3E.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Circle.uasset'
+[2021.02.14-21.49.15:579][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_Cylinder4A8685CF461DC1114B27FDA57C2FF271.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Cylinder.uasset'
+[2021.02.14-21.49.15:626][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_Cynlinder03AD729E4BA2B4380522A68348690F79.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Cynlinder.uasset'
+[2021.02.14-21.49.15:672][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_ElectricityA98C8FD645C9EDB6595D82A2B457D42C.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Electricity.uasset'
+[2021.02.14-21.49.15:736][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_FX_Spear2938CD2F48C6133FC9C3F8865E2B24D1.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_FX_Spear.uasset'
+[2021.02.14-21.49.15:830][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_HexagonSky_MDL_HexagonSkyB3714C1A4A0AC141661944970BA1D5C6.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_HexagonSky_MDL_HexagonSky.uasset'
+[2021.02.14-21.49.15:989][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_LonginusLance_MDL_LonginusLaD8065FDE4915CC8A5791DC83400CD558.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_LonginusLance_MDL_LonginusLance.uasset'
+[2021.02.14-21.49.16:047][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_MiniSpear9F6ED33640A29FA5DD50AD99D46BD13C.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_MiniSpear.uasset'
+[2021.02.14-21.49.16:086][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/MDL_Muzzle" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Muzzle.uasset" SILENT=true
+[2021.02.14-21.49.16:093][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_MuzzleDA81FDAB48D02376D360E19DCDCDB41D.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Muzzle.uasset'
+[2021.02.14-21.49.16:141][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/MDL_Pillars" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Pillars.uasset" SILENT=true
+[2021.02.14-21.49.16:161][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_Pillars065479AD41DFF2E26700BA84D768863A.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Pillars.uasset'
+[2021.02.14-21.49.16:216][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_Smoke_HalfCylinder_MDL_SmokeECCAB05F4A59C2A372D57CB986AF9F0C.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Smoke_HalfCylinder_MDL_Smoke_HalfCylinder.uasset'
+[2021.02.14-21.49.16:285][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_Spear_MDL_Spear63A98FF647529D7680D5F888A17168BD.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_Spear_MDL_Spear.uasset'
+[2021.02.14-21.49.16:332][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MDL_WarningCubeC75BAF0249869A66A23B899E5BFEFF9D.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MDL_WarningCube.uasset'
+[2021.02.14-21.49.16:379][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_BIGSpear_CirclesE57D1D584FDDF3525F9948A74F933556.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_BIGSpear_Circles.uasset'
+[2021.02.14-21.49.16:425][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_BigSpear_SmokeADC5614C4865288A5D58A7B86CDC5887.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_BigSpear_Smoke.uasset'
+[2021.02.14-21.49.16:472][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_BigSpear_SplashC80EAC3A47FBC3CC5FFBD8AC0FF0F572.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_BigSpear_Splash.uasset'
+[2021.02.14-21.49.16:517][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_CylinderInitialStartF26A51984387C5B490C7A6A116A7DC73.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_CylinderInitialStart.uasset'
+[2021.02.14-21.49.16:562][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_DefaultBlur1E700AC84985BCC5116AF091D42087EB.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_DefaultBlur.uasset'
+[2021.02.14-21.49.16:601][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/MIC_Embers" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_Embers.uasset" SILENT=true
+[2021.02.14-21.49.16:608][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_Embers7DE6E7134CF01CD47CDA3ABA0B325011.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_Embers.uasset'
+[2021.02.14-21.49.16:654][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_GroundHexagonA00C97A44AC6553101F5EBB8960B5F30.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_GroundHexagon.uasset'
+[2021.02.14-21.49.16:702][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_Hexagon_SkyE7AAB10E4B3158358F358392B95AC006.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_Hexagon_Sky.uasset'
+[2021.02.14-21.49.16:744][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_HexagonEmbers9B36336D48657B788760ADA1D927C193.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_HexagonEmbers.uasset'
+[2021.02.14-21.49.16:748][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_LightningCA70DAD44F02AD90872F55AE30827FC3.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_Lightning.uasset'
+[2021.02.14-21.49.16:792][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_MiniSpear01CF90ACD9489B67E759123FAF1AA0074A.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_MiniSpear01.uasset'
+[2021.02.14-21.49.16:837][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_MiniSpear_022760101A4441E1C463312E9B57811C0E.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_MiniSpear_02.uasset'
+[2021.02.14-21.49.16:881][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_MiniSpearHexagonD7E1155148E1CC9A2FCA639B3C4D52E2.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_MiniSpearHexagon.uasset'
+[2021.02.14-21.49.16:926][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_SpearDecal_BlurD9A51E6A43FFE5ED764F53A2CCAF37FC.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_SpearDecal_Blur.uasset'
+[2021.02.14-21.49.16:971][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_SpearDecal_GlowA3ED1D3A4ABE0F1BB530CBA3E780A615.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_SpearDecal_Glow.uasset'
+[2021.02.14-21.49.17:013][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_SpearGlow9F61A9F44231713D69E290B0D31F104E.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_SpearGlow.uasset'
+[2021.02.14-21.49.17:058][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_SpearTrail7F33187F418754B9CFEB658B9E63A281.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_SpearTrail.uasset'
+[2021.02.14-21.49.17:080][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/T_BlazingEmbersA77ECE6143A4127578307EB7D0CDA8CE.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_BlazingEmbers.uasset'
+[2021.02.14-21.49.17:110][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/T_GenCylinders159DBB734D5FDD8CB3AD2997BA21BC5E.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_GenCylinders.uasset'
+[2021.02.14-21.49.17:141][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/T_GroundCracks016C299F41221B2816C034B5AD5651E1.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_GroundCracks.uasset'
+[2021.02.14-21.49.17:151][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/T_Hex_01" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_Hex_01.uasset" SILENT=true
+[2021.02.14-21.49.17:154][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/T_Hex_015E83DED843C64C9C465A18A31A9EF68C.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_Hex_01.uasset'
+[2021.02.14-21.49.17:161][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/T_Hex_3size" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_Hex_3size.uasset" SILENT=true
+[2021.02.14-21.49.17:165][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/T_Hex_3size0A35A7484186AD7B52B995871EA6A0FC.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_Hex_3size.uasset'
+[2021.02.14-21.49.17:174][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/T_Hex_id" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_Hex_id.uasset" SILENT=true
+[2021.02.14-21.49.17:184][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/T_Hex_idC98C34DB4FE2E7AEF4CE5CAA8A062D2C.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_Hex_id.uasset'
+[2021.02.14-21.49.17:188][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/T_Lightning" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_Lightning.uasset" SILENT=true
+[2021.02.14-21.49.17:194][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/T_Lightning5F55C47F4FCF7B895DE3FEB3971552FA.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_Lightning.uasset'
+[2021.02.14-21.49.17:202][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/T_Muzzle" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_Muzzle.uasset" SILENT=true
+[2021.02.14-21.49.17:234][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/T_Muzzle2ADD585D4721C9920CE6329423EAD9FB.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_Muzzle.uasset'
+[2021.02.14-21.49.17:248][ 98]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/T_WarningCube1063C758429CBC8649914B9D9ADD494C.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/T_WarningCube.uasset'
+[2021.02.14-21.49.20:029][ 98]LogSlate: Window 'Submit Files' being destroyed
+[2021.02.14-21.49.22:539][ 98]LogSlate: Window 'Message' being destroyed
+[2021.02.14-21.49.22:547][ 98]Message dialog closed, result: Ok, title: Message, text: Check-in failed as a result of save failure.
+[2021.02.14-21.49.22:559][ 98]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.14-21.49.22:559][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_DefaultBlur.MIC_DefaultBlur
+[2021.02.14-21.49.22:559][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_Muzzle.MAT_Muzzle
+[2021.02.14-21.49.22:559][ 98]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/BlazingHopeUltimate/T_Muzzle.T_Muzzle
+[2021.02.14-21.49.22:559][ 98]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/BlazingHopeUltimate/T_BlazingEmbers.T_BlazingEmbers
+[2021.02.14-21.49.22:559][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_Embers.MIC_Embers
+[2021.02.14-21.49.22:559][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_HexagonEmbers.MIC_HexagonEmbers
+[2021.02.14-21.49.22:559][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_Color.MAT_MiniSpear_Color
+[2021.02.14-21.49.22:559][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_MiniSpear01.MIC_MiniSpear01
+[2021.02.14-21.49.22:559][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_Outline.MAT_MiniSpear_Outline
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_MiniSpear_02.MIC_MiniSpear_02
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_Ground.MAT_Ground
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/BlazingHopeUltimate/T_Hex_3size.T_Hex_3size
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_MiniSpearHexagon.MIC_MiniSpearHexagon
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/BlazingHopeUltimate/T_GroundCracks.T_GroundCracks
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_SpearDecal_Blur.MIC_SpearDecal_Blur
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_SpearDecal_Glow.MIC_SpearDecal_Glow
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_Circle.MDL_Circle
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_MiniSpear.MDL_MiniSpear
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_Muzzle.MDL_Muzzle
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/BlazingHopeUltimate/T_WarningCube.T_WarningCube
+[2021.02.14-21.49.22:560][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_WarningCube.MAT_WarningCube
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_Cylinder_Gen.MAT_Cylinder_Gen
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_CylinderInitialStart.MIC_CylinderInitialStart
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_GroundHexagon.MIC_GroundHexagon
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_Cylinder.MDL_Cylinder
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_WarningCube.MDL_WarningCube
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_LonginusLance.MAT_LonginusLance
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating Blueprint /Game/ShowRoom/BlazingHopeUltimate/BP_BlazingHope.BP_BlazingHope
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating LevelSequence /Game/ShowRoom/BlazingHopeUltimate/Blazinghope_sequence.Blazinghope_sequence
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_Hexagon.MAT_Hexagon
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_Hexagon_Sky.MIC_Hexagon_Sky
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_Building.MAT_Building
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_Building_StaticMesh.MDL_Building_StaticMesh
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_HexagonSky_MDL_HexagonSky.MDL_HexagonSky_MDL_HexagonSky
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/M_ElectricityMaster.M_ElectricityMaster
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/BlazingHopeUltimate/T_Lightning.T_Lightning
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_Lightning.MIC_Lightning
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_Electricity.MDL_Electricity
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/BlazingHopeUltimate/T_Hex_id.T_Hex_id
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/BlazingHopeUltimate/T_Hex_01.T_Hex_01
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_SpearTrail.MIC_SpearTrail
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_SpearGlow.MIC_SpearGlow
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_BigSpear_Splash.MIC_BigSpear_Splash
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_BigSpear_Smoke.MIC_BigSpear_Smoke
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_BIGSpear_Circles.MIC_BIGSpear_Circles
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating Texture2D /Game/ShowRoom/BlazingHopeUltimate/T_GenCylinders.T_GenCylinders
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_Spear_MDL_Spear.MDL_Spear_MDL_Spear
+[2021.02.14-21.49.22:561][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_Smoke_HalfCylinder_MDL_Smoke_HalfCylinder.MDL_Smoke_HalfCylinder_MDL_Smoke_HalfCylinder
+[2021.02.14-21.49.22:562][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_Pillars.MDL_Pillars
+[2021.02.14-21.49.22:562][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_LonginusLance_MDL_LonginusLance.MDL_LonginusLance_MDL_LonginusLance
+[2021.02.14-21.49.22:562][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_FX_Spear.MDL_FX_Spear
+[2021.02.14-21.49.22:562][ 98]LogContentValidation: Display: Validating StaticMesh /Game/ShowRoom/BlazingHopeUltimate/MDL_Cynlinder.MDL_Cynlinder
+[2021.02.14-21.49.22:562][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_03.MAT_MiniSpear_03
+[2021.02.14-21.49.22:562][ 98]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/M_ErodeMask.M_ErodeMask
+[2021.02.14-21.49.22:562][ 98]LogContentValidation: Display: Validating World /Game/ShowRoom/BlazingHopeUltimate/BlazingHope_Ultimate_Map.BlazingHope_Ultimate_Map
+[2021.02.14-21.49.22:562][ 98]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ShowRoom/BlazingHopeUltimate/BlazingHope_Ultimate_Map_BuiltData.BlazingHope_Ultimate_Map_BuiltData
+[2021.02.14-21.49.39:909][905]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_ElectricityMasterEBDDAE674526ACC0F73A2A83C636FB35.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_ElectricityMaster.uasset'
+[2021.02.14-21.49.40:679][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.02.14-21.49.40:697][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.02.14-21.49.40:703][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.02.14-21.49.40:964][905]SourceControl: rm 'Content/ShowRoom/BlazingHopeUltimate/M_ElectricityMaster.uasset'
+[2021.02.14-21.49.41:136][905]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_Lightning66EAF0C2421C11ED9327B5AB7E1116D4.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_Lightning.uasset'
+[2021.02.14-21.49.41:193][905]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.14-21.49.41:193][905]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_ElectricityMaster.MAT_ElectricityMaster
+[2021.02.14-21.49.41:193][905]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_Lightning.MIC_Lightning
+[2021.02.14-21.49.49:861][299]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_ErodeMaskB864CB364C44B5DDC32DCBB1EC93BBE3.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_ErodeMask.uasset'
+[2021.02.14-21.49.50:162][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/M_ErodeMask" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/M_ErodeMask.uasset" SILENT=true
+[2021.02.14-21.49.50:163][299]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/M_ErodeMask838CBA9D4B68F9A88FD503883445582B.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/M_ErodeMask.uasset'
+[2021.02.14-21.49.50:609][299]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.14-21.49.50:609][299]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/M_ErodeMask.M_ErodeMask
+[2021.02.14-21.49.50:609][299]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/MAT_ErodeMask.MAT_ErodeMask
+[2021.02.14-21.50.02:217][728]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.02.14-21.50.02:579][728]LogRHI: Error: Present Fail Count 1
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SyncInterval 0
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.BufferDesc.Width 648
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.BufferDesc.Height 97
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003C04A6
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.02.14-21.50.02:579][728]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.02.14-21.50.03:746][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_BuildingF88733824659D048097F3ABD5166369D.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_Building.uasset'
+[2021.02.14-21.50.04:601][728]LogRHI: Error: Present Fail Count 1
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SyncInterval 0
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.BufferDesc.Width 532
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.BufferDesc.Height 90
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002C003E
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.02.14-21.50.04:601][728]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.02.14-21.50.04:602][728]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.02.14-21.50.05:622][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Building18CAF8CE40FF77942EF3368C1F2D68B7.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Building.uasset'
+[2021.02.14-21.50.05:669][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Cylinder_Gen0B5A37D544EC87441B5ABABDD9D64F4B.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_Cylinder_Gen.uasset'
+[2021.02.14-21.50.06:256][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Cylinder_Gen5EFFF70E4482388D9DA731A48A5F0C49.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Cylinder_Gen.uasset'
+[2021.02.14-21.50.06:321][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_ElectricityMasterDB5BFA6243429FB00EAD74B620A67F00.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_ElectricityMaster.uasset'
+[2021.02.14-21.50.06:710][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_ErodeMask01D137774B1EE1659D6D30BDDDC52E5E.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_ErodeMask.uasset'
+[2021.02.14-21.50.07:121][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_GroundC631729C4461182BFD12839BAE3FC77A.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_Ground.uasset'
+[2021.02.14-21.50.07:425][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/MAT_Ground" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Ground.uasset" SILENT=true
+[2021.02.14-21.50.07:425][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Ground9A3AFAD64E442B354BEA86992ABA4CB0.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Ground.uasset'
+[2021.02.14-21.50.07:479][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Hexagon2E464CA44256D725D49B69BA96C88946.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_Hexagon.uasset'
+[2021.02.14-21.50.07:786][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/MAT_Hexagon" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Hexagon.uasset" SILENT=true
+[2021.02.14-21.50.07:786][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Hexagon1A7065354BA16B5CCDB6DC9D8446CACD.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Hexagon.uasset'
+[2021.02.14-21.50.07:834][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_LonginusLanceE63C19804FD233C625CC29A786513D15.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_LonginusLance.uasset'
+[2021.02.14-21.50.08:123][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_LonginusLanceC16D8B4947BF37A86EF071A6B0E7AF1F.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_LonginusLance.uasset'
+[2021.02.14-21.50.08:170][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_MiniSpear_03BD397E6640B2F427B1613989EFB01536.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_MiniSpear_03.uasset'
+[2021.02.14-21.50.08:457][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_MiniSpear_03A6569604486D3C097DEA838BB2A2BE6A.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_03.uasset'
+[2021.02.14-21.50.08:506][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_MiniSpear_Color97568CF7425B91B00F3406ACD8004591.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_MiniSpear_Color.uasset'
+[2021.02.14-21.50.08:777][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_MiniSpear_Color8246E4244FF90A3847BA1DAC3BA8C668.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_Color.uasset'
+[2021.02.14-21.50.08:826][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_MiniSpear_Outline757091AE4F74D9429E3B768A67DE7A10.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_MiniSpear_Outline.uasset'
+[2021.02.14-21.50.09:116][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_MiniSpear_OutlineD1DB138F4F365C350588F99E52E37351.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_Outline.uasset'
+[2021.02.14-21.50.09:164][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Muzzle9A445B8A447509C0393629AE39C3E906.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_Muzzle.uasset'
+[2021.02.14-21.50.09:468][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/MAT_Muzzle" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Muzzle.uasset" SILENT=true
+[2021.02.14-21.50.09:469][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_Muzzle8A4191054A300087D62E11A511EE3EB8.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_Muzzle.uasset'
+[2021.02.14-21.50.09:540][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_WarningCubeE179F75A4ADB5A693B85968AD021F380.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/Materials/MAT_WarningCube.uasset'
+[2021.02.14-21.50.09:861][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MAT_WarningCube381797A14C1D861A2C7696AC580C0129.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MAT_WarningCube.uasset'
+[2021.02.14-21.50.15:068][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.02.14-21.50.15:076][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.14-21.50.15:088][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.02.14-21.50.15:095][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.02.14-21.50.15:331][728]SourceControl: rm 'Content/ShowRoom/BlazingHopeUltimate/MAT_ElectricityMaster.uasset'
+[2021.02.14-21.50.15:331][728]SourceControl: rm 'Content/ShowRoom/BlazingHopeUltimate/MAT_ErodeMask.uasset'
+[2021.02.14-21.50.15:516][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/MIC_Lightning7B359521450012B9B0A869A07077E268.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/MIC_Lightning.uasset'
+[2021.02.14-21.50.15:518][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShowRoom/BlazingHopeUltimate/M_ErodeMask" FILE="../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/M_ErodeMask.uasset" SILENT=true
+[2021.02.14-21.50.15:519][728]LogSavePackage: Moving '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Saved/M_ErodeMaskD5CD881A438F7A86CF54C9B8CE6ABD73.tmp' to '../../../../../../_DATA/Unreal Projects/VFXShowRoom/Content/ShowRoom/BlazingHopeUltimate/M_ErodeMask.uasset'
+[2021.02.14-21.50.15:581][728]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_Muzzle.MAT_Muzzle
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_MiniSpear_Color.MAT_MiniSpear_Color
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_MiniSpear_Outline.MAT_MiniSpear_Outline
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_Ground.MAT_Ground
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_WarningCube.MAT_WarningCube
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_Cylinder_Gen.MAT_Cylinder_Gen
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_LonginusLance.MAT_LonginusLance
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_Hexagon.MAT_Hexagon
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_Building.MAT_Building
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/M_ErodeMask.M_ErodeMask
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_ElectricityMaster.MAT_ElectricityMaster
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ShowRoom/BlazingHopeUltimate/MIC_Lightning.MIC_Lightning
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/MAT_WarningCube.MAT_WarningCube
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/MAT_Muzzle.MAT_Muzzle
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_Outline.MAT_MiniSpear_Outline
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_Color.MAT_MiniSpear_Color
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/MAT_MiniSpear_03.MAT_MiniSpear_03
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/MAT_LonginusLance.MAT_LonginusLance
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/MAT_Hexagon.MAT_Hexagon
+[2021.02.14-21.50.15:581][728]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/MAT_Ground.MAT_Ground
+[2021.02.14-21.50.15:582][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_MiniSpear_03.MAT_MiniSpear_03
+[2021.02.14-21.50.15:582][728]LogContentValidation: Display: Validating Material /Game/ShowRoom/BlazingHopeUltimate/Materials/MAT_ErodeMask.MAT_ErodeMask
+[2021.02.14-21.50.15:582][728]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/MAT_Cylinder_Gen.MAT_Cylinder_Gen
+[2021.02.14-21.50.15:582][728]LogContentValidation: Display: Validating ObjectRedirector /Game/ShowRoom/BlazingHopeUltimate/MAT_Building.MAT_Building
+[2021.02.14-21.50.15:612][729]LogRHI: Error: Present Fail Count 1
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SyncInterval 0
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1056
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000E1450
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.02.14-21.50.15:612][729]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.02.14-21.50.22:457][752]LogRHI: Error: Present Fail Count 2
+[2021.02.14-21.50.22:457][752]LogRHI: Error: SyncInterval 0
+[2021.02.14-21.50.22:457][752]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.02.14-21.50.22:457][752]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1056
+[2021.02.14-21.50.22:457][752]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.02.14-21.50.22:457][752]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.02.14-21.50.22:457][752]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.02.14-21.50.22:458][752]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.02.14-21.50.22:458][752]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.02.14-21.50.22:458][752]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.02.14-21.50.22:458][752]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.02.14-21.50.22:458][752]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.02.14-21.50.22:458][752]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.02.14-21.50.22:458][752]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000E1450
+[2021.02.14-21.50.22:458][752]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.02.14-21.50.22:458][752]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.02.14-21.50.22:458][752]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.02.14-21.50.22:603][755]LogRHI: Error: Present Fail Count 3
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SyncInterval 0
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1056
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000E1450
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.02.14-21.50.22:603][755]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.02.14-21.50.22:645][756]LogD3D11RHI: Error: SwapChain->ResizeBuffers(0, SizeX, SizeY, RenderTargetFormat, SwapChainFlags) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:295 
+ with error DXGI_ERROR_DEVICE_REMOVED, 
+ (Size=512x256 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)) -> (Size=512x317 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018))
+[2021.02.14-21.50.22:646][756]LogD3D11RHI: [Aftermath] GDynamicRHI=0000013AF14300C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.02.14-21.50.22:646][756]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.02.14-21.50.22:646][756]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.02.14-21.50.26:050][756]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.02.14-21.50.26:050][756]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.02.14-21.50.26:051][756]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.02.14-21.50.26:051][756]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.02.14-21.50.26:088][756]Log file closed, 02/14/21 23:50:26
